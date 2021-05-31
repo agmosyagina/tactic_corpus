@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/74.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"How Michelle Bernstein rose to the top in a restaurant world dominated by men", "If there's one recipe that really flaunts the vivacious cooking of Michelle Bernstein, it's sofrito. Known for her bold explorations of Latin flavours, the Miami-born chef inherited her particular take on the aromatic sauce &#x2014; which features capsicum, cumin spice, chilli, tomato, saffron and a generous splash of sherry &#x2014; from her late mother. Unsurprisingly for Bernstein, it's a dish that's infused with emotion. But the maternal influence on Bernstein's evocative flavours, which have seen her bloom into one of Florida's most celebrated culinary stars, doesn't end there: "My mother made me fall in love with food from that very first bite," says Bernstein, whose family recipes influence the ones she writes and cooks today. "I find myself cooking more like her every day." To Bernstein, the rich, cross-generational appeal of sofrito also offers insight into the distinctive flavour of the food scene in her native Miami. "Miami truly has its own culture," she offers. "We're a mix of so many different cultures and languages. We're Caribbean, South American, Central American &#x2014; we're an island." That unique fusion of influences and soul defines 'Cafe La Trova', the newest addition to Bernstein's ever-evolving food empire. Located in the Miami's hip Little Havana neighbourhood, it takes its name from a form of musical Cuban storytelling known as trova. Originating from Santiago de Cuba, trova is poetic and affecting &#x2014; quite like Bernstein's cooking. But it's Santiago's streets (circa 1950) that are reimagined in the new restaurant's interior, which, complete with a Miami Vice-era bar, palm trees, tuxedo-clad cantineros and designer cocktails, is an homage to life in Santiago before the rule of Fidel Castro. But long before she became our newest culinary crush, Bernstein had a very different life. For years, she danced as a professional ballerina in New York, before her career on stage was cut short by injury. This is when she switched gears, choosing to become a classically-trained chef instead. She found fame after setting up her own restaurants, first 'Azul' at the Mandarin Oriental hotel, then the iconic 'Michy's' and later her own line of cosy bakery cafes, called 'Crumb on Parchment'. In 2008, Bernstein won the revered James Beard Foundation Award &#x2014; which is basically like the Oscars of food. But her journey to here hasn't always been silky-smooth. Bernstein has spoken out about the difficulties of being the sole woman in the kitchen during her first decade (yes, decade) in restaurants during the 1980s, as society's infatuation with the (male) celebrity chef mushroomed. When Bernstein's son was born, she chose to scale down her empire so that she could be present during his childhood like her mother was for her own &#x2014; a luxury the unrelenting schedule of commercial kitchens doesn't exactly allow for. It's that same maternal instinct that continues to fuel the chef's produce-driven approach to cooking and dining today. <Node id="3047"/>As she drives around Florida sourcing ingredients from trusted local suppliers, top down in her Lexus LC Convertible (did we mention she's stylish too?) it's her 8-year-old son who's set to inherit those treasured family traditions in the kitchen<Node id="3293"/>. "It's about what you have in your soul," says Bernstein, when we ask what good cooking means to her. Needless to say, she has that in spades. <Node id="3437"/>Are you as inspired by Bernstein as we are?<Node id="3480"/> <Node id="3481"/>Find out more about the Miami born-and-based chef in the latest instalment of the second season of the documentary series, Journeys In Taste, a celebration of the pioneering creativity and craft that's at the core of every Lexus design<Node id="3716"/>."<Node id="3718"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="3047" EndNode="3293">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="3047" EndNode="3293">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="3437" EndNode="3480">
+</Annotation>
+<Annotation Id="5" Type="EvalTransfer" StartNode="3481" EndNode="3716">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3718">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

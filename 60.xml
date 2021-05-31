@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/60.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>This game-changing company connects Australia's best brands with the rest of the world<Node id="87"/>", "With pioneering brands like Vida Glow, Napoleon Perdis and Minenssey, <Node id="161"/>Access Corporate Group is championing our most-loved beauty, wellness and lifestyle exports<Node id="252"/>.", "<Node id="257"/>You've probably heard that the rest of the world has a soft spot for Australian brands in the fields of wellness, beauty and lifestyle. In fact, the appetite for companies that hail from our island nation has even prompted its own collective term: A-Beauty<Node id="513"/>. It's not hard to see why. <Node id="541"/>The best Australian beauty brands hero the finest ingredients (many which are native to our shores), and prioritise efficacy, results and a no-nonsense approach to formulations that resonates at home and abroad. "It's all about what Australia offers," says Cheryl Ross, founder of skincare brand Minenssey. "It's mind-blowing what we can offer not only in our products and the ingredients that we get from Australia, but our expertise."<Node id="977"/> Livia Wang, chief brand officer of Access Corporate Group, says the company has partnered with over 20 Australian and international brands since launching in 2017. Strengthening that bond, the business will soon introduce VTN: an online and offline membership platform which retails, promotes, and distributes Australian and international products to the Chinese market and a global customer-base. "We feel so honoured to have so many premium brands broaden their presence within our brand management ecosystem," she says. It's a mutually beneficial partnership. "It has opened up a lot of doors for us," says Henry Lee from Napoleon Perdis who will be part of the brand offering when VTN launches later in the year. "It has expanded what we've been able to achieve in our products and innovation. We're tripling our range." <Node id="1803"/>While many brands have seen a decline during the pandemic<Node id="1860"/>, many Australian brands have welcomed a spike in sales. "We've actually increased," says Lovekins founder Amanda Essery. "Access Corporate Group has given us a platform to be able to expand our categories. They've really been able to give us that opportunity to showcase Australian brands." Anna Lahey, founder of marine collagen brand Vida Glow, had already built a loyal Australian customer-base, but an expansion into the Chinese market boosted the brand's global footprint. "The realities of moving into the global market are much more complicated than what we anticipate, so having a partner who has a base in China as well as a base in Sydney and who understands the Chinese consumer is imperative for success. That's certainly been the case for Vida Glow." Vida Glow, Minenssey, Lovekins and Napoleon Perdis will join a roster of local brands in beauty, wellness and lifestyle launching on VTN including Dr. Lewinn's, melrose, BeanBody, Invisible Zinc, Robert Oatley Wines, to name a few. "Through this strategic partnership with VTN, each brand can connect to a wider audience at an unprecedented speed and depth," says Wang. And with partnerships such as these, the appetite for A-Beauty shows no signs of slowing down."<Node id="3090"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="87">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="87">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="161" EndNode="252">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="257" EndNode="513">
+</Annotation>
+<Annotation Id="5" Type="SamePlatform" StartNode="257" EndNode="513">
+</Annotation>
+<Annotation Id="6" Type="SamePlatform" StartNode="541" EndNode="977">
+</Annotation>
+<Annotation Id="7" Type="PositiveEval" StartNode="541" EndNode="977">
+</Annotation>
+<Annotation Id="8" Type="NegLabels" StartNode="1803" EndNode="1860">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3090">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

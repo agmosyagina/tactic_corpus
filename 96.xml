@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/96.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"5 of winter's must-have bags, according to the experts", "<Node id="59"/>We asked Cosette, one of our <Node id="88"/>favourite<Node id="97"/> go-to sources on the hottest designer handbags, to break down this season's biggest bag and accessory trends<Node id="206"/>.", "It's been a quiet year for those of us that are bag obsessed. Where usually, we'd have spent the last few months debuting a new Celine or Saint Laurent at parties and events, the coronavirus pandemic has put paid to us stepping out with a new baby. <Node id="460"/>But staying at home has also presented us with a unique opportunity to take stock of our bag collections, maybe list one or two has-beens on Facebook Marketplace or The RealReal, and really think about what brand, style, shape and trend we might like to try and save up for next<Node id="738"/>. <Node id="740"/>Of course, that's easier said than done &#x2014; we could probably list off 20 bags we'd happily splash out on, without even having to think too hard about it. So, to help us whittle our wish lists down, we called on the<Node id="953"/> experts at Cosette, who have their fingers so firmly on the international fashion pulse they can practically sense when a new Gucci bag will drop<Node id="1099"/>. The team at Cosette have been making it possible for Australians to own the bags and accessories of their dreams for years, and they've since become our go-to for designer pieces at affordable prices. Cosette always seems to have new-season bags before any other Australian store. <Node id="1382"/>The store's Instagram is also our first point of call, whenever we're not sure how to style a bag with an outfit. Their team of #CosetteGirls are always posting their own amazing looks, many of which we've shamelessly copied in the past<Node id="1618"/>. Here, Cosette's experts suggest five of winter's most important bag styles.<Node id="1695"/> Because as we begin to creep carefully out of lockdown, there's never been a more perfect time to take our bags for a spin<Node id="1818"/>. Cahier Leather Shoulder Bag by Prada. Whether it's because of Raf Simons' recent appointment as co-creative director, or the fact the brand continues to bring us the most chic handbags ever, everyone is talking about Prada at the moment. <Node id="2058"/>This makes it an excellent time to invest in one of the brand's most timeless styles<Node id="2142"/>. <Node id="2144"/>Cosette recommends the Cahier Shoulder Bag, as while its boxy shape and thick leather strap feel super contemporary, its classic colour and bright gold-coloured hardware means it won't ever feel passe<Node id="2344"/>. <Node id="2346"/>To really offset the bag's gold flourishes, wear it with an all-black ensemble<Node id="2424"/>. See it here. Saint Laurent Lou Camera Bag in Quilted Leather. Anthony Vaccarello's quilted bags for Saint Laurent have become cult items in the shortest amount of time, thanks to the fact they literally go with everything.<Node id="2648"/> If you like the look but you don't want to go with the classic option, Cosette expect the brand's larger quilted styles, like the Lou Camera Bag, to be a big hit this winter. An adjustable chain makes the Lou a perfect day-to-night option, while the gold YSL insignia will add the perfect amount of bling to whatever you're wearing<Node id="2980"/>. See it here. Gucci Neo Vintage GG Supreme Belt Bag. <Node id="3034"/>Alessandro Michele has brought back the Gucci monogram in a big way, and this vintage-inspired belt bag might be the most authentic way to wear the look<Node id="3186"/>. <Node id="3188"/>Cosette says the appeal of the brand's iconic green and red web strap is bound to stick around for a while, making this a smart addition to any bag lover's collection<Node id="3354"/>. <Node id="3356"/>If the belt bag style isn't really your thing, Cosette recommends any Gucci bag with the monogram<Node id="3453"/>. We can confidently declare it's not going out of style anytime soon. See it here. Saint Laurent Kate Box Bag in Grain de Poudre.<Node id="3583"/> The gold patina of this Saint Laurent box bag is so amazing, you don't even need an event to warrant buying it (right?)<Node id="3703"/> <Node id="3704"/>The delicate gold chains that hang from either side of this bag make it red carpet ready, but Cosette says you don't need to be wearing an evening gown to pull it off. A leather or silk blazer worn with jeans or a slip dress is the perfect way to dress this bag down, while keeping with Saint Laurent's quintessential glam-rock aesthetic<Node id="4041"/>. See it here. Givenchy Antigona Smooth Leather Handbag. This year Givenchy is celebrating 10 years of the Antigona bag, and the demand for the bag's unique Boston shape has never been higher. <Node id="4234"/>If you commute (or, if you plan to commute again as lockdown eases), the size Antigona is ideal for fitting all of your work and life essentials in. According to Cosette, the bag's black colour way will never date. If you're thinking about splurging on an Antigona, it recommends opting for noir. That way, you can pair it with caramel-coloured outerwear, another one of this season's hottest trends<Node id="4633"/>. See it here."<Node id="4648"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="59" EndNode="206">
+</Annotation>
+<Annotation Id="2" Type="RefAuthority" StartNode="59" EndNode="206">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="88" EndNode="97">
+</Annotation>
+<Annotation Id="4" Type="Motive" StartNode="460" EndNode="738">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="740" EndNode="1099">
+</Annotation>
+<Annotation Id="6" Type="RefAuthority" StartNode="953" EndNode="1099">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="1382" EndNode="1618">
+</Annotation>
+<Annotation Id="8" Type="SamePlatform" StartNode="1695" EndNode="1818">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="2058" EndNode="2142">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="2144" EndNode="2344">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="2346" EndNode="2424">
+</Annotation>
+<Annotation Id="12" Type="Mask" StartNode="2648" EndNode="2980">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="3034" EndNode="3186">
+</Annotation>
+<Annotation Id="14" Type="PositiveEval" StartNode="3188" EndNode="3354">
+</Annotation>
+<Annotation Id="15" Type="Mask" StartNode="3356" EndNode="3453">
+</Annotation>
+<Annotation Id="16" Type="Mask" StartNode="3583" EndNode="3703">
+</Annotation>
+<Annotation Id="17" Type="PositiveEval" StartNode="3704" EndNode="4041">
+</Annotation>
+<Annotation Id="18" Type="Mask" StartNode="4234" EndNode="4633">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4648">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

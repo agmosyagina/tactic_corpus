@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/94.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"How to set up a stylish at-home gym", "The global health pandemic has caused us to adapt in endless ways, as we navigate how to operate in modern life while social distancing. One such change is to how we all work out&#x2014;it's been necessary, and even vital, to find a way to exercise without congregating at gyms or heading to your local Pilates class.<Node id="350"/> Many Australians&#x2014;and indeed people all over the globe&#x2014;have embraced this change and opted to exercise from the comfort of their own home<Node id="487"/>. <Node id="489"/>It's certainly a wellness trend that isn't going anywhere anytime soon, so it's understandable that you should want your home exercise regimen to fit into your lifestyle<Node id="658"/>. <Node id="660"/>Technogym's Personal Line does just that&#x2014;allowing you to invest in a fully-equipped gym at home without compromising on design or style<Node id="795"/>. <Node id="797"/>Technogym has always fused wellness with innovation and design, so it's no wonder that the clever engineers behind the Italian brand have come up with what they're calling Personal Line. The Personal Line is a range of stylish interior design equipment made specifically for the home and built upon the principles discovered by Technogym's three decades of experience in the fitness industry<Node id="1188"/>. Each product in the line has been designed by world-renowned furniture designer and architect Antonio Citterio, using refined materials and the highest quality Italian craftsmanship, meaning <Node id="1381"/>it can take pride of place in your home<Node id="1420"/>.<Node id="1421"/> Included in the Personal Line is the iconic Technogym product known as the Kinesis Personal, which offers 200 exercises and takes up less than one square metre of your home<Node id="1594"/>. <Node id="1596"/>It comes in different versions, including Vision (mirrored) Heritage Black (featuring American oak wall bars), Heritage Leather, and the newest Heritage Leather Brown. Engineered out of three panels, it features the FullGravity patent, consisting of a pivoting pulley system with a glimmering aluminium alloy finish. The Kinesis Personal allows an (almost) unlimited approach to your exercise schedule using the method of functional training while still effortlessly fitting into any home, regardless of your design aesthetic. Technogym's Personal Line also offers the Bike Personal, launched at last year's Salone Internazionale del Mobile, a stylish elliptical, known as the Cross Personal, a state-of-the-art treadmill called the Run Personal and <Node id="2346"/>the innovative Recline Personal<Node id="2377"/>, which received the 2012 "Best of the Best" Red Dot Design Award in the product category for its ergonomic design<Node id="2491"/>.<Node id="2492"/> If weights are your preferred way to exercise then opt for the Power Personal, a high-performance and adjustable professional bench and free weight training machine<Node id="2657"/>. <Node id="2659"/>Plus, Technogym's Recline, Run and Cross Personal are all equipped with a stylish swipe-screen interface known as Unity, <Node id="2780"/>allowing you to completely customise your training experience<Node id="2841"/>&#x2014;which, when you think about it, isn't that one of the best parts of working out at home?<Node id="2930"/> For more information and to see the full range, click here."<Node id="2991"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="16" Type="Mask" StartNode="2659" EndNode="2930">
+</Annotation>
+<Annotation Id="1" Type="SamePlatform" StartNode="350" EndNode="487">
+</Annotation>
+<Annotation Id="2" Type="Motive" StartNode="489" EndNode="658">
+</Annotation>
+<Annotation Id="3" Type="GoalSub" StartNode="660" EndNode="795">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="489" EndNode="795">
+</Annotation>
+<Annotation Id="6" Type="PositiveEval" StartNode="797" EndNode="1188">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="1421" EndNode="1594">
+</Annotation>
+<Annotation Id="9" Type="AdvTeam" StartNode="1381" EndNode="1420">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="1596" EndNode="2377">
+</Annotation>
+<Annotation Id="12" Type="RefAward" StartNode="2346" EndNode="2491">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="2492" EndNode="2657">
+</Annotation>
+<Annotation Id="14" Type="GoalSub" StartNode="2780" EndNode="2841">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2991">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

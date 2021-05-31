@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/41.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"We've found the perfect serum for radiant skin", "Not all skincare products are created equal. <Node id="96"/>But if you've been lucky enough to find the perfect regimen for your skin, you'll know that a good serum can be the difference between a dull and glowing complexion. And wouldn't we all rather the latter?<Node id="300"/> <Node id="301"/>No one knows this better than Jocelyn Petroni. Australia's most trusted premium skincare expert<Node id="396"/>, she's always on the lookout for products full of hydrating properties, claiming that serums do the "heavy lifting" no matter your skin's needs. <Node id="542"/>And with years of experience, Petroni knows a truly regenerative potion when she sees one. So when she tried the new Super Potent Serum by Dior, and reported back on just how impressed she was<Node id="734"/>, <Node id="736"/>we knew that we had to try it, too<Node id="770"/>. "A serum should completely soak into the dermis, where it will actively and visibly change the skin," says the Sydney-based therapist, who's known for keeping local fashion and beauty icons like Kate Waterhouse looking dewy.<Node id="996"/> "I love the ultra-refined texture of Dior's Super Potent Serum. It completely soaks in and comforts the skin and has incredible powers of retention, which means that oil and the water has great longevity in the skin." Petroni says that within a week of using the serum, which is part of Dior's pioneering 'Capture Totale' Super Potent Serum, she saw visible results of more radiant skin. And not just a light, surface-layer sheen. The therapist says the energy boost was clear from the inside out. "<Node id="1496"/>It's great for all ages and it gives the skin a really efficient energy boost and you can see the results in seven days<Node id="1615"/>. It's plumping, smoothing and firming. It ignites radiance," she explains<Node id="1689"/>. <Node id="1691"/>But while you might expect a product with such immediate results to fade just as fast<Node id="1776"/>, <Node id="1778"/>Dior's 'Capture Totale' Super Potent Serum has been designed with long-lasting benefits in mind. Packed with 91 percent natural ingredients like the Madagascan Longoza flower, it penetrates deep into the skin cells for a genuine glow. But there's more to bouncy, luminous skin than what meets the eye. Healthy, radiant skin is less likely to age quickly or poorly, and it's also more resistant to changes in the environment and air quality<Node id="2217"/>. Products that contain hyaluronic acid are the most effective in keeping your skin hydrated and plumped. And as the name implies,<Node id="2347"/> Dior's Super Potent Serum is packed with the good stuff<Node id="2403"/>. The brand's skincare scientists have spent 20 years researching and developing the Bio Cellular Technology&#x2122; behind the 'Capture Totale' Super Potent Serum; <Node id="2561"/>a commitment to quality that's abundantly clear to anyone who's tried the products, Petroni and the range's ambassador, supermodel Gisele Bundchen among them<Node id="2718"/>. <Node id="2720"/>The iconic French fashion house's mission is to "make women not only more beautiful, but happier, too<Node id="2821"/>." This is evident in the Haute Couture and Ready to Wear collections produced by the maison's creative director Maria Grazia Chiuri, but it extends to its beauty department, too. <Node id="3001"/>Its Capture Totale Super Potent Serum encapsulates the brand's integrity and commitment to quality. And even though it delivers results astonishingly fast, <Node id="3157"/>it's the long-term effects of the entire 'Capture Totale' range that keep us coming bac<Node id="3244"/>k<Node id="3245"/>."<Node id="3247"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="2" Type="Mask" StartNode="96" EndNode="300">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="301" EndNode="396">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="542" EndNode="734">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="736" EndNode="770">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="996" EndNode="1689">
+</Annotation>
+<Annotation Id="8" Type="BeforeAfter" StartNode="996" EndNode="1689">
+</Annotation>
+<Annotation Id="9" Type="GoalSub" StartNode="1496" EndNode="1615">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="1691" EndNode="1776">
+</Annotation>
+<Annotation Id="11" Type="PositiveEval" StartNode="1778" EndNode="2217">
+</Annotation>
+<Annotation Id="12" Type="NarrowCircle" StartNode="2347" EndNode="2403">
+</Annotation>
+<Annotation Id="13" Type="EmotionalSetup" StartNode="2347" EndNode="2403">
+</Annotation>
+<Annotation Id="14" Type="RefAuthority" StartNode="2561" EndNode="2718">
+</Annotation>
+<Annotation Id="15" Type="GoalSub" StartNode="2720" EndNode="2821">
+</Annotation>
+<Annotation Id="16" Type="EmotionalSetup" StartNode="2720" EndNode="2821">
+</Annotation>
+<Annotation Id="17" Type="PositiveEval" StartNode="3001" EndNode="3245">
+</Annotation>
+<Annotation Id="18" Type="Mask" StartNode="3157" EndNode="3244">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3247">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

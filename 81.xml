@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/81.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Elyse Knowles shares her perfect weekender with her Land Rover Defender<Node id="72"/>", "<Node id="76"/>Why the new Land Rover Defender is <Node id="111"/>unparalleled for escapades<Node id="137"/>.", "In Australia, we're lucky to have so many incredible places to explore, right in our backyard. To escape the daily grind and take an epic weekend escape, is just a matter of having the right tools.<Node id="339"/> Byron Bay local Elyse Knowles showed us how easy it was to transition from the sea to the snow with the help of her new Land Rover Defender<Node id="479"/>. <Node id="481"/>The New Defender, 70 years in the making, is an icon reimagined for the 21st Century. It's the most capable four wheel drive Land Rover has ever created, tested to the extreme and, boasting the greatest-ever standards of durability, no-nonsense design and in-car tech<Node id="748"/>.<Node id="749"/> Knowles took her set of sturdy wheels on a weekend expedition around the rugged terrain of Thredbo in New South Wales. With roof racks added to carry the snowboards, heated seats adding even extra comfort, and the convenience of Apple CarPlay, the journey was seamless<Node id="1018"/>. <Node id="1020"/>The Byron Bay resident certainly made the most of her action-packed getaway, getting to drive on the snow. Being equipped with all the tech needed for better handling and optimal safety, made the off-road, on-snow experience as effortless as the cruise back home. And thanks to the smart rear-view mirror, Elyse could even keep a keen eye on all she was leaving in her wake. <Node id="1395"/>Brimming with the spirit of adventure encapsulated by her Land Rover Defender, Elyse headed to the highest peak in ultimate style, on Thredbo's new (and the country's only) alpine gondola<Node id="1582"/>. <Node id="1584"/>Some of the Thredbo spots she loved most are captured on video, so take note before you hit the village yourself<Node id="1696"/>. <Node id="1698"/>While more than adept at handling city streets and the great open road, like any seasoned adventurer, the Defender is at its best off the beaten path. It expertly handles unpredictable terrain with ease. At the tap of a button, it can raise itself to wade through water depths of up to 900mm and can tow a hefty load of up to 3,500kgs. This highly customisable 4x4 with confident, strong and purposeful good looks, is the perfect weekend warrior<Node id="2143"/>. <Node id="2145"/>Just like you, it's capable of great things<Node id="2188"/>. <Node id="2190"/>Now's the time to embrace the elements closer to home, pack your adventurous spirit and get out there in your purpose-built wingman for unforgettable experiences, as you venture above and beyond<Node id="2384"/>."<Node id="2386"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="1" EndNode="72">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="76" EndNode="137">
+</Annotation>
+<Annotation Id="4" Type="EmotionalSetup" StartNode="111" EndNode="137">
+</Annotation>
+<Annotation Id="5" Type="RefAuthority" StartNode="339" EndNode="479">
+</Annotation>
+<Annotation Id="6" Type="PositiveEval" StartNode="481" EndNode="748">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="749" EndNode="1018">
+</Annotation>
+<Annotation Id="8" Type="RefAuthority" StartNode="1020" EndNode="1582">
+</Annotation>
+<Annotation Id="9" Type="EmotionalSetup" StartNode="1395" EndNode="1582">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="1584" EndNode="1696">
+</Annotation>
+<Annotation Id="11" Type="PositiveEval" StartNode="1698" EndNode="2143">
+</Annotation>
+<Annotation Id="12" Type="Compliment" StartNode="2145" EndNode="2188">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="2190" EndNode="2384">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2386">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/47.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Noa Home is revolutionising the way we shop for our homes<Node id="58"/>", "Online home furnishings store NoaHome.com takes a refreshing, curatorial approach to its product offering &#x2014; <Node id="170"/>and it makes shopping from home an absolute breeze<Node id="220"/>.", "If there was ever a year to commit to online shopping, 2020 would be it. <Node id="298"/>The global pandemic has undoubtedly made armchair shoppers out of all of us, with many of us having little choice but to order everything online, from groceries to gardening tools. But if there's one space where shopping online can be notoriously tricky, it's when you're buying for the home. And that's where home furnishings giant Noa Home comes in<Node id="648"/>. <Node id="650"/>Setting the bar sky high for other retailers, Noa Home's user-friendly approach is unparalleled in the home furnishings game<Node id="774"/>. Given that considerations of space, size and proportion are key for buying furniture, <Node id="862"/>it's little wonder so many e-tailers simply fall flat when it comes to offering clear information online<Node id="966"/>. Furthermore, when the time comes for delivery, the service is even harder to navigate, or worse &#x2014; just plain too expensive. Fortunately, it's this exact gap in the market that Noa Home has successfully filled. Since launching in Canada in 2016, the company has grown 1400 per cent, and has expanded into Australia, the United Kingdom and Singapore with amazing results. <Node id="1338"/>Thanks to state-of-the-art warehouse facilities and a company ethos that places the customer first, Noa Home has fast become the go-to retailer for online home furnishings. With a roster of hand-picked manufacturing partners and an in-house design team that prides itself on creating truly functional, timeless and durable products, Noa Home offers incredible value for money. And, with free home delivery to anywhere in Australia within 2-5 business days, it's an online model with serious staying power. With a flexible and simple return policy that allows shoppers 30 days to return any sofa, sectional and armchair, and a generous 100-night trial for all its expertly crafted mattresses<Node id="2028"/>, <Node id="2030"/>Noa Home's point of difference is simple: it wants what is best for you<Node id="2101"/>. <Node id="2103"/>And in times like these, when online shopping is sometimes the only option, don't you want to invest your time and money into a brand that places service at the heart of what they do?<Node id="2286"/> It's this exact customer-facing philosophy that CEO Jeremy Kopek is so passionate about. Having worked in the furniture retail industry for over 15 years, he's developed strong relationships with some of the world's leading manufacturers. "[This] expertise has allowed us to leapfrog our competitors in terms of the overall shopping experience &#x2014; from our gorgeous, functional website, to exclusively designed products that are built to last," he says. "[And our] free white-glove home delivery makes creating your dream space not just possible, but entirely enjoyable." <Node id="2857"/>In addition to great service, Noa Home offers exclusive designs that are globally aligned with the latest design trends, priced competitively and unbeatable value. From the highly regarded mattress collection (where it all started from), to the bedding collection made by the oldest, family run textile mill in Portugal, and the timeless collection of everyday sofas, sectionals and bedframes; Noa Home's beautifully displayed products and reputation for quality craftsmanship<Node id="3333"/> <Node id="3334"/>make shopping online for your home a pure pleasure<Node id="3384"/>. <Node id="3386"/>And that's the way it should be<Node id="3417"/>. Visit NoaHome.com"<Node id="3437"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="58">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="58">
+</Annotation>
+<Annotation Id="3" Type="SamePlatform" StartNode="1" EndNode="58">
+</Annotation>
+<Annotation Id="4" Type="EmotionalSetup" StartNode="170" EndNode="220">
+</Annotation>
+<Annotation Id="5" Type="Motive" StartNode="298" EndNode="648">
+</Annotation>
+<Annotation Id="6" Type="SamePlatform" StartNode="298" EndNode="648">
+</Annotation>
+<Annotation Id="7" Type="PositiveEval" StartNode="650" EndNode="774">
+</Annotation>
+<Annotation Id="8" Type="NegLabels" StartNode="862" EndNode="966">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="1338" EndNode="2028">
+</Annotation>
+<Annotation Id="10" Type="EmotionalSetup" StartNode="2030" EndNode="2101">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="2030" EndNode="2101">
+</Annotation>
+<Annotation Id="12" Type="Mask" StartNode="2103" EndNode="2286">
+</Annotation>
+<Annotation Id="13" Type="EmotionalSetup" StartNode="2103" EndNode="2286">
+</Annotation>
+<Annotation Id="15" Type="EmotionalSetup" StartNode="3334" EndNode="3384">
+</Annotation>
+<Annotation Id="17" Type="PositiveEval" StartNode="2857" EndNode="3333">
+</Annotation>
+<Annotation Id="18" Type="Mask" StartNode="3386" EndNode="3417">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3437">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

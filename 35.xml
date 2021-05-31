@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/35.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>The Australian jewellery brand that brings you stackable jewellery, crafted with sustainable practices", "Jackie Mack Designs prides itself on crafting ethical, adaptable pieces without compromising on sleek design<Node id="215"/>.", "<Node id="220"/>If you consider yourself up on current jewellery trends, then we probably wouldn't have to tell you<Node id="319"/> that stackable jewellery has long remained a favourite among the most talented of accessorisers&#x2013;and the love for layer-friendly jewellery is definitely not going to fade anytime soon. <Node id="504"/>Favoured for its versatility and environmental consciousness<Node id="564"/>, Jackie Mack Designs has focused on creating stackable jewellery which can be worn as standalone pieces, or layered with a number of other pieces across its collections, the label focusing mainly on earring and necklace styles since its inception in 2018. <Node id="821"/>Within the Jackie Mack Designs offering, expect to find sustainably made semi-precious jewellery which strikes the perfect balance between sophisticated and sleek in its aesthetic. This harmonious combination comes courtesy of the label's focus crafting pieces out of ethically-sourced sterling silver and 14k Solid Gold<Node id="1141"/>. <Node id="1143"/>The jeweller is also known to hero freshwater pearls, the precious stone itself noted to make repeat appearances within the outfits of stylish women everywhere for decades<Node id="1314"/>. <Node id="1316"/>Whatever the material or design, or season, you can rest assured that any Jackie Mack Designs piece is ready and waiting to be stacked&#x2013;<Node id="1451"/>in fact, it's the label's ultra-wearability that once again evidences its sustainable approach<Node id="1545"/>. As the label's creative director and founder, Jackie Damelian, perfectly puts it "Jewellery is timeless; you can wear it across any season without even thinking if it's in or on trend or not," an ethos she has long kept as the centre of the design process. If you're a jewellery layering novice, or even an expert stacker, the label's effortless feel and sleek design will make the prospect of layering jewellery achievable for all jewellery stacking aptitudes, and <Node id="2013"/>allows the wearer to become involved in the creative process by styling arrangements on their necks and ears<Node id="2121"/>. Jackie Mack Designs's latest drop, The Bliss Collection '21, includes a nod to many of the label's aforementioned style signatures, its newest drop featuring pieces fashioned out of recycled sterling silver and 18k gold plating, and styles to suit the most pared back to the more experimental tastes. <Node id="2424"/>If you're looking for a classic stud earring to wear on your lower lobe or in one of your cartilage piercings, look no further than the Royal studs in gold or silver<Node id="2589"/>. <Node id="2591"/>If you're more of a hoop lover, the newly-released collection offers a number of styles to be worn all over the ear. Pick up a pair of Twisted hoops to be worn in your lower lobe, and layer the style with the Moonlight mini hoops alongside them&#x2013;and if you want to extend your stack further up the ear, tap the Eternity mini hoops and Lush small hoops <Node id="2942"/>to top off your perfectly curated ear<Node id="2979"/>. No matter the piece, <Node id="3002"/>you can be sure that you'll not only be able to wear a Jackie Mack Designs piece on its own, but also within a wider jewellery stack&#x2013;in fact, Damelian insists on it&#x2013;knowing that, with every wear, the piece you chose to put on was sustainably created<Node id="3251"/>, <Node id="3253"/>a win-win-win scenario in the books of any stylish and eco-conscious individual<Node id="3332"/>."<Node id="3334"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="215">
+</Annotation>
+<Annotation Id="2" Type="PositiveEval" StartNode="1" EndNode="215">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="220" EndNode="319">
+</Annotation>
+<Annotation Id="4" Type="EmotionalSetup" StartNode="504" EndNode="564">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="821" EndNode="1141">
+</Annotation>
+<Annotation Id="6" Type="Compliment" StartNode="1143" EndNode="1314">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="1316" EndNode="1545">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="1451" EndNode="1545">
+</Annotation>
+<Annotation Id="9" Type="GoalSub" StartNode="2013" EndNode="2121">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="2424" EndNode="2589">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="2591" EndNode="2979">
+</Annotation>
+<Annotation Id="12" Type="Compliment" StartNode="2942" EndNode="2979">
+</Annotation>
+<Annotation Id="13" Type="GoalSub" StartNode="3002" EndNode="3251">
+</Annotation>
+<Annotation Id="14" Type="EmotionalSetup" StartNode="3002" EndNode="3251">
+</Annotation>
+<Annotation Id="15" Type="Compliment" StartNode="3253" EndNode="3332">
+</Annotation>
+<Annotation Id="16" Type="AdvTeam" StartNode="3253" EndNode="3332">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3334">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

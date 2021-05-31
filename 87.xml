@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/87.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"A creative technology professional on the promising future for females in her field", "Billy Blue College of Design lecturer Dr Shahrzad Saremi shares her advice for future creative technology students.", "<Node id="207"/>In 2019, Billy Blue College of Design at Torrens University Australia launched its creative technology arm, a celebrated opening which introduced courses in artificial intelligence, cloud computing and digital transformation&#x2014;each of which aim to educate school graduates on the intersection between design and technology, while simultaneously equipping them with industry-leading technical and concept development skills<Node id="627"/>. It was at this exact time that artificial intelligence and creative technology lecturer Dr Shahrzad Saremi joined Billy Blue College of Design, after completing a PhD in computer science. As a leading academic in the college's creative technology courses, Dr Shahrzad Saremi is paving the way for females in a male-dominated industry, whilst cementing herself as a pioneer in her ever-growing field. "Design in technology refers to the practice undertaken to create a technological outcome, as well as the description of the physical and functional nature of that outcome," says Dr Shahrzad Saremi of Billy Blue College of Design's creative technology courses, which were developed in collaboration with IBM and feature Amazon Web Services Academy content. Here, Dr Shahrzad Saremi talks Vogue through the most rewarding and challenging aspects of her profession, her advice for future students, and the steps she took to get to where she is in her career today. What is your role, and what have been the most rewarding aspects of the position? "I am a learning facilitator at Torrens University Australia and have the privilege to educate students. I enjoy helping and seeing them flourish during their studies with us. Watching them grow and get excited when learning new things is priceless. Also, mentoring students to help build their future career and being their long-term friend is another rewarding aspect of my teaching style." What have been your biggest challenges throughout the course of your career? "I had to leave my home country 12 years ago to continue my education. Living far from my family has always [been] my biggest challenge. Finding the best way to motivate my students and show them the significant importance of their studies on their career and life has been another challenge of mine. I believe a good teacher can change the life direction of a student in a good way, so I love to be one of their best and most memorable teachers." What steps did you take to get yourself to where you are in your career today? "The first step was to change my mindset and believe in myself, that a woman can also build a successful career in creative technology. After that, it was hard work and dedication to study and work to get my PhD and become an academic. As an academic, I would have to contribute to teaching, research, and services. In teaching, I have been involved in course/submit development and delivery at different institutions. In research, I have published more than 22 publications, including a book, three book chapters, 14 journal articles, and four conference papers. In regard[s] to services, I have been involved in rewriting academic papers for journals, editing academic papers as [a] guest editor in journals, and mentoring students." What will the creative technology course provide students with? "Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art and the humanities. The field of creative technology encompasses art, digital product design, digital media and advertising media made with a software-based, electronic and/or data-driven engine. This unique element of design and technology heavy on artificial intelligence and cloud computing will get the students connected in the industry immediately. The course will give students hands-on experience with industry briefs, enhance critical thinking and develop their skills which are much in need for decades to come." What doors could this creative technology course open for its students? "Our course is designed by understanding the gaps in the industry market in consultation with industry partners. Students would be open to [a] huge IT market with skills after graduation. Statistics [are] apparent from relevant sources, if [the] question is about salary, payscale.com clearly shows how important this field is and job portals like Seek and Indeed show the increase in job opportunity and ever-growing demand of graduates of artificial intelligence and cloud computing." Why is female representation in creative technology so important? "Females are equally important in areas where men are. Awareness is needed and I am here to set that example. Females are capable of being more design-oriented and with added technology skills, they have [the] same opportunity like the rest in the market. They can be research scientists, engineers, academic staff, managers, and/or business analysts." If you could give one piece of advice to future students, what would it be? "<Node id="5162"/>If you want to be a part of an ever-growing industry, then the answer is only with Billy Blue College of Design at Torrens University Australia and that is through one solid pathway&#x2014;degrees of creative technology, guided by researchers, industry experts and academicians on the same platform<Node id="5453"/>. Making sure students get the right learning outcomes that deliver industry-ready graduates to the market. At [a] personal level, I advise them to believe in themselves and blindly follow their passion regardless of their gender." <Node id="5685"/>If you think a career in creative technology is right for you, you can start with a diploma or bachelors of software engineering, or even specialise in AI with a masters. There is also a graduate certificate of digital transformation and creative intelligence, <Node id="5946"/>which helps you to upskill quickly and present-proof your career<Node id="6010"/>."<Node id="6012"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="2" Type="Mask" StartNode="207" EndNode="627">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="5162" EndNode="5453">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="5946" EndNode="6010">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="5685" EndNode="6010">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="6012">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

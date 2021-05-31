@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/29.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"The next frontier of inner city Melbourne living is here", "Melbourne is undoubtedly one of Australia's most exciting cities to live in. With great arts, culture and dining scenes, it's no wonder the city is growing at a rapid pace. <Node id="234"/>But if you're looking to enjoy the benefits of inner city living, while skipping the hustle of the CBD, Glenvill Developments' latest residential project offers a tantalising prospect<Node id="417"/>. Located on the banks of the Yarra River in Alphington, just 6.5 kilometres from the CBD, <Node id="508"/>YarraBend is a world-class neighbourhood offering myriad of lifestyle options. From townhouses and houses to lofts, heritage warehouse apartments, and riverfront residences &#x2013; the YarraBend precinct has been expertly planned to offer flexible options for urban living. <Node id="776"/>With every detail of this up-and-coming neighbourhood considered<Node id="840"/>, YarraBend's amenities include a world-class wellness centre, numerous leafy parks with free Wifi, a Tech Concierge, residents app, co-working spaces and even an artisan food hub curated by restaurateur Scott Pickett<Node id="1057"/>. But beyond dazzling facilities, what really sets the YarraBend development apart is the design of its Heritage Precinct. With the first original building from the paper mill launching now, Fourdrinier House is the perfect representation of Glenvill Developments' vision. Taking up residence in the former Wetlap building, Fourdrinier House has been transformed by award-winning architecture and interior design firm Techne, whose heavyweight credentials include interiors for the Espy Hotel, Garden State Hotel, Movida and the Prahran Hotel. <Node id="1601"/>Thanks to Techne's discerning eye and nearly twenty years of experience helming some of the city's best commercial, hospitality and residential projects, the design of Fourdrinier House has been adapted into modern industrial-style apartments that make the most of the building's history &#x2013; making them the perfect blend of old and new<Node id="1935"/>. The warehouse-style apartments feature three-metre high ceilings in living areas, brick tile feature walls, 220mm wide engineered floorboards, metal accents and exposed concrete ceilings, with the option to further customise the aesthetic through packages from Ivy Muse and GlobeWest. <Node id="2222"/>With home automation a standard inclusion, purchasers will receive a personalised in-house appointment on completion of their apartment where they have the opportunity to select automations <Node id="2412"/>to suit their lifestyle<Node id="2435"/>. <Node id="2437"/>The industrial-chic accents have been incorporated across Fourdrinier House's common areas too, providing continuity in design throughout the lobby and rooftop terrace area, which also includes barbecue facilities, planter landscaping, an edible garden, bench seating and dining areas<Node id="2721"/>. Residents of Fourdrinier House are also primed to make the most of the beautifully appointed landscaped areas, with Paper Square park to the east and Paper Trail&#x2013; an elevated piazza pathway inspired by New York City's famed Highline &#x2013; to the west. Conveniently located metres away from the Yarra River, parks and retail outlets, and just a short drive from Melbourne CBD, <Node id="3095"/>we've no doubt YarraBend is the future of urban living<Node id="3149"/>. For more information and register your interest in Fourdrinier House, visit yarrabend.com.au/heritage"<Node id="3253"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="234" EndNode="417">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="234" EndNode="417">
+</Annotation>
+<Annotation Id="3" Type="GoalSub" StartNode="234" EndNode="417">
+</Annotation>
+<Annotation Id="4" Type="PositiveEval" StartNode="508" EndNode="1057">
+</Annotation>
+<Annotation Id="5" Type="Hyperbolization" StartNode="776" EndNode="840">
+</Annotation>
+<Annotation Id="6" Type="PositiveEval" StartNode="1601" EndNode="1935">
+</Annotation>
+<Annotation Id="7" Type="DoubleProfit" StartNode="2222" EndNode="2435">
+</Annotation>
+<Annotation Id="8" Type="AdvTeam" StartNode="2412" EndNode="2435">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="2437" EndNode="2721">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="3095" EndNode="3149">
+</Annotation>
+<Annotation Id="11" Type="EmotionalSetup" StartNode="3095" EndNode="3149">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3253">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

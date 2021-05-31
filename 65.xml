@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/65.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>The six cult labels to shop now &#x2014; and they've just landed at Harrolds", "The Australian luxury department store makes an excuse for a wardrobe update easy<Node id="155"/>.", "<Node id="160"/>With spring sprung, the feeling of possibility and regeneration is in the air, so it only feels right to turn our attention back to our wardrobes. Whether it be an easing of lockdown for some or the turn of the season, there is a sense of re-emergence and permission to think once again of style priorities. Enter Harrolds, Australia's luxury department store, who, celebrating 35 years this year, are adding more names to their already sizeable stable of 100 plus brands<Node id="631"/>. With a consistent emphasis on the best edit of local and international collections (fashion world favourites like Attico, Saks Potts and Amina Muaddi sit alongside establishment names including Tom Ford, Balenciaga and Bottega Veneta), the new season offering is a reflection of the family-owned business's well-honed instincts for the clothes and accessories that resonate the most, and capture the mood of the moment. Here, the edit of the best envy-inducing labels to update a wardrobe with, each with a style perspective completely their own and available to shop now. <Node id="1206"/>And for those not able to get to store and back to the pleasure of real-life experiences (yes, complimentary parking and full bar service inclusive), Harrolds have transferred their attention to detail to their online boutique where their personalised service of private style consultancies are accessible digitally via live chat or virtual styling appointments<Node id="1567"/>. The bonus? They've just launched international shipping, claiming their place as a luxury global e-tailer. Get to know the six cult labels to add to cart now. Who: Khaite. What: <Node id="1747"/>Catherine Holstein creates both the kind of pieces that sell-out quickly, and unfailingly attract bevies of compliments<Node id="1866"/>. <Node id="1868"/>The American label, built on sustainable values, is sought after for its uniquely feminine take on elevated everyday pieces, like tailored pants and jackets, in ultra-luxurious fabrications, and its fresh take on sensuality via its sheer fabrics and fit-and-flare silhouettes<Node id="2143"/>. Invest in: Your next LBD, with a twist. Wear: Friday night, and into party season. Who: Christopher Esber. What: <Node id="2258"/>Local talent Christopher Esber is going from strength to strength, <Node id="2325"/>collecting fans like Emily Ratajkowski and Hailey Baldwin<Node id="2382"/> along the way with his deft balancing of dual elements like masculine and feminine, tailoring and fluid fabrics<Node id="2494"/>. Invest in: Versatile shirting and your next dress from his line-up of slinky cut-out midis. Wear: Brunch with flats, or dinner out. Who: LA Collection. What: <Node id="2654"/>Add founder Florence Cools to your Instagram follow list as her elevated ease and refined taste embody the brand's ethos<Node id="2774"/>. <Node id="2776"/>Best described as minimal, versatile with a grown-up elegance, each of her creations is an instant-classic<Node id="2882"/>. Invest in: Her in-demand blazer dress, or a full tailored suit. Wear to: The office, or meld with casual pieces for weekend polish. Who: Maison Margiela. What: <Node id="3044"/>With a resurgence in investment-dressing, buying into Margiela is investing in pure fashion pedigree<Node id="3144"/>. <Node id="3146"/>With visionary John Galliano at the helm, his team reinvents approaches to fashion each season resulting in avant-garde but surprisingly versatile pieces that lift any look<Node id="3318"/>. Invest in: Accessories are cult classics sought after worldwide, like the plush 'Glam Slam' bag in pillowy soft neutral leathers. Wear to: Tuck under the arm and head out anywhere. Who: Wynn Hamlyn. What: Our neighbours across the Tasman have always been original thinkers, and Wynn Crawshaw or Wynn Hamlyn, has been a best-kept secret of fashion insiders. In six years, he's garnered a following devoted to his modern tailoring and emphasis on ethical design like locally-sourced New Zealand merino wool. Invest in: Knitwear or a summer dress. Wear to: Coffee date or weekday meeting. Who: Paris Texas. What: <Node id="3930"/>A favourite of the Italian 'It' girl set, Milanese footwear label Paris Texas is a go-to for their well-proportioned knee-high boots but has recently expanded into all manner of go-everywhere shoes in anything from snakeskin, to neutrals and electric brights<Node id="4188"/>. Landing soon at Harrolds. Invest in: Their core knee-highs if they're not on high-rotation already. Wear to: Day-to-night. Go from jeans to a dress for instant transition. Go to Harrolds.com.au to shop online or arrange a virtual styling appointment or head in-store for the full experience including made-to-measure and private appointments with in-house stylists to discover the newest collections."<Node id="4591"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="155">
+</Annotation>
+<Annotation Id="2" Type="Motive" StartNode="160" EndNode="631">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="1206" EndNode="1567">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="1747" EndNode="1866">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="1868" EndNode="2143">
+</Annotation>
+<Annotation Id="6" Type="EmotionalSetup" StartNode="2258" EndNode="2494">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="2325" EndNode="2382">
+</Annotation>
+<Annotation Id="8" Type="Mask" StartNode="2654" EndNode="2774">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="2776" EndNode="2882">
+</Annotation>
+<Annotation Id="10" Type="GoalSub" StartNode="3044" EndNode="3144">
+</Annotation>
+<Annotation Id="11" Type="PositiveEval" StartNode="3146" EndNode="3318">
+</Annotation>
+<Annotation Id="12" Type="PositiveEval" StartNode="3930" EndNode="4188">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4591">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

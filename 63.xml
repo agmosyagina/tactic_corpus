@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/63.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Turn to Turning Point Homes to create your luxury dream home<Node id="61"/>", "<Node id="65"/>They say the home is where the heart is, so when it comes to building or renovating that one place that will make your heart sing, selecting the building company who helps you create that space is a decision not to be taken lightly<Node id="296"/>. <Node id="298"/>Your dream home is, after all, the place where you'll spend the majority of your life and create many lasting memories with your family and friends<Node id="445"/>. <Node id="447"/>And, while we've been sheltering in place amidst the Covid-19 pandemic, our home has become the centre of our world, almost like we've returned to simpler times when having a place to call home was the most important part of life to establish<Node id="689"/>. <Node id="691"/>So the question remains, who do you trust with the mighty undertaking of building your dream home? The space that will not only bring you joy but be the background setting to a slew of joyful memory-making moments, along with cocooning you in warm familiarity when you need it, and be the light on the porch that you can't wait to return to after any activity that takes you out of your home. For those who value attention to detail, luxury finishes and a unique space to call your own, Turning Point Homes is the esteemed name to know<Node id="1226"/>. The company's founder, licensed master builder David, grew up watching his carpenter father breathe new life into homes with his carpentry creations, realising he too had a passion and affinity for the home building industry after building his own house in Sydney's Inner West in 2003. Almost 20 years later, David's wealth of experience in construction, design and management of building projects has seen Turning Point Homes become the company behind a host of high quality, high-end residences. <Node id="1726"/>Whether you're renovating an existing house, looking to knock down and completely rebuild your dream home, or planning to build a brand new home, Turning Point Homes has you comprehensively covered<Node id="1923"/>. <Node id="1925"/>The company has a team of expert consultants, from architecture to construction to landscaping and interior design, to bring your vision for your sanctuary to life<Node id="2088"/>. <Node id="2090"/>Whether it's contemporary, traditional, Hamptons and more, the team will work closely with you to take that inkling of an idea of what you want for your home to be, to the beautifully finished end design ready for you to step into<Node id="2320"/>. The expertise of David and his team at Turning Point Homes translates to a seamless process from idea to reality, with the team able to handle even the most challenging areas of home building, like managing council applications, plumbing, electrical and engineering. <Node id="2589"/>So, what are you waiting for? Contact Turning Point Homes and start the journey towards your forever home<Node id="2694"/>."<Node id="2696"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="61">
+</Annotation>
+<Annotation Id="2" Type="GoalSub" StartNode="1" EndNode="61">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="1" EndNode="61">
+</Annotation>
+<Annotation Id="4" Type="Allusion" StartNode="65" EndNode="296">
+</Annotation>
+<Annotation Id="5" Type="EmotionalSetup" StartNode="298" EndNode="445">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="298" EndNode="445">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="447" EndNode="689">
+</Annotation>
+<Annotation Id="8" Type="Mask" StartNode="691" EndNode="1226">
+</Annotation>
+<Annotation Id="9" Type="GoalSub" StartNode="691" EndNode="1226">
+</Annotation>
+<Annotation Id="10" Type="EmotionalSetup" StartNode="691" EndNode="1226">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="1726" EndNode="1923">
+</Annotation>
+<Annotation Id="12" Type="EmotionalSetup" StartNode="1726" EndNode="1923">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="1925" EndNode="2088">
+</Annotation>
+<Annotation Id="14" Type="GoalSub" StartNode="1925" EndNode="2088">
+</Annotation>
+<Annotation Id="15" Type="Mask" StartNode="2090" EndNode="2320">
+</Annotation>
+<Annotation Id="16" Type="AdvTeam" StartNode="2090" EndNode="2320">
+</Annotation>
+<Annotation Id="17" Type="Mask" StartNode="2589" EndNode="2694">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2696">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

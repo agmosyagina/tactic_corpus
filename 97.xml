@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/97.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"How to set the perfect winter table", "There's no doubt we all love getting dressed up for a special occasion, and there's no reason you shouldn't put the same effort into dressing your home. Whether you're hosting a lunch or dinner party or just want a reason to make some effort (here's looking at you, lockdown!), there's plenty you can do to ensure your table setting is the centre of attention when entertaining. This season, it's all about natural neutrals with pops of greenery that really bring the outside in. <Node id="520"/>Recently, we teamed up with Country Road to build the perfect table setting from the ground up &#x2014; and it's not sore on the eyes<Node id="646"/>. Led by our creative director Natasha Allen, the dream VL table is a mix of white linens, natural fibres and raw materials.<Node id="770"/> Utilising Country Road's newest homewares range &#x2014; which is packed with handmade pieces guaranteed to impress &#x2014; Natasha looked to textures including wood, cotton and glass to create a sense of balance and character on the table<Node id="997"/>. "With the cooler months upon us, we wanted to look at how you can bring the outdoors inside and how we can layer a neutral palette," says Natasha, who talks us through her table setting in the video above. "Don't be afraid to layer your neutral palette. To add elegance to a winter indoor setting, simply use white on white and incorporate natural fibres."Turning to Country Road items like the 'Cani' tray (crafted using timber sourced from responsibly managed forests) and 'Brae' napery, the table has earthy elements from the outset. Peppered with found vines and buds from the garden, the centrepiece of the table doesn't detract from the details. <Node id="1651"/>Country Road 'Dane' vases <Node id="1677"/>provide a pop of elegance<Node id="1702"/> amongst the greenery, with weighty mouth blown glass contrasting against the whites of the 'Tapas' crockery &#x2014; simple white stoneware pieces designed to last and look good at the same time. "Vases are a simple way <Node id="1916"/>to create an interesting focal point on your table<Node id="1966"/>. Country Road has a huge selection of vases. Just use different sizes to create layers," Natasha recommends<Node id="2074"/>. For a twist on the traditional setting, serve your dishes up in shallow bowls, which give the experience a restaurant-quality feel. "Bowls are the new essential dinnerware," Natasha reveals. "What I love about them is that they are so versatile and modern." And her final tip? "Once your table is set and dinner is sorted, kick back with a glass of wine and wait for your guests to arrive. Enjoy your next dinner party!" Visit: CountryRoad.com.au"<Node id="2523"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="520" EndNode="646">
+</Annotation>
+<Annotation Id="2" Type="RefAuthority" StartNode="770" EndNode="997">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="1651" EndNode="2074">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="1677" EndNode="1702">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="1916" EndNode="1966">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2523">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/83.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"What does Australian style look like to the rest of the world?", "Just as the A-beauty movement has carved out its own instantly-recognisable niche globally for its simplicity, as well as its natural look and feel, Australian fashion has too gained similarly ease-driven recognition. <Node id="285"/>With descriptors including 'relaxed', 'effortless', and 'casually elegant' frequently cited when pinpointing the essence of our local style<Node id="424"/>, homegrown labels that have gained our love by striking a balance between luxury and adaptability, an equilibrium embodied by Oroton's sartorial offerings<Node id="579"/>. <Node id="581"/>Experiencing a reinvigoration with the appointment of creative director, Sophie Holt, at the brand's helm in 2018, we were once again reminded of Oroton as a destination for accessible luxury and its synonymity with expert craftsmanship through Holt's creative vision, as well as the brand's ethos as a destination for modern luxury made for real life<Node id="932"/>. This brand ideal has been strengthened by its introduction of ready-to-wear offerings in addition to the evolution of its leather goods. <Node id="1071"/>The past two years have seen Holt's vision for the heritage Australian brand take form, its offering now inclusive of fresh colourways, sumptuous fabrics and leathers, covetable designs and luxurious finishes, and a wear experience that keeps utility and unfussiness front and centre while also elevating everyday looks. This combination makes each and every Oroton piece a desirable, yet adaptable, addition to any wardrobe<Node id="1495"/>. <Node id="1497"/>The brand's newest seasonal release, titled The Reset, is a clear continuation of this design approach. Boasting utilitarian silhouettes, loosely-tailored suiting, and a gentle colour palette showcased through sun-faded stripes and statement prints, the collection echoes its namesake season, not only through its primary hues, but also through its regenerative associations<Node id="1871"/>. <Node id="1873"/>The collection's easy-breezy spirit was inspired by Holt's memorable childhood holidays spent in Northern Queensland, a getaway much of her customer base could likely recall themselves, the creative tapping into her sun-drenched recollections to bring The Reset to life<Node id="2142"/>. <Node id="2144"/>"Like so many, we have been reflecting on special moments, the nostalgia of holidays in the sun, the idea of a warm escape, and what it means now to go slow and be in the moment," Holt herself notes. Expect feminine detail contrasting with suiting and slightly masculine tailoring crafted out of beautiful Italian linens and fine cottons, retro holiday nods materialised through stripes, map print and vintage shell motifs and dominating shades of peach, mint and lemon<Node id="2613"/>. <Node id="2615"/>The entire collection was also designed to be layered, with Holt consciously designing each piece to be worn in this way, arming each wearer with the confidence to get into styling that's typically considered a little more complex<Node id="2845"/>. "When building the collection, we carefully consider colour and the way these tones mix together from one season to the next," Holt noted, adding: "we also designed with a real sense of optimism in mind, and so the shapes have a confidence, an energy and modernity, which is very important to me." <Node id="3145"/>Oroton's Spring Reset collection will be available to shop in-store and online from September 2, so ready your spring wardrobes<Node id="3272"/>."<Node id="3274"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="SamePlatform" StartNode="285" EndNode="424">
+</Annotation>
+<Annotation Id="2" Type="EvalTransfer" StartNode="285" EndNode="579">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="581" EndNode="932">
+</Annotation>
+<Annotation Id="4" Type="PositiveEval" StartNode="1071" EndNode="1495">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="1497" EndNode="1871">
+</Annotation>
+<Annotation Id="6" Type="EvalTransfer" StartNode="1873" EndNode="2142">
+</Annotation>
+<Annotation Id="7" Type="EvalTransfer" StartNode="2144" EndNode="2613">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="2615" EndNode="2845">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="3145" EndNode="3272">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3274">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

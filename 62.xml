@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/62.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Coach meets Jean-Michel Basquiat in this year's coolest collaboration<Node id="70"/>", "For his latest collection, first debuted on the runway in February as a part of autumn/winter '20/'21, Coach's creative director, Stuart Vevers, tapped the work of visionary changemaker and artist Jean-Michel Basquiat, <Node id="293"/>to weave a unique brand of magic and art over the label's beloved fashion line. The joining of two modern pioneers has resulted in a highly covetable collection that is far more than the sum of its parts<Node id="496"/>. Both brands, of course, have a deep-rooted connection to New York City, and this geographical synergy has certainly served. <Node id="622"/>Coach is a luxury label synonymous with the effortless style of the city that never sleeps<Node id="712"/>, defined by modernity and quality. Brooklyn-born Basquiat's work first came to attention as graffiti on the Lower East Side in New York. His raw, neo-Expressionist style rose to acclaim in the late 70s and 80s, but its resonance continues today. <Node id="959"/>So, it's little surprise that the alliance has created a perfect alignment on an axis of uptown sophistication-meets-downtown cool<Node id="1089"/>. "Basquiat is one of my heroes. He embodied the creative, inclusive spirit of New York and was a force for change in his community. I am proud to celebrate his work and values and help bring them to a new generation," explained Vevers. For Coach X Jean-Michel Basquiat, Vevers employed some of Basquiat's most iconic trademarks, like the crown, the banana, the New York City skyline and 1984's 'Pez Dispenser', <Node id="1501"/>to bring creativity and edge to Coach's perfectly-crafted pieces. Velvety suede and glove-tanned leather bags are expertly finished with bold, subversive motifs that make major statements<Node id="1688"/>. <Node id="1690"/>We predict a sure-fire sell-out of the black City Blocks Square Bag decked with Basquiat's spotted banana<Node id="1795"/> &#x2014; <Node id="1798"/>it's form paired with function, with enough punch to elicit compliments from strangers that pass it<Node id="1897"/>. Alongside the collection of bags are a few other stylish standouts, including interchangeable Basquiat-covered straps, tees and Coach-favourite silhouette and nod to their all-American roots, the Varsity Jacket. During the design process, in a gracious homage to the genius artistic talent, Vevers channelled Basquiat's energy and spirit, celebrating the artist's rebellious nature. "When creating the collection, I imagined Basquiat's friend wearing a Coach [piece] and him drawing all over it. That's the feeling I wanted to create in the clothing," said Vevers. The collection's campaign is inspired by Basquiat's vision of activism through art, and features an extensive roster of talent including faces of the house Jennifer Lopez, Michael B. Jordan, basketballer Jeremy Lin and actress Yang Zi, as well as model Paloma Elsesser, musicians Jon Batiste and Diana Gordon, artist Kyemah McEntyre and beauty entrepreneur (and Basquiat's niece) Jessica Kelly. <Node id="2859"/>In Coach X Jean-Michel Basquiat, the design house has taken art off the walls and sent it into the streets<Node id="2965"/>. <Node id="2967"/>Want to see more of this collection? Vogue Australia's Market Editor, Kaila Matthews &amp; GQ Australia's Deputy Editor, Christopher Riley live streamed from Coach QVB and took us through the inspiration behind the collection and their favourite pieces! Missed our live event? That's ok! Watch it now here<Node id="3268"/>."<Node id="3270"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="70">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="70">
+</Annotation>
+<Annotation Id="3" Type="PositiveEval" StartNode="293" EndNode="496">
+</Annotation>
+<Annotation Id="4" Type="EvalTransfer" StartNode="622" EndNode="712">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="959" EndNode="1089">
+</Annotation>
+<Annotation Id="6" Type="PositiveEval" StartNode="1501" EndNode="1688">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="1690" EndNode="1795">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="1798" EndNode="1897">
+</Annotation>
+<Annotation Id="9" Type="EmotionalSetup" StartNode="2859" EndNode="2965">
+</Annotation>
+<Annotation Id="12" Type="Mask" StartNode="2967" EndNode="3268">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactcs">
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3270">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

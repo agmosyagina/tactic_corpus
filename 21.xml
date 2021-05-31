@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/21.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Treat your skin like gold with Australian-made vegan beauty brand esmi Skin Minerals<Node id="85"/>", "<Node id="89"/>Uncover your most radiant skin yet with esmi Skin Minerals<Node id="147"/>.", "A trans-seasonal switch up of our beauty routine is like a rejuvenating holiday for our skin. In the same way we stow our thick winter clothes away for another year and pull out our favourite summer pieces come the summer months, it's time to hit the reset button on the 'same/same' beauty products we've been using for months on end. <Node id="487"/>But, what to sub into our routines for glowing summer skin? Think: Australian-made, vegan, cruelty-free beauty brand, esmi Skin Minerals<Node id="623"/>. <Node id="625"/>It's one of the best-kept beauty secrets and boasts a range of serums called Skin Treats, which are exactly that: a treat for the skin<Node id="759"/>. <Node id="761"/>And who can ever say no to a treat? <Node id="797"/>Especially not one specifically for your skin<Node id="842"/>. The hero of the Skin Treats range is the vegan beauty brand's best-selling 24K Gold Nourishing Oil. <Node id="944"/>The height of luxury for your skin without an eye-watering price tag<Node id="1012"/> (the recommended retail price is an affordable $65), esmi Skin Minerals' cult favourite 24K Gold Nourishing Oil contains actual 24-karat gold leaf flakes along with a slew of other high quality glow-up ingredients&#x2013;evening primrose oil, vitamin E, avocado oil and more&#x2013;<Node id="1281"/>which all work harmoniously together to encourage your skin to look as though the clock has been turned back to a time when your skin was firm, youthful and radiant<Node id="1445"/>. Haven't dabbled in the face oil category before? esmi Skin Minerals' 24K Gold Nourishing Oil is the perfect entry point, with a non-greasy formula that is ideal for use as a moisturiser for those with dry or combination skin. Another great option from esmi Skin Minerals' Skin Treats range is the Anti-Redness Minty Green Smoothie. <Node id="1779"/>This lightweight, green hued mint-scented serum is the most calming of skin-savers<Node id="1861"/>. Put it to work on your visage to cool and heal damaged, inflamed skin resulting from acne or anything else that has caused skin to be red, puffy and irritated. <Node id="2023"/>esmi Skin Minerals is not just your beauty line-up's new best skincare friend, it also has you comprehensively covered in the make-up department<Node id="2167"/>. For those who prefer their foundation coverage sheer to let the skin's natural radiance shine through, esmi Skin Minerals' Mineral BB Cream is your new go-to<Node id="2326"/>. With three shades, including light, medium and tan to choose from, and the inclusion of SPF15, it's a beauty bag must-have. <Node id="2452"/>Like a little more coverage from your foundation? esmi Skin Minerals' Liquid Mineral Foundation is for you<Node id="2558"/>. Available in four shades, an SPF15 and made with skin-benefitting ingredients including aloe vera, hyaluronic acid and shea butter, this is one multi-tasking, hardworking foundation. <Node id="2743"/>And, with the festive season just around the corner, there's no better time to add a beauty saviour or two from esmi's stellar range to your Christmas wish list or to your shopping list to gift to a lucky recipient on your festive buying list<Node id="2985"/>. Head to www.esmi.com.au for more information and to shop the esmi range."<Node id="3060"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="85">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="85">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="89" EndNode="147">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="89" EndNode="147">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="487" EndNode="623">
+</Annotation>
+<Annotation Id="7" Type="PositiveEval" StartNode="625" EndNode="759">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="761" EndNode="842">
+</Annotation>
+<Annotation Id="10" Type="AdvTeam" StartNode="797" EndNode="842">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="944" EndNode="1012">
+</Annotation>
+<Annotation Id="12" Type="Mask" StartNode="1281" EndNode="1445">
+</Annotation>
+<Annotation Id="13" Type="GoalSub" StartNode="1281" EndNode="1445">
+</Annotation>
+<Annotation Id="14" Type="PositiveEval" StartNode="1779" EndNode="1861">
+</Annotation>
+<Annotation Id="15" Type="Mask" StartNode="2023" EndNode="2326">
+</Annotation>
+<Annotation Id="16" Type="EmotionalSetup" StartNode="2023" EndNode="2167">
+</Annotation>
+<Annotation Id="17" Type="Mask" StartNode="2452" EndNode="2558">
+</Annotation>
+<Annotation Id="18" Type="Mask" StartNode="2743" EndNode="2985">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3060">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

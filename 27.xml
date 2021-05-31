@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/27.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>ModelCo's latest campaign comes with an important message<Node id="58"/>", "<Node id="62"/>The pioneering Australian beauty brand launches its latest campaign with the help of five home-grown role models<Node id="174"/>.", "<Node id="179"/>If you have your finger on the beauty pulse, you're probably well aware that A-Beauty &#x2013; that is, brands that celebrate our Aussie pedigree &#x2013; is having a moment<Node id="338"/>. <Node id="340"/>Where our beauty bags are concerned, it seems the global consumer can't get enough of the clever, results-driven offering that hails from our shores<Node id="488"/>. Much of that buzz is thanks to ModelCo. Since launching the brand with a humble heated eye-lash curler in 2002 and revolutionising the self-tanning market with its Tan Airbrush In A Can, the brand has continued to innovate and deliver beauty breakthroughs, making it one of Australia's most successful beauty exports to date. "We're grounded with the belief that beauty and integrity should be synonymous," says ModelCo CEO and founder, Shelley Sullivan. This has never been more apparent then in the brand's latest campaign, Tested On Role Models, Not Animals, featuring five Australian role models championing causes close to their heart. Newcastle beauty, runway regular and proud Awabakal woman Charlee Fraser shares her commitment to the environment for the campaign, while model and free diver Astrid Holler speaks to the importance of ocean conservation and the effect of over-fishing. The pair are joined by climate-change warrior Cameron Stephens, feminist Matilda Dods and activist Agi Akur who each share their hopes for a better planet. <Node id="1539"/>The choice was an obvious one for the brand who have been vegan certified and cruelty free for over 20 years<Node id="1647"/>. "Our shoppers have always been passionate&#x2013;not only about others, but their planet," says Sullivan, who, having started her own career as a model agent, knows the importance of championing positive role models. "This evolution is a playful ode to beauty with substance, and making a mark that matters in the world. That's part of our DNA." Of course, the products make their mark, too. The campaign celebrates the brand's most popular formulas including the cult LashXtend Tubing Mascara and the Turbo Lash Wand Heated Eyelash curler which has been supercharged with an LED Light. As far as mascaras go, <Node id="2252"/>The LashXtend  stands out for good reason: it has unrivalled lengthening capability with no sign of smudging or caking around the lashline that removes effortlessly with warm water. Likewise, ModelCo's hero Tan Mousse boasts a self-adjusting formula for a perfect year-round glow<Node id="2531"/>. Other firm favourites include summer staples like the Luminosity Shimmer Whip highlighter and Shine Ultra Lip Gloss. <Node id="2650"/>What they all have in common however, is that every formula is free from animal ingredients and has been tested by a beauty aficionado (and role model) like you<Node id="2810"/>."<Node id="2812"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="58">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="62" EndNode="174">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="179" EndNode="338">
+</Annotation>
+<Annotation Id="4" Type="SamePlatform" StartNode="179" EndNode="338">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="340" EndNode="488">
+</Annotation>
+<Annotation Id="6" Type="SamePlatform" StartNode="340" EndNode="488">
+</Annotation>
+<Annotation Id="7" Type="EmotionalSetup" StartNode="1539" EndNode="1647">
+</Annotation>
+<Annotation Id="8" Type="RefAward" StartNode="1539" EndNode="1647">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="2252" EndNode="2531">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="2650" EndNode="2810">
+</Annotation>
+<Annotation Id="11" Type="Compliment" StartNode="2650" EndNode="2810">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2812">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

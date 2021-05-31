@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/92.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>This virtual interior design event features a <Node id="47"/>*seriously* good line-up<Node id="71"/>", "The likes of Bobby Berk, Martyn Lawrence Bullard and Abigail Ahern will be speaking at the open to the public event.", "<Node id="195"/>As lovers of interior design well know, it's often hard to get your foot inside that professional door if you're just that, an enthusiast and not a professional. But now, that all changes. Due to restrictions from Covid-19, one of Australia's biggest trade design shows, Decor + Design 360 in conjunction with the Australian International Furniture Fair, is going completely online &#x2014; and the keynote presentations are open to all. Who's involved? Well, the International Seminar Series line-up is pretty impressive. From London-based designer and tastemaker Abigail Ahern (loved by everyone from Gwyneth Paltrow to British Vogue), to Kardashian decorator Martyn Lawrence Bullard and even Queer Eye's Bobby Berk, the slew of big names is pretty impressive. And that's just the beginning<Node id="980"/>. The new format Decor + Design 360 will be run in the same Q&amp;A style that the in-person trade event takes place, just this time completely virtually. Now, for the first time, seminar spots are available to those not in the industry,<Node id="1213"/> giving interior novices and enthusiasts a chance for a dip inside the exclusive world<Node id="1299"/>. Running from Monday 28 September to Friday 2 October 2020, Decor + Design 360 does exactly as the name suggests by offering a 360-degree view into the world of design, architecture and interiors. Local favourite Greg Natale will host a masterclass in patterns &#x2014; his signature &#x2014; and will teach the virtual audience how to embrace colour and texture in their homes. <Node id="1665"/>On a different note, leading trend forecaster Victoria Redshaw will talk to 2021's biggest design trends, discussing everything from colours to specific furniture styles. If you're always ahead of the curve, this is one for you<Node id="1892"/>. Designer Andre Fu, known for his work with luxury hotels and fashion brands like Louis Vuitton, will host a seminar on crossing cultures in hotel design, discussing everything from custom furniture to his design process. Further, seminars from names including James Treble &#x2014; an award winning Australian interior designer &#x2014; and Houston-based designer Paloma Contreras, will explore practical design tips and discuss elegance in design, respectively. <Node id="2343"/>In other words, there really is something for everyone<Node id="2397"/>. The event is curated by Skye Rytenskild, Decor + Design's creative director, and will feature cameos from magazine editors, designers and tastemakers alike. <Node id="2556"/>Registration is key, so make sure you sign up here now. Tickets to specific seminars are available from here<Node id="2664"/>. Visit: decordesignshow.com.au"<Node id="2696"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="71">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="47" EndNode="71">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="195" EndNode="980">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="1213" EndNode="1299">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="1665" EndNode="1892">
+</Annotation>
+<Annotation Id="6" Type="Hyperbolization" StartNode="2343" EndNode="2397">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="2556" EndNode="2664">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2696">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

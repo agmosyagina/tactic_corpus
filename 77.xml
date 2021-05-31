@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/77.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Sally Fitzgibbons takes her Land Rover Defender off the beaten track<Node id="69"/>", "<Node id="73"/>The all new Land Rover Defender is your <Node id="113"/>most reliable surf buddy yet<Node id="141"/>.", "If you have ever needed a reason to explore some of Australia's own backyard, right now is the perfect time - and this is especially true for Sally Fitzgibbons. The champion pro surfer has experienced an unusual amount of downtime this year, after the cancellation of the 2020 World Surf League tour. <Node id="447"/>But in order to make the most of her unexpected break in her home country of Australia, the Land Rover ambassador has taken the opportunity to catch up with friends, explore some of NSW's best coastline and get to know the new Land Rover Defender. Recently, Sally took one of her oldest friends for a fun-packed weekender driving around the mid-north NSW coast in her Land Rover Defender<Node id="834"/>. Hitting the sand and surf at the beautiful Cellito Beach in The Great Lakes area, Sally and Ange got to really explore one of Sally's favourite surf spots via the new Defender's capable four wheel drive system. After a quick condition check, Sally jumped in her Land Rover Defender and took off in search of some of the best (read: remote) surf spots in the area. <Node id="1200"/>Thanks to the Defender's ruggedness and versatile driving mode, the girls were able to enjoy a bit of light off-roading, driving on the beach in Sand Mode, <Node id="1356"/>safe in the knowledge that the Defender's built-in tyre pressure monitoring was keeping everything in check<Node id="1463"/>. <Node id="1465"/>Driving through mud and sand to get to their ultimate beach spot, the Defender was the perfect vehicle to take exploring<Node id="1585"/>. As they hit the waves with barely another soul in sight, the girls revelled in the idyllic setting and indulged in some late afternoon yoga while watching the sunset from the Defender's open tailgate<Node id="1786"/>. <Node id="1788"/>The relaxed setting was accompanied by Sally's own music streamed through Apple Car Play, which allows you to seamlessly sync your phone through the stereo system<Node id="1950"/>. <Node id="1952"/>The Defender's impressive features also allowed the girls to travel in supreme comfort. With extensive off-road capabilities, a side mounted storage box, generous boot space, panoramic sunroof and even a portable shower, the all-new Defender is the perfect 4WD to take on a weekend adventure. Add to that, its durable and non-nonsense design and you can see why the Defender has been such an icon for so many years. The culmination of 70 years of innovation and improvement, the new Defender is Land Rover's strongest vehicle ever made. Tested extensively to ensure it can withstand practically any terrain it's faced with, the latest incarnation of the Defender represents the highest standards of durability, design and in-car tech. The Land Rover Defender is packed with new features and has been perfectly reimagined as a 4WD for the digital age. Built for exploring, its combination of smart features and advanced off-road technology has safety in mind, making it ready for any kind of Australian environment &#x2014; be it soil, sand, dirt or rock. Highly customisable and built to withstand the harshest Australian elements<Node id="3075"/>, <Node id="3077"/>the new Defender is the 4WD of choice for adventurous Aussies<Node id="3138"/>."<Node id="3140"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="1" EndNode="69">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="73" EndNode="141">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="113" EndNode="141">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="447" EndNode="834">
+</Annotation>
+<Annotation Id="5" Type="RefAuthority" StartNode="1200" EndNode="1463">
+</Annotation>
+<Annotation Id="6" Type="GoalSub" StartNode="1356" EndNode="1463">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="1465" EndNode="1786">
+</Annotation>
+<Annotation Id="8" Type="EvalTransfer" StartNode="1465" EndNode="1585">
+</Annotation>
+<Annotation Id="9" Type="EvalTransfer" StartNode="1788" EndNode="1950">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="1952" EndNode="3075">
+</Annotation>
+<Annotation Id="11" Type="SamePlatform" StartNode="3077" EndNode="3138">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3140">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/8.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Inside Billy Blue's Speaker Series 2020", "Hosted in celebration of the 10-year anniversary of Billy Blue's Branded Fashion Design courses<Node id="139"/>.", "<Node id="144"/>The fashion industry is a rather tight-knit one, composed of talented innovators who have learnt to hone their craft surrounded by like-minded individuals. <Node id="300"/>It's this inspiring community of creators<Node id="341"/> that Billy Blue College of Design at Torrens University Australia has the ability to tap into, giving its students the opportunity to learn from the very best in the business<Node id="516"/>. Since the inception of Billy Blue's Branded Fashion Design courses in 2010,<Node id="593"/> the ability to immerse yourself within the esteemed fashion industry has never been easier<Node id="684"/>. <Node id="686"/>And it's this career-defining element that first established the program as one worthy of your time some 10 years ago - an anniversary Billy Blue College of Design recently celebrated with its 2020 Speaker Series<Node id="898"/>. On Thursday, December 10, the finale of The Torrens University Speaker Series, which was hosted at Billy Blue's Ultimo campus, welcomed a number of seasoned industry leaders - including celebrated fashion designer Alex Perry, Pip Edwards of P.E. Nation, and Vogue Australia's very own deputy editor, Jessica Montague - to the stage to touch on everything from their biggest career lessons to their unique paths to success with MC, Tim Gilbert and Billy Blue's very own Dean Dr Mieke Leppens and Branded Fashion alumna Amelia Lee. "What does success really mean? I couldn't do it and I took the leap of faith," Edwards shares of her transition into fashion during the course of the series. "I took a pay cut, I basically gave up everything I knew to join this industry...I was living and breathing [fashion from a very young age]. The annual event gave those who registered their interest the opportunity to hear from industry experts, academic staff and fashion's thought leaders, who each passed on the key learnings they've procured from years of experience on the job. Throughout the series, participation was also encouraged via a live Q&amp;A forum, enabling attendees to join in on the conversation. This event followed on from last year's inaugural Speaker Series, which took place across Torrens University Australia's various Sydney campuses. <Node id="2248"/>If you're wondering if the Bachelor of Branded Fashion Design is for you, it's equally important to note <Node id="2353"/>it isn't just for those who wish to pursue fashion design alone, the decade-old course equips its graduates with a plethora of industry standard skills that promise to prepare them for careers in everything from merchandising and planning to buying and production - meaning there is truly something for everyone at Billy Blue College of Design<Node id="2696"/>. "I think having that vision in mind is just so important, but also thinking about fashion, there's so many avenues in fashion. It's not just about design, you can go into the technology side of things, you can go into the financial side of things...You can do so many things in fashion and I just think it's about finding what you're passionate about," says Lee, who was quizzed on her message for those looking to break into the industry. <Node id="3138"/>If you're looking to delve deeper into the world of fashion, and are keen to get hands-on experience in technical drawing, garment construction and brand management skills, whilst simultaneously familiarising yourself with the business and marketing knowledge needed to succeed, be sure to explore all that Billy Blue's Branded Fashion Design courses have to offer<Node id="3502"/>."<Node id="3504"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="139">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="144" EndNode="341">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="300" EndNode="516">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="593" EndNode="684">
+</Annotation>
+<Annotation Id="6" Type="AdvTeam" StartNode="686" EndNode="898">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="2248" EndNode="2696">
+</Annotation>
+<Annotation Id="8" Type="Hyperbolization" StartNode="2353" EndNode="2696">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="3138" EndNode="3502">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3504">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

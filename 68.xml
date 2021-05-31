@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/68.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Register for Torrens University's new free online course, geared towards a better understanding of mental health", "<Node id="117"/>Learn how to be a better support figure for those affected by depression<Node id="189"/>.", "If Covid-19 has illuminated anything, it is that every individual is wrestling with something in one way or another. The unfolding pandemic has exacerbated this reality: economic downturns, business closures, school closures and increased unemployment have led many to confront a changing future&#x2014;one that is clouded with more uncertainty than ever. Understandably, this had led to an upswing in poor mental health, and with no immediate end&#x2014;or vaccine for Covid-19&#x2014;in sight, navigating oneself back onto a positive path again is difficult to do. <Node id="740"/>Yet out of this challenging period, many have risen up and taken the time spent at home to reevaluate what is most important, channelling their energies into studying up and learning skills that will secure their future, whatever it may bring. That's why Torrens University Australia, in partnership with Beyond Blue, has mobilised this moment to develop a free short course that gives insight into the multifaceted experiences of depression. <Node id="1183"/>In turn, the course is set to better position individuals to act as figures of support for friends or family affected by mental health<Node id="1317"/>. Aptly called 'Understanding Depression. Learning from Lived Experience', the course focuses on just that: the lived realities of those affected by depression. Approached in this way, the course is designed to help those close to people affected by mental health to detect depressive symptoms, offer support and actively work to destigmatise depression. As Emma Donaldson, Senior Learning Facilitator in Education at Torrens University reflects: "we are excited to co-design a course that is centred around stories shared by people who have experienced depression... The lived experience perspectives are central to the course design and content so that learners... can gain a deeper understanding about how to support someone living with depression." <Node id="2070"/>Should you enrol in the free course, you will be introduced to a diverse range of experiences affected by mental health, so that you can better recognise these first-hand<Node id="2240"/>. By enlisting employers, clinicians, volunteers and educators&#x2014;whose experiences are vastly different to one another&#x2014;the course aims to give participants a holistic view of the everyday challenges that can compound experiences of depression and what one can do as a friend, colleague, community or family member to help. By enrolling, the aim is that all participants not only gain a closer look at the lived reality of depression, but also help to disseminate information about how to better manage mental health and work together towards greater social acceptance and normalisation of discussions of depression in wider circles. This short course complements the university's bigger mission to work with and for the communities which it serves and educates. Torrens University's partnership with Beyond Blue follows in the university's ongoing support of organisations such as OzHarvest, Smith Family and Talent Over Tourettes, as it works to address universal issues faced by the wider national and global community at large. Of the partnership, Georgie Harman, CEO of Beyond Blue explains: "understandably, Covid-19 has caused an enormous spike in people experiencing the symptoms of depression." She continues: "depression may not look the same for everybody - and that's why it's important to learn the signs. It's also important to note that depression doesn't only affect the individual experiencing it, it also affects those around them. This course - designed by lived experience experts - will help people 'on the outside' to better understand, connect with and respond to those living with depression." With flexible online learning options, an emphasis on small classes and guidance towards opportunities in counselling and mental health available, <Node id="4002"/>Torrens University's addition of this short course to its wide stable of courses is not only free, but immensely valuable to anyone looking to gain a greater appreciation, as Harman outlines, for what those who are affected by depression may go through<Node id="4254"/>. To register for this short course, or learn about all courses available at Torrens University, click here."<Node id="4363"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="GoalSub" StartNode="117" EndNode="189">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="117" EndNode="189">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="117" EndNode="189">
+</Annotation>
+<Annotation Id="4" Type="Motive" StartNode="740" EndNode="1317">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="1183" EndNode="1317">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="2070" EndNode="2240">
+</Annotation>
+<Annotation Id="7" Type="GoalSub" StartNode="4002" EndNode="4254">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4363">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

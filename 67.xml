@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/67.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Valentino's new collection will define 2020<Node id="44"/>", "<Node id="48"/>It is not often that the feeling we are witnessing history steals over, but in the case of Valentino's Pierpaolo Piccioli, seeing the fashion savant's creations is to see part of our era of style being defined<Node id="257"/>. The autumn/winter '20/'21 collection from the Italian house distils everything the creative director has worked ceaselessly to emphasise in fashion: humanity, unity, equality whilst celebrating individuality. These core values come to the fore in a time of upheaval; not only has Piccioli become the lodestar for the industry at large, but the collection drew on themes he has been building since becoming sole creative director of the 1959-founded house in 2016. <Node id="723"/>Leading with looks in black, layered upon in restrained tailoring, then fluid fabrics and eventually colour via soft nudes, blood red and the signature 'Valentino red' of the Roman house, he established a duality that spoke at once of individuality&#x2014; the idea that the clothes, in a minimal colour palette, allowed room for the wearer's individual character &#x2014; and unity &#x2014; pieces in refined lines, <Node id="1119"/>can become a uniform for all to wear<Node id="1155"/>. "<Node id="1158"/>That thing that we can connect all human beings with are emotions<Node id="1223"/>," the designer, who sent out a diverse cast, of men, women and non-gender binary models from all walks of life for this outing, has previously said. The collection carries on his work building an inclusive house and follows in the footsteps of the models he cast for spring 2019 couture, where he reimagined Cecil Beaton's famous 1948 image of all-white models in Charles James dresses with instead a roster of black women front and centre. The sentiment is captured in the house's landmark campaign for both men and women: #ValentinoEmpathy. <Node id="1767"/>Shot in lockdown, Australian model and friend of the house Adut Akech, as well as Gwyneth Paltrow, Anwar Hadid, Naomi Campbell, are photographed at their respective homes, wearing pieces their way &#x2014; all appearing alongside one another as contemporaries and equals<Node id="2030"/>. The campaign underscores the collection's relevance to the real world, and the real lives of people all over the world, in a manner typical to Piccioli: leading by doing, and not just speaking his values. In a visual representation of Piccioli's vision, age, gender and background becoming irrelevant as each experience life during a shared-global challenge. <Node id="2391"/>Human connection and the power of human touch also gain in importance at Valentino, and find a renewed relevance in a world where priorities have shifted<Node id="2544"/>. The label's Valentino Garavani Atelier 03 Rose Bag embodies this. So named after the atelier, where the Italian houses couture confections are made each season, the bag is part of Piccioli's approach to accessories, taking couture-level techniques and applying them to bags. <Node id="2821"/>Made from hand-moulded leather petals, in soft Nappa and goat leather, meticulously layered by hand, it is a pean to the artistry of the craftsmen and women. The bags for the season draw on four house codes &#x2014; the rose, the bow, the rouche and the stud &#x2014; taking an old-world elegance and rendering it modern, as the the Valentino Garavani Atelier 03 Rose does, inspired by the house's floral motif, coming in a variety of sizes from hold-all shoulder bag, to a smaller cross-body style. In five colours, deep blood red, black, Rosso (our signature colour and important to reference accurately), ivory and a shade known as rose canelle&#x2014; a delicate nude &#x2014;, it springs to life in three dimensions and reinforces Piccioli's view that couture techniques have a life beyond couture itself &#x2014; it can be worn over the shoulder, or paired with a T-shirt<Node id="3663"/>. Indeed, the designer imagines the experience carries into the in-store experience: appointments can be made at Valentino stores to get acquainted with a bag that's already created waitlists worldwide on its release. Echoing this are the shoes &#x2014; <Node id="3910"/>Valentino Garavani lug-sole 'UniqueForm' boots that speak of a feeling grounded<Node id="3989"/>. It follows then that Piccioli nominated a generous donation in lieu of talent fees for #ValentinoEmpathy to the Lazzaro Spallanzani Hospital in Rome in support of the fight against Covid-19, in this way connecting the campaign with direct and material impact. The one million Euro donation follows previous donations to other hospitals in both Italy and France, and is part of a long-term commitment to support the medical frontline. Be it clothes, couture, or a campaign, the Valentino house, building on the values of its creative director, has proposed a new way to think about fashion. <Node id="4581"/>Emphasising clothing's ability to make us feel<Node id="4627"/>, <Node id="4629"/>Piccioli brings together those who believe in unity, and humanity, whilst allowing room for individual expression<Node id="4742"/>. <Node id="4744"/>A collection to define the values of our age<Node id="4788"/>. To shop the autumn/winter'20/'21 collection and Valentino Garavani Atelier 03 Rose bag now in-store, call Sydney Westfield (02) 8404 0888, or visit https://www.valentino.com/en-au/help/customercare. Valentino fashion experts are also on hand in both Sydney and Melbourne to assist with any queries, either in-store, or when shopping remotely online."<Node id="5140"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Hyperbolization" StartNode="1" EndNode="44">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="48" EndNode="257">
+</Annotation>
+<Annotation Id="3" Type="AdvTeam" StartNode="723" EndNode="1155">
+</Annotation>
+<Annotation Id="4" Type="Hyperbolization" StartNode="1119" EndNode="1155">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="1158" EndNode="1223">
+</Annotation>
+<Annotation Id="6" Type="RefAuthority" StartNode="1767" EndNode="2030">
+</Annotation>
+<Annotation Id="7" Type="EmotionalSetup" StartNode="2391" EndNode="2544">
+</Annotation>
+<Annotation Id="8" Type="PositiveEval" StartNode="2821" EndNode="3663">
+</Annotation>
+<Annotation Id="9" Type="GoalSub" StartNode="3910" EndNode="3989">
+</Annotation>
+<Annotation Id="10" Type="GoalSub" StartNode="4581" EndNode="4627">
+</Annotation>
+<Annotation Id="12" Type="SamePlatform" StartNode="4629" EndNode="4742">
+</Annotation>
+<Annotation Id="13" Type="Hyperbolization" StartNode="4744" EndNode="4788">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="5140">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

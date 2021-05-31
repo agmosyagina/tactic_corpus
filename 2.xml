@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/2.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Prada makes a strong case for the return of the It-bag<Node id="55"/>", "<Node id="59"/>The Pradasphere ushers in the holiday season with a cinematic masterpiece and covetable cast of accessories<Node id="166"/>.", "There are few in this world with the power to make trends bend to their will but Miuccia Prada is one such woman - if the doyenne of fashion proclaims it, so be it. And the Italian designer has her heart set on the return of the It-bag, albeit a streamlined, Prada-fied version. Under the eye of Prada this return comes with a thrilling backstory and slew of heroines, protagonists and antagonists to keep you enthralled. Conceived at the behest of Prada, the brand's holiday campaign takes cues from an original short story by best-selling author Candice Carty-Williams, the pen behind Queenie. Entitled 'A Stranger Calls', the brand's 2020 holiday campaign, photographed by Steven Meisel, proves to be a cinematic masterpiece. Riffing on film noir elements, the mystery taps a cast of five - Freja Beha, Maty Fall, Mao Xiaoxing, Rudolfs Valbergs and Merlijne Schorren - who descend upon the famous Italian Villa Gnutti, a favourite of Helmut Newton. There's everything you could want from a whodunnit: a mysterious stranger, unexplained disappearances, sparkling clues and <Node id="1246"/>an exceptional wardrobe. It's that latter that kept us rapt<Node id="1305"/>, the stills from the campaign capturing the tension and drama of the narrative, <Node id="1386"/>whose heroes - the Prada Cleo handbag, for example - dominate our view<Node id="1456"/>. <Node id="1458"/>It is, of course, your new It-bag<Node id="1491"/>, the sleek and inherently feminine range that marries form and function so seamlessly. Touted as "an evolution of identity, a reinvention of heritage", the Prada Cleo made its debut at the 'Multiple Views' spring/summer 21 show and is said to draw on the brand's archival styles. The embodiment of Prada's past with a dash of ever-present futurism, the streamlined style strikes the hard-won balance between innovative and timeless. And undoubtedly, the entire Cleo line will feel wearable for generations, the precise form with its curved base and gently sloping side crafted to hug the body<Node id="2084"/>. Aesthetic considerations aside, the line also underscores Prada's commitment and expertise in regard to construction. <Node id="2204"/>Engineered using time-honoured techniques, the brushed calfskin and lightweight spazzolato calf leather, feels both sumptuous and strong<Node id="2340"/>. The colour palette for both the flap and top-opening styles is also as classically Prada as you might imagine: black and white, orchidea blush, and the signature acqua. Though the Prada Cleo might command the spotlight, this protagonist does share her turn in the holiday campaign with a worthy ensemble should you need more than a new It-bag for distraction. Cue the Prada Galleria handbag, the Vanity compact-bags, Saffiano nylon travel accessories and an array of jewels in silver or gold with tourmaline that reinterpret the iconic lines of the Prada triangle. It's the iconic emblem that reappears throughout the campaign, sometimes cast as a delicate necklace, lariat or pair of chandelier earrings, that reinforces the creativity and exceptional storytelling present in every Prada collection. <Node id="3143"/>No matter your tastes, it's clear Miuccia Prada has offered up the world a new star, <Node id="3228"/>an It-bag worthy of a leading role in your life<Node id="3275"/>."<Node id="3277"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="55">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="59" EndNode="166">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="59" EndNode="166">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="1246" EndNode="1305">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="1386" EndNode="1456">
+</Annotation>
+<Annotation Id="6" Type="PositiveEval" StartNode="1458" EndNode="2084">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="1458" EndNode="1491">
+</Annotation>
+<Annotation Id="8" Type="PositiveEval" StartNode="2204" EndNode="2340">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="3143" EndNode="3275">
+</Annotation>
+<Annotation Id="10" Type="AdvTeam" StartNode="3228" EndNode="3275">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3277">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

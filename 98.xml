@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/98.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>This in-salon service may be <Node id="30"/>the best<Node id="38"/> thing you can do for your hair this month<Node id="80"/>", "If you're reading this, there's a good chance you're well-versed in colouring your hair. Your relationship with your colourist may involve heading to the salon every four to six weeks in an effort to cover peeking grays, or you may subscribe to balayage, highlights, lowlights or baby-lights. Frankly, the list of options when it comes to transforming our tresses is endless. However, while you may have traditionally viewed hair colouring services as a means to alter the colour of your natural tresses, Redken's pioneering in-salon service, Shades EQ Gloss, <Node id="644"/>focuses on tonal tweaks to your existing colour while dialing up shine and luminosity<Node id="729"/>. <Node id="731"/>Why we love it? Rather than a complete colour overhaul, Shades EQ Gloss is demi-permanent, offering a colour-boost to lacklustre tresses via an ultra-conditioning formula<Node id="901"/>. For more on how it actually works, read on. It delivers unrivalled shine. <Node id="977"/>We all know the feeling<Node id="1000"/>. <Node id="1002"/>You clock your reflection in the mirror and seemingly overnight, your hair has shifted from bright to bland. Sure, you may not be sporting an inch of regrowth, but that colour you painstakingly endured hours in the salon for may have lost its sparkle thanks to a host of factors including incorrect home-care or environmental aggressors like UV and pollution<Node id="1360"/>. That's where Shades EQ Gloss steps in<Node id="1399"/>. <Node id="1401"/>Redken dubs their in-salon colour service 'the colour that thinks it's a conditioner' for good reason. That conditioning superpower is thanks to a handful of active ingredients including cationic complex (to deeply condition strands), keracare (which prevents breakage) and coconut oil (to boost vibrancy). While this whip-smart service can certainly conceal grays, colour-correct, and tweak the overall colour of your strands, it's conditioning formula dramatically amps up shine factor, making it the perfect service to prolong the life of your tresses between appointments<Node id="1976"/>. It works with what you already have.<Node id="2014"/> Consider Shades EQ Gloss the team player of the beauty salon. Whether you're a colour chameleon who changes up their tresses frequently, or someone who has never coloured their hair: there's a Shades EQ Gloss for you. Even if you're partial to pastels strands (think buttery peach, pink and even baby blue), a Shades EQ Gloss could dial up the vibrancy of that colour<Node id="2382"/>. Meanwhile blondes may toy with a pastel-hued Gloss over their existing colour for a seasonal switch up. Balayage too &#x2014; which has a tendency to throw off brassiness between appointments &#x2014; can benefit from a Shades EQ Gloss to counteract golden undertones, while there are a host of Gloss shades to ensure brunette strands shine from root to tip. Moreover, Shades EQ Gloss's are suitable for any hair texture and are completely free of ammonia. Time is on your side. <Node id="2849"/>While you probably don't need reminding: modern life is busy. <Node id="2911"/>And while some of us may relish the me-time a trip to the salon brings, there's no denying it can be an often-lengthy process<Node id="3036"/>. <Node id="3038"/>To prolong the life and shine of their clients' colour, top stylists like Jaye Edwards and Sheree Knobel (who discovered Shades EQ Gloss early on) now see their clients monthly for a quick Gloss service, particularly between those longer salon appointments<Node id="3294"/>. With minimal processing time, the service sets a new record in colour services and can be complete in under half an hour. What to expect from a Shades EQ Gloss service? The formula is simply applied to strands at the basin and left to process for 20 minutes, before being washed off. It's as simple as that. Watch the video above to learn more about Redken's Shades EQ Gloss in-salon service."<Node id="3689"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="3" Type="Mask" StartNode="1" EndNode="80">
+</Annotation>
+<Annotation Id="4" Type="Melioration" StartNode="30" EndNode="38">
+</Annotation>
+<Annotation Id="5" Type="EmotionalSetup" StartNode="1" EndNode="80">
+</Annotation>
+<Annotation Id="6" Type="GoalSub" StartNode="644" EndNode="729">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="731" EndNode="901">
+</Annotation>
+<Annotation Id="8" Type="SamePlatform" StartNode="977" EndNode="1000">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="977" EndNode="1399">
+</Annotation>
+<Annotation Id="10" Type="Motive" StartNode="1002" EndNode="1360">
+</Annotation>
+<Annotation Id="11" Type="PositiveEval" StartNode="1401" EndNode="1976">
+</Annotation>
+<Annotation Id="12" Type="Mask" StartNode="2014" EndNode="2382">
+</Annotation>
+<Annotation Id="13" Type="RefWitness" StartNode="3038" EndNode="3294">
+</Annotation>
+<Annotation Id="14" Type="Mask" StartNode="2849" EndNode="3036">
+</Annotation>
+<Annotation Id="15" Type="Motive" StartNode="2911" EndNode="3036">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3689">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

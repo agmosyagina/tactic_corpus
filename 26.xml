@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/26.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>The eco-friendly swimwear label your summer wardrobe needs<Node id="59"/>", "Sydney-based Lynne Tramonte and Kay Howitt had been long-term friends and colleagues amongst some of the country's biggest swimwear brands when they realised they could combine their vast knowledge and craft something all of their own. In 2018, together the clever duo formed Monte &amp; Lou, a swimwear and resort label that simultaneously gets style and sustainability right. <Node id="437"/>Inspired by the commonalities of their childhoods in Sydney's picturesque Northern Beaches &#x2013; of long, hot summers spent on pristine beaches and in clear, blue waves - the pair set about to create a luxurious but relaxed range of swimsuits they knew women would love<Node id="702"/>. <Node id="704"/>One that flattered all forms and did so without adversely impacting the planet. The eco credentials at Monte &amp; Lou run deep<Node id="827"/>. "We have always been mindful of our environmental impact and the ethics of our pieces from start to finish," explains Howitt. <Node id="955"/>Bikinis and one-pieces are made using 85% recycled nylon yarn, manufactured from recycled materials like plastic bottles, finishing nets and carpet fibres. In fact, all fabrics used in the swimwear and resort collections meet a certifiable standard for responsible manufacture, including reduced chemicals and fair work conditions. Monte &amp; Lou also digitally print their exclusive patterns on their designs, since the practise uses significantly less water, and utilise biodegradable packaging throughout their entire supply chain. The brand also believes passionately in preventing over-production, a practise which typically plagues the fashion industry and impacts the environment considerably<Node id="1651"/>. <Node id="1653"/>With highly detailed construction techniques and a focus on craftsmanship, each Monte &amp; Lou piece is built for longevity. These are swimsuits which don't just see you through a few seasons &#x2013; they're created to last<Node id="1867"/>. <Node id="1869"/>Each Monte &amp; Louswim piece is also fully lined with a silky-touch, high-stretch fabric, which has a firming and smoothing effect as it wears<Node id="2009"/>. Since they also know the importance of comfort, innovative fabrications in the line have seen it heralded as "quick-dry technology," meaning on a hot summer's day they're dry to the touch 20 minutes after you step out of the water. Aside from state-of-the-art fabrics, <Node id="2280"/>Monte &amp; Lou's expertise lies in offering a variety of fits, so that no body shape is left behind, and every woman can feel her best<Node id="2411"/>. Sophisticated cuts &#x2013; the kind only honed from a career spent designing swimsuits for Australian women - mean the 8-to-16 sizing can accommodate a vast variety of cup sizes too. The latest collection is titled 'Holiday at Home,' inspired by the idea of celebrating the beauty in your own backyard. <Node id="2710"/>Monte &amp; Lou want us to get back to nature, embrace simple pursuits and find the true joy of an Australian summer<Node id="2822"/>. That means unique signature prints, including retro-referencing florals, as well as classics like solid black and leopard print. Floaty print dresses and silky sarongs provide perfect summer holiday accompaniments to a wardrobe of swim pieces. Or for a very Summer 20/21 take on resort-chic, a long-sleeve, button-front shirt, left swinging open over a bikini or buttoned and tied at the belly, is an essential."<Node id="3236"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="59">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="59">
+</Annotation>
+<Annotation Id="3" Type="EvalTransfer" StartNode="437" EndNode="702">
+</Annotation>
+<Annotation Id="4" Type="PositiveEval" StartNode="704" EndNode="827">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="955" EndNode="1651">
+</Annotation>
+<Annotation Id="6" Type="PositiveEval" StartNode="1653" EndNode="1867">
+</Annotation>
+<Annotation Id="7" Type="PositiveEval" StartNode="1869" EndNode="2009">
+</Annotation>
+<Annotation Id="9" Type="Hyperbolization" StartNode="2280" EndNode="2411">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="2710" EndNode="2822">
+</Annotation>
+<Annotation Id="11" Type="EmotionalSetup" StartNode="2710" EndNode="2822">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3236">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

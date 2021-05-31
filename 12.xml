@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/12.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>The fashion-forward doll we've all been waiting for is here with Barbie Extra<Node id="78"/>", "Visit the post for more.", "<Node id="110"/>The practice of doll play has not only proven to create a space for children to gain self-confidence and essential social skills, it's also long been known to have opened up a space for them to express their own style and experiment with a number of looks - this fashion-focus play at the core of Barbie's latest offering, Barbie Extra<Node id="445"/>. <Node id="447"/>Encouraging children to discover and deck themselves out in their own unique style, one which isn't bound by anyone else's tastes or overarching trends, Barbie Extra's mission comes with the name: to create dolls that are as playful and over-the-top as you want them to be<Node id="719"/>. <Node id="721"/>Barbie Extra allows kids to experiment with bolder fashion choices and a 'more is more' approach to dressing through imaginative doll play. Think glitter, gummy bears, emojis, bright colours and iridescent shimmer - even their pets are highly accessorised and, yes, extra!<Node id="993"/> <Node id="994"/>Helping children remember that anyone can be a trendsetter are three of the first-ever Barbie Extra dolls, which are not only the embodiment of fun fashion and bold, bright statements through their own unique styling, but also offer an improved fashion and styling play experience with their posable and articulated bodies<Node id="1316"/>. Be wowed with the first Barbie Extra doll's beautifully-styled hair, which features a afro with braid detailing, as well as her technicolour wardrobe. Dress her in her rainbow coat and matching red athleisure set, and feel free to pair the look with glitter-splashed boots, sunglasses that read "shine bright" and a cloud-shaped purse. Her pet poodle compliments her perfectly with star-shaped sunglasses, puppy heels, and a puppy purse filled with treats. <Node id="1775"/>And the second Barbie Extra doll is just as fantastical with her long, shimmery, and two-tone pink and purple hair, her wardrobe of an iridescent ruffle dress over a cloud print shirt, fishnet tights and sneakers, accessorised with a neon green beanie, statement necklaces and diamond-shaped bag accessories, proving just as dream-worthy as her shaggy dog's jewelled "boss" collar<Node id="2155"/>. And if a doll with crimped hair topped with pink streaks and stylish clips prove to be a better match, and a look complete with a bright and fluffy pink jacket, denim jeans with star-print and winged boots, as well as pearl sunglasses, necklaces, a gummy bear ring and candy bar clutch, sounds like a dream wardrobe, then the third Barbie Extra doll will be a perfect match. <Node id="2532"/>And if three different Barbie Extra dolls don't provide enough of a space for fantasy fashion styling, then visit Barbie's YouTube Channel for all the Barbie Extra content you could ever want<Node id="2723"/>. The Barbie Extra range will be available shop later this month in Big W stores across Australia and online."<Node id="2833"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="SamePlatform" StartNode="1" EndNode="78">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="78">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="1" EndNode="78">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="110" EndNode="445">
+</Annotation>
+<Annotation Id="5" Type="AdvTeam" StartNode="447" EndNode="719">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="721" EndNode="993">
+</Annotation>
+<Annotation Id="7" Type="EmotionalSetup" StartNode="721" EndNode="993">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="994" EndNode="1316">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="994" EndNode="1316">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="1775" EndNode="2155">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="2532" EndNode="2723">
+</Annotation>
+<Annotation Id="12" Type="Motive" StartNode="2532" EndNode="2723">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2833">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

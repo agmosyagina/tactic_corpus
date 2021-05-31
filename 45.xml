@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/45.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>H&amp;M is transforming Australia's online shopping landscape for the better<Node id="73"/>", "Fashion retail in Australia has changed dramatically in the last decade. <Node id="150"/>And while some companies have failed to adapt with the times<Node id="210"/>, H&amp;M has barely missed a beat. When its customers asked for a more sustainable offering, the trendsetting retailer listened. The launch of its first dedicated online store in Australia is a testament to this. H&amp;M's e-commerce platform isn't just a premium shopping experience &#x2014; it's an education. Each garment includes a detailed description that outlines its country of origin and production, its material composition, as well as tips on how to wash and care for the item in the most environmentally-friendly way. Of course, it's one thing to know you're purchasing with purpose. <Node id="792"/>But H&amp;M's collections, which capture the fashion zeitgeist every time, empower us to look and feel good when putting an outfit together<Node id="927"/>. <Node id="929"/>Recently, Vogue editor Rebecca Bonavia styled three such outfits, from H&amp;M's new season range<Node id="1022"/>. Included in her edit are pieces from the Spring Conscious Collection, such as an ethereal maxi dress crafted from 100 per cent recycled fabric. "<Node id="1169"/>It's something that everyone is now looking for<Node id="1216"/>," says Rebecca Bonavia of the cultural shift in fashion, which has seen brands up-cycle existing materials into new styles. Another of Vogue's key looks is a shorts and blazer ensemble that marries pastel tones with more earthy shades. "If shorts aren't your thing, you can definitely style this look with a skirt or pants," says Rebecca Bonavia. <Node id="1564"/>Each of these looks can be purchased from H&amp;M's Australian-exclusive online store, alongside the brand's wildly popular in-house Fashion Studio Collections and their infamous designer collaboration collections, which have previously involved collaborations with of-the-moment luxury designers such as Stella McCartney, Maison Martin Margiela and Versace<Node id="1917"/>. SHOP THE LOOKS"<Node id="1934"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="73">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="73">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="1" EndNode="73">
+</Annotation>
+<Annotation Id="4" Type="NegLabels" StartNode="150" EndNode="210">
+</Annotation>
+<Annotation Id="5" Type="EmotionalSetup" StartNode="792" EndNode="927">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="792" EndNode="927">
+</Annotation>
+<Annotation Id="8" Type="RefAuthority" StartNode="929" EndNode="1022">
+</Annotation>
+<Annotation Id="9" Type="Hyperbolization" StartNode="1169" EndNode="1216">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="1564" EndNode="1917">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1934">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

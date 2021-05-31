@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/72.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Why antioxidants are the answer to healthy skin, according to a doctor", "<Node id="75"/>And the potent skincare product that this professional loves most<Node id="140"/>.", "<Node id="145"/>Pondering exactly which active ingredients your skincare regimen needs can be a daunting task when you're faced with the latest lotions and potions to choose from<Node id="307"/>. <Node id="309"/>To help us figure out how to prioritise what we need, Vogue spoke to Melbourne-based plastic surgeon Dr Frank Lin<Node id="422"/>. Dr Frank Lin is a specialist plastic, reconstructive and aesthetic surgeon and a leader in the field of minimally invasive aesthetic treatments. He also regularly trains students at Melbourne and Monash University Medical Schools, so you can be assured he's a bona fide expert in aesthetic medicine and how skin functions. Dr Lin's favoured skin regimen is one that involves cosmeceuticals, rather than a standard face cream. "Cosmeceutical products differ from standard skincare in that they contain more active ingredients like antioxidants or vitamins," says Lin. "This often necessitates that the products are more rigorously studied, tested and are backed by scientific research. And generally, this leads to products that deliver better results, which are more targeted and individualised to the characteristics and problems unique to your skin." <Node id="1277"/>In Lin's practice, he regularly recommends Skinceuticals to patients. "Skinceuticals have been our partner since the day EST Clinic first opened its doors, founded on the shared belief that the highest quality product and services can only come from a rigorous pursuit of science<Node id="1556"/>. Ultimately, what I like most about the brand is that I can trust the products to deliver the best possible skincare to complement the work that I do," he explains. Dr Lin says that potent antioxidants are the key to high-performance skincare, and visible results on the skin. "Antioxidants have an important role in the prevention and repair of free radical damage that we accumulate throughout our lifetime. In the skin, that damage leads to the breakdown of our natural collagen and promotes inflammation, leading to the formation of fine lines and wrinkles, loss of elasticity, uneven skin tone, and in some cases, increases the risk of skin cancers. Antioxidants are used to neutralise the damage done by these free radicals. They improve visible signs of ageing, brighten skin tones, protect against UV damage, promote the skin's ability to recover from injury and reduce inflammatory changes in the skin. They play a vital part of healthy skin function and should be a part of every skin routine," he says. Of course, not all antioxidants are created equal. "Given the sheer number of antioxidants on the market today, you'd be quite justified in feeling overwhelmed by the bewildering array available. A high-quality product is one that is backed by rigorous scientific research. They're often formulated with not only a high concentration of quality ingredients, but also in combination with other ingredients that work synergistically. In my opinion, the most important antioxidants in topical products are vitamin C, vitamin E and resveratrol," Lin advises. <Node id="3126"/>One of Dr Lin's most recommended Skinceuticals product is the renowned CE Ferulic, which fast became a cult favourite when it launched in 2005. The sophisticated formula boasts a potent combination of vitamins C and E and ferulic acid, which work to protect the skin against free radical damage (the kind caused by things like exposure to UV rays and pollution), reduce inflammation and stimulate collagen. This power-packed skin serum works to improve the appearance of fine lines, wrinkles and loss of firmness, as well as brightening skin and boosting radiance, all with once-daily application. Vitamin E functions to soothe strung out skin, meaning it's a formula that's well tolerated by all skin types and conditions, even following a procedure like laser (though of course this should be in consultation with your physician)<Node id="3957"/>. <Node id="3959"/>So, why is Skinceuticals CE Ferulic so effective?<Node id="4008"/> <Node id="4009"/>Dr Lin says it's all about smart formulations and premium ingredients<Node id="4078"/>. "Vitamin C is the most abundant antioxidant in skin and is important not only in sun protection, but in replenishing dermal collagen and wound healing. This is particularly relevant to the recovery of the skin following injury such as sun exposure. Its absorption is critically dependent on formulation. While many products on the market contain vitamin C, it is only the highest quality formulations &#x2014; like those formulated in combination with vitamin E and ferulic acid &#x2014; that will deliver the ingredient to the skin in a way that optimises absorption," he says. <Node id="4645"/>An efficient beauty regimen isn't only about what's in your products, but how it gets to where you need it most<Node id="4756"/>."<Node id="4758"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="75" EndNode="140">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="145" EndNode="307">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="309" EndNode="422">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="1277" EndNode="1556">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="3126" EndNode="3957">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="3959" EndNode="4008">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="4009" EndNode="4078">
+</Annotation>
+<Annotation Id="8" Type="Mask" StartNode="4645" EndNode="4756">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4758">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

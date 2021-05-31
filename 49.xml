@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/49.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>This eco-friendly leather shopper bag will take you from desk to bar to barre<Node id="78"/>", "<Node id="82"/>ECCO has designed the ultimate accessory for every occasion&#x2014;with an eco-conscious twist&#x2014;with its Tannery series<Node id="193"/>.", "The warmth of sun-drenched summers brings with it joyful days filled with sunset drinks after a long day of work, afternoon walks and barre classes with friends, or even an apres-work swim. <Node id="388"/>And, with such a packed summer schedule our daily sartorial line-up needs to cover off all our bases. Meaning? We need a bag that not only works with every outfit, but one which will help covertly carry your day. Just in time for the warmer weather, ECCO has introduced its Tannery series, especially designed with those who are constantly moving from one place to another in mind<Node id="768"/>. <Node id="770"/>The timeless and functional silhouette of the Tannery series is not only practical, it also offers brand new vivid colourways detailed with classic, high-quality finishes<Node id="940"/>. <Node id="942"/>Clear room in your bag collection for a practical, yet aesthetically pleasing, <Node id="1021"/>shopper bag to overtake all other shopper bags<Node id="1067"/>. Designed in a single generous size and crafted out of a raw-edge, premium leather dyed in colours including the classic black, white, tan, teal and bronze, each featuring a contrasting black shoulder strap, each design's uniqueness is emphasised by the brandishing of a series number on each piece. <Node id="1368"/>Designed for the "city dweller" who has a strong sartorial sense, the bag also embodies the unshakeable social values of these very same individuals<Node id="1516"/>, each bag in the Tannery series is made from excess leather stock from the innovation labs in ECCO's tannery. A place which sees craftsmanship and creativity come together, the ECCO Leather tannery in the Netherlands produces a vast array of unique leather pieces per year, producing samples that span the class, the premium and the downright experimental that are just waiting for a second life. "<Node id="1915"/>The ECCO Leather innovation labs are like Charlie's chocolate factory<Node id="1984"/>. There are so many incredible leathers developed there, and we want to do something special&#x2014;and responsible&#x2014;with the unused samples," says Birgit Kroger, product director of ECCO Leather Goods. <Node id="2179"/>With the desire to upcycle at its core, the eco-conscious Tannery range expresses ECCO's commitment to both cutting-edge leather innovation, as well as prioritising a more sustainable production model, their devotion to reducing waste in turn giving any shopper the opportunity to wear the style in clear conscience<Node id="2494"/>&#x2014;<Node id="2495"/>"They value simple and functional design that makes life easier. They value eco-friendly design and production. They value choices that let them express themselves," says Kroger of the style's customer<Node id="2696"/>. With the Tannery range its latest expression of its eco-friendly ethos, ECCO has long pioneered an environmentally-friendly approach, creating leather goods that are <Node id="2864"/>designed for a life well-lived<Node id="2894"/>, and that simultaneously embody style and sustainability&#x2014;all without wavering on quality. <Node id="2985"/>Each piece is created entirely in-house <Node id="3025"/>within the brand's gold star-rated tannery<Node id="3067"/>, from design to development, from hide to collection, a process which guarantees both uniqueness and the highest of quality with each piece produced<Node id="3216"/>, and harks back to the familial beginnings of the brand in 1963 by brothers Birte and Karl Toosbuy. The ECCO Leather Tannery Series 001 is now available to shop exclusively in ECCO's Canberra Centre and Pitt Street Sydney stores."<Node id="3447"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="78">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="78">
+</Annotation>
+<Annotation Id="3" Type="GoalSub" StartNode="1" EndNode="78">
+</Annotation>
+<Annotation Id="4" Type="Hyperbolization" StartNode="82" EndNode="193">
+</Annotation>
+<Annotation Id="5" Type="Motive" StartNode="388" EndNode="768">
+</Annotation>
+<Annotation Id="6" Type="SamePlatform" StartNode="388" EndNode="768">
+</Annotation>
+<Annotation Id="7" Type="PositiveEval" StartNode="770" EndNode="940">
+</Annotation>
+<Annotation Id="8" Type="Mask" StartNode="942" EndNode="1067">
+</Annotation>
+<Annotation Id="9" Type="AbstrComparison" StartNode="1021" EndNode="1067">
+</Annotation>
+<Annotation Id="10" Type="AdvTeam" StartNode="1368" EndNode="1516">
+</Annotation>
+<Annotation Id="11" Type="Compliment" StartNode="1368" EndNode="1516">
+</Annotation>
+<Annotation Id="12" Type="PositiveEval" StartNode="2179" EndNode="2494">
+</Annotation>
+<Annotation Id="13" Type="Allusion" StartNode="1915" EndNode="1984">
+</Annotation>
+<Annotation Id="14" Type="AdvTeam" StartNode="2495" EndNode="2696">
+</Annotation>
+<Annotation Id="15" Type="EmotionalSetup" StartNode="2864" EndNode="2894">
+</Annotation>
+<Annotation Id="16" Type="RefAward" StartNode="3025" EndNode="3067">
+</Annotation>
+<Annotation Id="17" Type="PositiveEval" StartNode="2985" EndNode="3216">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3447">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

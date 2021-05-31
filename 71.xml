@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/71.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"How your favourite fashion businesses adapted and survived the pandemic lockdown", "With a little help from <Node id="109"/>another Australian favourite<Node id="137"/>, Australia Post, some local businesses rode the Covid-19 wave into the digital future.", "There's no question that Covid-19 restrictions and lockdowns have been challenging for businesses. Across the country&#x2014;especially in Victoria&#x2014;businesses are struggling with the new normal we've come to live in. But for those who adapted quickly and early, the stresses of lockdown were alleviated somewhat by the <Node id="540"/>quick thinking and ingenuity of support systems&#x2014;including those  provided by Australia Post<Node id="631"/>, who every Vogue reader is likely to know was an essential support during this uncertain time. Breaking records all over the place, Australia Post saw higher demand than ever before following lockdown announcements in March&#x2014;bigger even than Christmas and Black Friday combined&#x2014;which led to quick thinking and a pivot in strategy. <Node id="962"/>Australia Post supported businesses, to ensure Australians were able to easily and confidently shop online for their purchases<Node id="1088"/>. So with so many businesses now well and truly moved into e-commerce and online marketplaces, what does the future of shopping look like? According to Shane Lenton, CIO at Australian fashion institution Cue, it's the concept of an "endless aisle". "At any time, we might have around 10,000 units of stock in our warehouse but close to 80,000 units across our network of stores," he explains. "And on any given week, we'll release about 30 new styles. Our customers love that newness and freshness, but what it means is sizes sell out quickly in certain locations." <Node id="1654"/>Working with Australia Post, Cue is able to ensure sizes and stock are readily available for their customers, no matter where they are. Using a specialised order routing system, Cue can detect the closest stock when each order is placed, which then triggers a booking with StarTrack. This means the customer gets the order as quickly as possible and can track it every step of the way<Node id="2038"/>. Likewise, Cue has been able to turn traditional retail stores in Victoria into fulfillment centres for online orders.<Node id="2157"/> Further, Cue implemented technology to allow shoppers to access a virtual stylist even when shopping from home. "Whenever we look at developing new ideas, the ultimate goal is to reduce friction and <Node id="2357"/>create the best customer experience<Node id="2392"/>. All the underlying technology&#x2014;such as artificial intelligence for recommendations, the booking platform&#x2014;is what enables our stylists to <Node id="2530"/>provide such a personal experience<Node id="2564"/> during a virtual session," Lenton says<Node id="2603"/>. And of course, underpinning it all is the delivery service. <Node id="2665"/>Australia Post has been working with Australian businesses, like Cue, <Node id="2735"/>to ensure customers feel empowered to shop online no matter where they live<Node id="2810"/>. <Node id="2812"/>So while the pandemic hasn't been easy for businesses, it's never been more important for retailers to be looking local for their customer solutions. <Node id="2962"/>And for customers to be supporting Australian-owned brands and businesses<Node id="3035"/>. Happy shopping!<Node id="3052"/> Discover what Australia Post can do for your business at auspost.com.au/business. This article is provided for general information purposes only and is not intended to be specific advice for your business needs."<Node id="3265"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="EmotionalSetup" StartNode="109" EndNode="137">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="540" EndNode="631">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="962" EndNode="1088">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="1654" EndNode="2038">
+</Annotation>
+<Annotation Id="7" Type="Melioration" StartNode="2357" EndNode="2392">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="2157" EndNode="2603">
+</Annotation>
+<Annotation Id="9" Type="AdvTeam" StartNode="2530" EndNode="2564">
+</Annotation>
+<Annotation Id="11" Type="EmotionalSetup" StartNode="2357" EndNode="2392">
+</Annotation>
+<Annotation Id="12" Type="GoalSub" StartNode="2665" EndNode="2810">
+</Annotation>
+<Annotation Id="13" Type="EmotionalSetup" StartNode="2735" EndNode="2810">
+</Annotation>
+<Annotation Id="14" Type="Mask" StartNode="2812" EndNode="3052">
+</Annotation>
+<Annotation Id="15" Type="SamePlatform" StartNode="2962" EndNode="3035">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3265">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

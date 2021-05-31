@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/80.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Your first look at NIVEA's new limited edition deodorant, designed by Australian label By Johnny<Node id="97"/>", "Schembri is one of three leading Australian fashion designers hand-picked by Vogue Australia, in partnership with NIVEA, to create designs for a new range limited edition deodorant. "It was so great to work with NIVEA and Vogue on an exclusive design for Black &amp; White Clear deodorant," Schembri says of the project. "It's been an exciting collaboration." Schembri was assigned NIVEA's iconic product, the Black &amp; White Clear Deodorant, which is so named because <Node id="564"/>its formula will keep your designer pieces in pristine condition&#x2014;it's a deodorant that is designed to prevent marks on clothing<Node id="691"/>. This appealed to the By Johnny design sensibility of effortless elegance.<Node id="766"/> "Many of my bold and geometric designs can be worn day-to-day or for that special event and any time you want to look your best. <Node id="896"/>It is so important to feel put-together and this deodorant is perfect for that<Node id="974"/>," says Schembri<Node id="990"/>. "It keeps you dry and protects your garments so your blacks stay black and your whites stay white for longer, which is key to creating a really polished look." <Node id="1152"/>Unsightly deodorant marks are definitely something to avoid but when it comes to the efficacy of a deodorant, we know it's not all about the way it looks&#x2014;NIVEA's Black &amp; White Clear deodorant also works. This range, which is available in both aerosol and roll-on, offers 48-hour antiperspirant protection and its gentle formula works hard to care for your skin<Node id="1512"/>. Schembri said when designing for NIVEA Black &amp; White Clear deodorant he remained true to his brand's vivid, graphic design ethos - as represented in the bright pink and contrasting black accents. "I created a few designs that were true to my aesthetic and I think the one I settled on is very representative of what I do. It was about bringing together contrasting colours and graphic elements in my bold signature style." <Node id="1937"/>For Schembri, this project wasn't all that different from creating a dress, as his focus is always on empowering the wearer<Node id="2060"/>. "I love it when I see someone bringing one of my designs to life, seeing them feeling confident, putting a spin on the styling and making it their own. That's what makes me happy." You can shop the limited edition deodorant here."<Node id="2292"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="97">
+</Annotation>
+<Annotation Id="2" Type="RefAuthority" StartNode="766" EndNode="990">
+</Annotation>
+<Annotation Id="3" Type="GoalSub" StartNode="564" EndNode="691">
+</Annotation>
+<Annotation Id="4" Type="EmotionalSetup" StartNode="896" EndNode="974">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="1152" EndNode="1512">
+</Annotation>
+<Annotation Id="7" Type="GoalSub" StartNode="1937" EndNode="2060">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2292">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/11.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"How Seafolly revolutionised bikini shopping for Australian women", "<Node id="69"/>As we look forward to the iconic Aussie swimwear brand's new Summer 2020 collection, we look back at the way it changed the way we buy swimwear altogether<Node id="223"/>."', "On Bondi Beach in the 1980s, just about every cool girl was wearing a Seafolly bikini. <Node id="316"/>At a time when Australia was emerging as an international tourist destination, the family-owned swimwear brand's tropical prints and high-cut Lycra suits became a beacon of our cheeky yet effortless seaside (or poolside, or riverside) style. But unlike many brands that peaked in the '80s, Seafolly's original essence has endured<Node id="645"/>. Today, the brand's bathers are practically a prerequisite to any summer holiday. <Node id="728"/>And again, unlike other brands, being caught on a wave in the same Seafolly suit as someone else doesn't feel like an awkward faux pas<Node id="862"/>. <Node id="864"/>Usually, it inspires a compliment to the tune of 'cute suit!' and a chance to meet another member of this saltwater-loving, swimwear-obsessed community<Node id="1015"/>. Of course, this year hasn't provided us with ample opportunities to justify a new bikini purchase. <Node id="1116"/>But now that summer is upon us and Australia is blooming with the promise of adventure, we've got every excuse under the blazing sun to press purchase on a new underwater outfit (or three. Or four.) And Seafolly is our first point of call - after a year spent in isolation, the brand's empowering Summer 2020 collection is exactly what we want to step out in<Node id="1474"/>. <Node id="1476"/>From sporty one-shoulder styles in juicy green to this pair of gingham high-waisted briefs - which sound vintage but look modern - this is a collection defined by deliciously bold colours and unique prints that celebrate the <Node id="1701"/>feminine spirit unique to Australian women<Node id="1743"/>. In true Seafolly style, the collection is made up of 'separates'. <Node id="1811"/>You might not know it, but the brand was one of the first swimwear labels to sell bikini tops and bottoms separately, which we take for granted today but was a revolutionary step forward for women <Node id="2008"/>because let's face it, whose butt is the same size as their boobs?<Node id="2074"/> <Node id="2075"/>And indeed, matching a strapless top in this shade with a string bottom in that shade is one of our favourite parts of the Seafolly shopping experience. <Node id="2228"/>It's a fun exercise in styling<Node id="2258"/>.<Node id="2259"/> But Seafolly's 'separates' model also allows women to choose pieces that fit and flatter all of their features<Node id="2370"/>. Putting the swimsuits in the Summer 2020 collection to the test are Aussie supermodels Charlee Fraser and Georgia Fowler, who are quite literally glowing in the brand's new season campaign. <Node id="2562"/>Just like Kristy Hinze did in 2001 and Miranda Kerr did in 2007, this year, Fowler and Fraser are evolving the legacy of what it means to be a home-grown face of Seafolly today - strong, active and empowered<Node id="2769"/>, whether you're wearing a one piece, bikini, tankini or some breezy resort wea<Node id="2848"/>r. <Node id="2851"/>Seafolly might be the brand we all turn to for stylish new swimmers today. But before it became Australia's go-to bathing suit brand it transformed the way Aussie women - and women worldwide - shopped for swimwear altogether<Node id="3075"/>. This summer, when we go to pick out our new top and bottom, we'll be reminding ourselves of that<Node id="3173"/>."<Node id="3175"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="SamePlatform" StartNode="69" EndNode="223">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="69" EndNode="223">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="69" EndNode="223">
+</Annotation>
+<Annotation Id="4" Type="AbstrComparison" StartNode="316" EndNode="645">
+</Annotation>
+<Annotation Id="5" Type="AbstrComparison" StartNode="728" EndNode="862">
+</Annotation>
+<Annotation Id="6" Type="SamePlatform" StartNode="864" EndNode="1015">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="1116" EndNode="1474">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="1116" EndNode="1474">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="1476" EndNode="1743">
+</Annotation>
+<Annotation Id="10" Type="SamePlatform" StartNode="1701" EndNode="1743">
+</Annotation>
+<Annotation Id="11" Type="Motive" StartNode="1811" EndNode="2074">
+</Annotation>
+<Annotation Id="12" Type="NarrowCircle" StartNode="2008" EndNode="2074">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="2075" EndNode="2258">
+</Annotation>
+<Annotation Id="14" Type="EmotionalSetup" StartNode="2228" EndNode="2258">
+</Annotation>
+<Annotation Id="15" Type="GoalSub" StartNode="2259" EndNode="2370">
+</Annotation>
+<Annotation Id="16" Type="SamePlatform" StartNode="2562" EndNode="2769">
+</Annotation>
+<Annotation Id="17" Type="Compliment" StartNode="2562" EndNode="2848">
+</Annotation>
+<Annotation Id="18" Type="Mask" StartNode="2851" EndNode="3173">
+</Annotation>
+<Annotation Id="19" Type="EmotionalSetup" StartNode="2851" EndNode="3075">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3175">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

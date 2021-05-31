@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/22.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Meet the stars of Samsung's Greatest Gift film<Node id="47"/>", "From simply staying in touch with friends and family, to finding inventive ways to have fun and celebrate the ones we love, 2020 has seen us take our relationship with technology to new heights. This year may have presented more challenges than most, but one of its greatest gifts has been the way it has inspired us to use our creativity (and our smartphones) to stay connected with one another like never before. <Node id="466"/>Collectively showing our love for people via video message has become an important part of how we communicate, with each of these new digital endeavours pushing the limits of our imaginations a little further and the bar ever higher. Enter British rapper AJ Tracey and actor Jess Alexander with the Greatest Gift, an A-list lesson in creative collaboration brought to you by the Samsung Galaxy Z Flip<Node id="866"/>. <Node id="868"/>The film sees AJ Tracey, Jess Alexander and a cast of Vogue talent &#x2013; Harris Reed, Rina Sawayama and Checking Invoices &#x2013; use Samsung's physics-defying phone to produce a video gift for a famous friend<Node id="1067"/>. As the Samsung Galaxy Z Flip helps them to effortlessly connect and create, each of their entertaining artistic efforts offers insight into who the recipient of the film might be as well as just what this foldable phone can do. "I'm feeling the fact that it's a flip phone, I've been missing that feeling of whipping my phone out and flipping it up to shout someone since school &#x2013; it's very nostalgic," AJ Tracey tells Vogue. <Node id="1495"/>For the London-born rapper, who has been staying connected with more than 1 million Instagram followers and a staggering 7 million average Spotify listeners per month via live-streams, the Samsung Galaxy Z Flip's hands-free videoing capabilities (enabled by its flexible Hideaway Hinge) are also a key part of its appeal. For Tracey's co-star British actor Jess Alexander the Samsung Galaxy Z Flip's design is pleasing in both style and practical terms. "I love the design, it means the screen's protected and I can actually fit my phone into my handbags and my pockets," she explains &#x2013; see the 21-year-old's Instagram for a healthy dose of '00s style inspiration alongside some ingenious examples of how to draw your audience's attention to some of 2020's most important causes. Like so many of us AJ Tracey and his co-stars have found this year more challenging than most. But what does Tracey think 2020's greatest gift has been? "I think 2020's greatest gift is that, amid all of the chaos and negativity, I've personally learnt not to take anything for granted."<Node id="2562"/>"<Node id="2563"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="47">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="466" EndNode="866">
+</Annotation>
+<Annotation Id="3" Type="SamePlatform" StartNode="466" EndNode="866">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="868" EndNode="1067">
+</Annotation>
+<Annotation Id="5" Type="RefAuthority" StartNode="1495" EndNode="2562">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2563">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

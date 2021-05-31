@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/6.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Aussie TikTok star Jazz takes us through her creative process", "<Node id="66"/>How her HP ENVY laptop has helped turn a hobby into a brand<Node id="125"/>.", "Five years ago, Jazz started making her first videos and posting them online. "It was never something I saw as more than a hobby," she recalls. "I started lip syncing and making videos, just for fun." Safe to say a lot has changed since then. Today, the 21-year-old Aussie is one of the country's most successful content creators, with millions of followers across social media - including some 3.1m on TikTok, alone. "I do daily vlogs, I've done a bit of gaming on YouTube, and on Instagram I've got a series called Disaster Chef, which is me creating different dishes in the kitchen," she explains of her multi-channel output. "I'm also a dancer and I do urban and hip-hop choreography. So I do a lot of different things but I would say comedy, dancing and vlogging are my top three." In short, Jazz is a very busy woman. But unlike many social media users, Jazz is not simply building a personal brand, but a business. And she takes her job very seriously. "In the morning I'll go to the gym or for a walk - and then I get started with my work," she says of her daily routine. "I usually start with TikTok videos in the morning, then by the afternoon I'll start script writing for my skits and I'll begin filming. Later in the evening I'll start editing on my laptop, whether it's TikTok or YouTube videos." <Node id="1441"/>When it comes to her tools of the trade, Jazz says the HP ENVY laptop is her go-to<Node id="1523"/>. <Node id="1525"/>And with its sleek, minimalist design, all-in-one keyboard and 4k OLEDA VESA True Black display, it's little wonder the device has quickly become a favourite of content creators around the world<Node id="1719"/>. "I rely on technology a lot so it's important to me that it's really user friendly," says Jazz. "And because I'm pushing out multiple pieces of content every day, I need something that's really efficient. <Node id="1926"/>The high-resolution screen on the HP ENVY is also really helpful when I'm editing, to make sure it reflects what my audience is going to see<Node id="2066"/>." <Node id="2069"/>While Jazz records some of her videos on her phone, the HP QuickDrop feature makes transferring files between devices a seamless process, and the HP ENVY's 10th Gen Intel Core i9 processor means fast rendering, seamless playback and easy multitasking, making it a natural fit for bringing video content to life<Node id="2379"/>. "I use Adobe Premiere Pro on my HP ENVY for editing YouTube videos and also my skits on TikTok," she says. "But I also use the laptop for a lot of my research online - whether it's looking for other content or troubleshooting and upskilling because you have to figure out a lot of things yourself when you're a content creator!" Not only is Jazz hugely popular across TikTok, Instagram and YouTube, but she even has her own line of clothing, emblazoned with a feel-good "Spreading Smiles" slogan - the perfect antidote to an otherwise difficult year. As for those who'd like to follow in her footsteps, it's little surprise that Jazz has a characteristically positive outlook on things: just give it a shot. "Don't be afraid to step out of your comfort zone and just get started," she says, "but know what your purpose is and that you're not just doing something to gain followers. Make sure it's something you're passionate about and that you love doing." Follow Jazz on TikTok, YouTube and more @jasminetxo. And to find out more about the HP ENVY portfolio, including the HP ENVY 15, HP ENVY 13, HP ENVY x360 13 and HP ENVY x360 15, head to store.hp.com."<Node id="3538"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="66" EndNode="125">
+</Annotation>
+<Annotation Id="2" Type="BeforeAfter" StartNode="66" EndNode="125">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="1441" EndNode="1523">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="1525" EndNode="1719">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="1525" EndNode="1719">
+</Annotation>
+<Annotation Id="6" Type="RefAuthority" StartNode="1926" EndNode="2066">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="2069" EndNode="2379">
+</Annotation>
+<Annotation Id="8" Type="PositiveEval" StartNode="2069" EndNode="2379">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3538">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

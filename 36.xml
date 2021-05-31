@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/36.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Melbourne Fashion Week makes its return in 2020<Node id="48"/>", "As Melbourne continues to emerge from a prolonged shut-down period, The City of Melbourne is gearing up to host a re-imagined Melbourne Fashion Week that, for the first time in its 26-year history, will feature free and accessible digital and in-person events in an effort to support the recovery of local fashion, design, retail and hospitality industries. <Node id="410"/>Celebrating the safe return of vibrancy to its city's streets, Melbourne Fashion Week will run from November 23 to November 29, and will feature more than 200 established and emerging local designers across 60 individual events<Node id="637"/>. <Node id="639"/>From in-person runways and exhibitions, to roving pop-up runways, digital shows and talks with leading names in fashion, the event is shaping up to be one you won't want to miss<Node id="816"/>. "After months of hardship, Melbourne Fashion Week will provide a much-needed boost to local retail, fashion, design and hospitality industries while bringing colour and style back to the city as it recovers," says City of Melbourne Lord Mayor, Sally Capp. "Our retail sector usually employs more than 21,000 people and contributes $2.17 billion to the City of Melbourne's economy every year so it's critical that we support this industry." The event's physical shows, the Arid Gardens Runway and the Meyers Place Runway, will be hosted in two iconic Melbourne locations&#x2013;the Royal Botanic Gardens and in one of the city's famed hidden laneways.  While runway tickets to these are free, restrictions mean seats are strictly limited &#x2013; but good news, they will both be available to watch online and on demand post-runway. Restaurant packages are also available for the Meyers Place Runway for those wanting to enjoy this unique fashion showcase while dining alfresco. The likes of Maticevski, Scanlan Theodore, Arnsdorf, Elliatt, J'Aton, Viktoria &amp; Woods, Ngali, P.A.M. and more will be taking part in a total of 24 must-see solo digital shows. These will serve as non-seasonal showcases in an effort to promote a more sustainable future, and all looks featured will be available to shop both in-store and online. "As well as local fashion and retail industries, it was equally important for us to support the talented people behind the scenes. Collectively, more than 130 individuals including stylists, hair and make-up artists, photographers, videographers and models were involved in the delivery of this year's events," adds Lord Mayor, Sally Capp. "Almost 90 per cent of overall talent involved in the event including models, designers, retailers and production teams are Melbourne-based. Excitingly, seven Fashion Capsule exhibits, presented by Creative Victoria, can also be enjoyed across the city. Showcasing the works of local designers and artists, a Fashion Capsule highlight is a live artist studio, which gives passers-by the chance to watch local creatives performing their craft in Emporium Melbourne. <Node id="2933"/>If these activations weren't enough to keep you busy, this premium fashion event will also bring us the Student Collections digital show presenting the best in emerging design talent<Node id="3115"/>. And for those after some delicious at-home dining to enjoy while tuning in online, M/FW Eats offers exclusive menus from some of Melbourne's top restaurants. Plus, M/FW Conversations presented by Creative Victoria, will feature four live and informative talks with industry leaders on topics such as Aboriginal and Torres Strait Islander fashion and the relationship between fashion and technology. <Node id="3516"/>To add to the digital event line-up, tune in for the premiere of Melbourne Material, a short documentary on the stories behind the city's street fashion scenes, and Creative X Creative, a series of Instagram lives between industry favourites including Kevin Murphy, Georgia Love, Stuart Walford and Lana Wilkinson<Node id="3829"/>. For the full Melbourne Fashion Week 2020 program, click here."<Node id="3893"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="48">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="410" EndNode="637">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="639" EndNode="816">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="639" EndNode="816">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="2933" EndNode="3115">
+</Annotation>
+<Annotation Id="6" Type="Melioration" StartNode="2933" EndNode="3115">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="3516" EndNode="3829">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3893">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

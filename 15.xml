@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/15.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"7 days, 7 looks: a week in the life of Vogue's e-commerce editor", "From meetings to events, this is how a Vogue editor spends their week.", "There's always a lot of interest when you tell people you work at Vogue. The usual questions are asked, including the prerequisite enquiring as to whether it really is like The Devil Wears Prada. It isn't, for the record (if only we got to keep the clothes!). But what most people really want to know is simple: what do you do every day? As Vogue's e-commerce editor, no day is the same for me. Most of the time, there are lots of meetings and admin-type things I need to tick off my to-do list - as is the case in many jobs, even creative ones - but my role does afford me some interesting perks and adventures. It's my duty to ensure we're keeping up with current trends and serving our digital audiences with products they love and want to buy. I work with the rest of our digital team to ensure our content is moving in the right direction and liaise with all the different editors to keep updated on what's happening across the business. As I write across Vogue Living and GQ as well, I have to be across a lot of different areas, including fashion, beauty, interiors and tech. So, what does my week look like? <Node id="1259"/>I've teamed up with Coach who have documented exactly what a week as an editor looks like<Node id="1348"/>. Day 1: All about meetings. Mondays are about meetings. Usually if I'm meeting with a client or a publicist I'll meet them before I head to the office for a breakfast chat. There's a great place near our office in Sydney that does it all, great coffee and even better pastries. <Node id="1627"/>I love my Coach Alie Bag for breakfast meetings as it's small and sturdy, so I can bring just the essentials and focus on the ideas<Node id="1758"/>. Day 2: Writing, writing, writing. In my job, it's all about content. Digital never sleeps! I try and allocate at least one day of the week to just writing, as it can be hard to fit it in around meetings and events. My office space is super tidy and I like to have everything in order. <Node id="2045"/>I find my Coach Swinger Bag is great for office days when I don't need much and can easily pop in and out when needed. Just the essentials!<Node id="2184"/> Day 3: Lunching. Wednesday is hump day, which means it's the perfect time to grab some lunch with colleagues and enjoy getting some sunshine. Usually, we'll grab some sushi and sit in the local park, or on the rooftop of the office. I missed that about working from home during Covid, and <Node id="2474"/>I love having the chance to take out my favourite accessories and dress up a little. For a lunch date out, I can't go past the Coach Alie Bag 18<Node id="2618"/>. Day 4: PR showings. A big part of our jobs at Vogue is ensuring we're ahead of what's coming from our favourite brands. Heading out to see new collections in the showrooms is crucial, so I'll often spend a large chunk of my week attending showings and catching up with publicists. For this, <Node id="2911"/>the trusty and ever-chic Coach Beat Shoulder Bag is essential, thanks to its mix of leather and canvas, complete with the signature horse and carriage motif<Node id="3067"/>. Day 5: Dress up! While most of the week is spent in meetings or writing, there are chances to let my hair down. A Friday night event is a great chance to catch up with friends in the industry and to celebrate the best of fashion and beauty. With Christmas coming up, there are plenty of Christmas parties to attend, both for our team and with favourite brands. For a client event I'll often pop on a lip and don some heels. <Node id="3493"/>And of course, the Coach Swinger bag is the ultimate accessory. I love the pop of this cream shade against a black dress<Node id="3613"/>. Day 6: Relax. Saturdays are firmly for relaxing. <Node id="3664"/>I try not to look at my emails on the weekends, and for that reason I love the Coach Swinger bag when I'm off duty - it fits only the real essentials<Node id="3813"/>. I'll often head to the park with friends or get my head stuck in a good book. I absolutely love my job but you definitely have to switch off. Day 7: Preparing for the week ahead. I usually spend Sundays in front of the TV or at the beach, but sometimes I'll run an errand or two to get set up for the week ahead. Sometimes that means picking up some flowers for a shoot, but other times it might mean prepping for a big interview or clearing out my inbox in front of The Crown. Either way, it sets me up for a successful week ahead."<Node id="4348"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1259" EndNode="1348">
+</Annotation>
+<Annotation Id="2" Type="RefAuthority" StartNode="1259" EndNode="1348">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="1627" EndNode="1758">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="1627" EndNode="1758">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="2045" EndNode="2184">
+</Annotation>
+<Annotation Id="6" Type="RefAuthority" StartNode="2045" EndNode="2184">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="2474" EndNode="2618">
+</Annotation>
+<Annotation Id="8" Type="RefAuthority" StartNode="2474" EndNode="2618">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="2911" EndNode="3067">
+</Annotation>
+<Annotation Id="10" Type="RefAuthority" StartNode="2911" EndNode="3067">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="3493" EndNode="3613">
+</Annotation>
+<Annotation Id="12" Type="RefAuthority" StartNode="3493" EndNode="3613">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="3664" EndNode="3813">
+</Annotation>
+<Annotation Id="14" Type="RefAuthority" StartNode="3664" EndNode="3813">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4348">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

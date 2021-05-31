@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/19.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Your next Sydney weekender just got a whole lot more stylish<Node id="61"/>", "<Node id="65"/>Like the rest of us, 2020 has no doubt left you needing to recharge and unwind<Node id="143"/>. <Node id="145"/>And if you're looking for your next escape, Sydney's trifecta of world-class dining, iconic beaches and sunny climate make it the ideal city weekender<Node id="295"/>. And while the NSW capital has long been a popular place to visit, <Node id="363"/>it's a well-worn fact that a trip to the harbour city often ends with an eye-watering hotel bill. Thankfully, you can save your credit card hangover for another day. Little National is Sydney's newest luxury hotel and it's just opened its doors<Node id="607"/>. Located in the thriving CBD hub of Clarence Street, right above Wynyard Station, <Node id="690"/>Little National's convenient location, contemporary fit-out and cleverly designed communal spaces make it an ideal choice for business and leisure travellers alike<Node id="853"/>. Following the success of Little National Canberra, the Sydney outpost is the latest from Australian-based DOMA Group. <Node id="973"/>The hotel group is at the forefront of a new trend in luxury travel that promises luxury experiences without exorbitant hotel charges. It's a low-cost, high value proposition that does away with the usual extraneous add-ons, focusing on the services travellers actually use<Node id="1246"/>. An especially refreshing approach, if you're the kind of guest who loves to immerse yourself in a new city, only using the hotel as a place to sleep, eat and charge your mobile phone. <Node id="1432"/>Led by an expert interiors team at Bates Smart<Node id="1478"/>, the design of the hotel is wholly focused on maximising its guest experience. <Node id="1558"/>From a beautifully furnished indoor co-working space to an expansive open-plan rooftop featuring a library working space, garden bar and custom-built fireplace; the public areas of Little National are a sight to behold. Plus, there's even a gym fitted out with the latest Technogym equipment supported with a DOMA Wellness App with curated programs based on the gym equipment<Node id="1933"/>. "We wanted to ensure this hotel felt refined and understated, without compromising on quality and space," explains Guy Lake, director at Bates Smart and the mastermind behind the hotel's architecture. "Little National Sydney's design focuses on providing everything you need, but nothing that you don't." <Node id="2240"/>Indeed, with its sparkling Sydney skyline views and lush greenery, the rooftop of Little National is a major drawcard, creating a calm oasis for guests to enjoy at their leisure<Node id="2417"/>. Inside, rooms have been carefully designed to make use of every inch of space and the natural light that streams in from the feature window wall. <Node id="2565"/>Featuring a comfortable bespoke super king-sized bed, with charging ports, SMART television with Chromecast and light controls placed perfectly within arm's reach (no crossing the room to turn out the lights), the layout of Little National's rooms has been carefully considered and executed to the highest level of detail<Node id="2886"/>. Rooms are also equipped with a selection of T2 Tea, a virtual mini bar, Appelles Apothecary &amp; Lab bathroom amenities, and there's even free WiFi and movies. With 230 rooms offering five-star service and experiences, without the hefty price tag, <Node id="3133"/>Little National offers a slice of affordable luxury for all manner of travellers<Node id="3213"/>. Situated within walking distance of Sydney's best shopping and dining precincts, the hotel even has underground rail connections to nearby Barangaroo and George Street. <Node id="3384"/>We're sold already<Node id="3402"/>."<Node id="3404"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="61">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="65" EndNode="143">
+</Annotation>
+<Annotation Id="3" Type="SamePlatform" StartNode="65" EndNode="143">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="145" EndNode="295">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="145" EndNode="295">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="363" EndNode="607">
+</Annotation>
+<Annotation Id="7" Type="Motive" StartNode="363" EndNode="607">
+</Annotation>
+<Annotation Id="8" Type="PositiveEval" StartNode="690" EndNode="853">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="973" EndNode="1246">
+</Annotation>
+<Annotation Id="10" Type="RefAuthority" StartNode="1432" EndNode="1478">
+</Annotation>
+<Annotation Id="11" Type="PositiveEval" StartNode="1558" EndNode="1933">
+</Annotation>
+<Annotation Id="12" Type="PositiveEval" StartNode="2240" EndNode="2417">
+</Annotation>
+<Annotation Id="13" Type="EmotionalSetup" StartNode="2240" EndNode="2417">
+</Annotation>
+<Annotation Id="14" Type="PositiveEval" StartNode="2565" EndNode="2886">
+</Annotation>
+<Annotation Id="15" Type="Hyperbolization" StartNode="3133" EndNode="3213">
+</Annotation>
+<Annotation Id="16" Type="Mask" StartNode="3384" EndNode="3402">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3404">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

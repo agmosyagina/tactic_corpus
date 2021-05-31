@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/38.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Model Georgia Fowler shares her favourite pieces for a new season wardrobe refresh", "<Node id="87"/>Fowler selects her top five resort picks from David Jones and explains how best to wear them<Node id="179"/>.", "<Node id="184"/>David Jones's first-ever virtual runway show, in celebration of Vogue American Express Fashion's Night In, lit up screens last week<Node id="315"/>. Set against the stunning backdrop of the famed Seidler House, an architectural marvel in the picturesque Southern Highlands, the catwalk was also surrounded by iconic Australian landscape &#x2013; the perfect inspiration for a new season of style. <Node id="558"/>This truly unique fashion experience, which featured stellar Australian models like Akiima and Cameron Stephens, clad in a roll call of David Jones's exclusive local and international designers like Aje, St Agni, Bondi Born, Maticevski, Isabel Marant and Balenciaga, left a lasting impression<Node id="850"/>. Also among the models on the catwalk for David Jones was New Zealand-born, Victoria's Secret beauty Georgia Fowler, who found plenty of new season favourites to love. Vogue asked her to pick her must-haves from the show. "For summer months, I love to incorporate effortless pieces in sandy tones, with stand-out accessories that really complement a tan. It's important to me to buy items that stand the test of time and I am able dress up or down, and mix and match with old and new," she said. Georgia has a soft spot for the Bec + Bridge Farrah swimsuit that she wore during the runway show. The Australian design duo's spin on a sexy one-piece is perfect for strutting poolside, and is just as chic with a breezy cover-up thrown over. Her next pick from the resort collections is Aje's gathered bib top, as worn in the show by breakout beauty, Cameron Stephens. The flattering fit and on-trend rust shade make it as pretty worn as a two-piece with the matching skirt or dressed down with a pair of blue jeans. For a more relaxed take on resort chic, Fowler loves the utilitarian feel of Isabel Marant Etoile's beige shorts. Team them with a tucked-in shirt and statement sandals, or go low-fi with a crisp, white Bassike tee. Also on Fowler's new season shopping list is the perfect jean by Danish purveyors of cool, Ganni. In a vintage-inspired cut and washed-out black colour, they're go-anywhere kind of jeans that only get better with age. Georgia's favourite accessory should also go straight to your own resort wardrobe wish list: Aje's chunky gold choker, which adds the right amount of new season edge to any outfit. Use it to give oomph to a pretty springtime dress or to add a touch of bling to sleek tailoring. <Node id="2577"/>Shop Georgia's top picks and the best in Resort fashion at davidjones.com<Node id="2650"/>"<Node id="2651"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="87" EndNode="179">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="184" EndNode="315">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="558" EndNode="850">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="558" EndNode="850">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="2577" EndNode="2650">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="2577" EndNode="2650">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2651">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

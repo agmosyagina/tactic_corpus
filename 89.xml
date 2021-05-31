@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/89.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Introducing The Purse Affair, <Node id="31"/>the best-kept secret<Node id="51"/> for pre-loved designer bags<Node id="79"/>", "<Node id="83"/>If lusting over designer goods is your shopping modus operandi, but emptying your cart when you look at your bank account is too, any hope of owning a piece of fashion history may seem out of reach<Node id="280"/>&#x2014;that is, unless you look beyond traditional methods<Node id="332"/>. Consignment stores that specialise in procuring in hard-to-get designer goods have emerged from, and have thrived in, a time where a stream of cult status-gaining, new releases have in near new filtrated our consciousness more than ever before. It's these services that have too led the charge in lessening the fashion industry's environmental footprint, encouraging lovers of luxury garments to reach for pre-loved pieces and transforming their shopping habits into ones that are more cyclical rather than seasonal. Not to mention the pieces are often marked at a lower prices point to traditional RRP's, and the stores provide a place of financial solace to those willing to part with their designer wardrobe for much-needed funds. Think Vestiaire Collective, The RealReal, and of course, better, and of course, locally, The Purse Affair. Founded by Alex and Angela Leung after the latter sought out a way to supplement her love for designer handbags, the pair kickstarted a business which would not only see accessory obsessives get their hands on their wish-listed bags, but also send their own pieces onto a new home.<Node id="1456"/> Specialising in the category of handbags, as the name suggests, The Purse Affair boasts not only an unparalleled authentication process, but also competitive pricing and comparable rates for both buyers and sellers<Node id="1671"/>. <Node id="1673"/>The current economic environment considered, consignment selling has also become an increasingly attractive option for those in need of a little extra cash<Node id="1828"/>. <Node id="1830"/>If you have lightly used luxury items in your wardrobe, and more than likely have little opportunity to wear them given social restrictions, you might consider parting with them to bolster your bank account. Given its mission to be the top online upcycle retailer in Australia, The Purse Affair <Node id="2125"/>will help you turn your pre-loved designer items into liquid assets, or allow you to translate your sold goods into store credit to be put towards newer, and perhaps more practical, pieces<Node id="2313"/>. Here, Vogue guides you through three ways the store supports you through the consignment process, no matter what side of it you're on. Double authentication. If you're a first-time consignment shopper, and a little uneasy at the idea of purchasing an investment piece second-hand, or even if you're a seasoned expert who's been burned in the past, the store will quickly put your mind at ease. The Purse Affair is the only company on the market that boasts a unique, double-authentication process; first, the team authenticates each item they consign in-house, with founders Alex and Angela both having studied authentication in Japan&#x2014;a country which sees such an huge amount of luxury resale that counterfeiting carries heavy penalties under law. Next, the store uses Entrupy&#x2014;external authenticators based in the US&#x2014;to verify goods, a system which harnesses cutting edge authentication technology and is backed by luxury giant LVMH. Competitive pricing. The Purse Affair can source things that are a little more iconic and a lot less readily available, like Hermes' rare croc Birkin, or its ever-popular Kelly bag. There's little chance of getting your hands on such a coveted piece without having to sit on waitlists for months, or even years. <Node id="3561"/>Or if Hermes' offering of luxury leather goods aren't quite your style, the store also stocks a number of other classic designer accessories<Node id="3701"/>. Think: Chanel's Classic Flap Jumbo in near new condition for $8,000, a piece which traditionally retails for $11,780, Saint's Laurent Sac De Jour for $1,800 rather than its ticket price of $3,835, or Celine's Luggage Mini tote in an impeccable state for $1,800 instead of the recommended retail price of $4,050. <Node id="4015"/>And if you fall into the aforementioned camp of the designer good-obsessed that possesses a less-than-ideal bank account balance, The Purse Affair can cater to you too, <Node id="4184"/>offering a layaway option to those who prefer to pay off their special purchases bit by bit&#x2014;all you have need to do is pay a minimum 20 per cent deposit to secure the item, then you can set your own payment schedule over an eight-week period<Node id="4425"/>. A consignment seller's ally. <Node id="4456"/>If you're on the other side of the designer goods exchange and looking to find a new home for your own fashion icons, The Purse Affair <Node id="4591"/>offers a competitive consignment rate when compared to fellow second-hand sellers which you will receive upon the item's sale. The store also offers the option of buying your item outright, which may see you receive less in return, but there's no wait on receiving your funds. Not only that, the store also assumes all the risk of consignment selling, taking the annoyance of chargebacks and uncommunicative or non-committal customers off your hands<Node id="5040"/>&#x2014;just send it over and wait for your funds to come through<Node id="5098"/>. If you did have any questions or queries around consignment selling and purchasing, the helpful team at The Purse Affair can be contacted via Instagram, email on enquiries@thepurseaffair.com, or by phone on (03) 9005 6138."<Node id="5323"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="2" Type="EmotionalSetup" StartNode="31" EndNode="51">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="1" EndNode="79">
+</Annotation>
+<Annotation Id="4" Type="Motive" StartNode="83" EndNode="280">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="83" EndNode="332">
+</Annotation>
+<Annotation Id="6" Type="PositiveEval" StartNode="1456" EndNode="1671">
+</Annotation>
+<Annotation Id="7" Type="Motive" StartNode="1673" EndNode="1828">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="2125" EndNode="2313">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="1830" EndNode="2313">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="3561" EndNode="3701">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="4015" EndNode="4425">
+</Annotation>
+<Annotation Id="12" Type="GoalSub" StartNode="4184" EndNode="4425">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="4456" EndNode="5098">
+</Annotation>
+<Annotation Id="14" Type="GoalSub" StartNode="4591" EndNode="5040">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="5323">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

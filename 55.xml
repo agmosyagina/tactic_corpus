@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/55.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"7 South Australian experiences to have at least once", "<Node id="57"/>Head to South Australia for your next holiday<Node id="102"/>", "Is there anything better than a brilliant travel experience? One that makes your heart race, your camera shutter go wild or your adrenaline shoot right up? And while we often think of overseas destinations as the places to experience some of the world's best sights, sounds and tastes, there's a lot to explore in our own backyard. And with Covid-19 placing restrictions on international travel, the opportunity to discover Australia has never been more ripe. <Node id="566"/>Now with borders open to South Australia, it's top of our list<Node id="628"/>. <Node id="630"/>With breathtaking beaches, electrifying experiences and seriously good wine, there's something for everyone in South Australia<Node id="756"/>. And with the help of Future Adelaide, we're going to try and do them all<Node id="830"/>. <Node id="832"/>Below, we've rounded up seven of our favourite experiences to have in the southernmost state this coming summer<Node id="943"/>. See the bush from the air. One of the most luxurious ways to travel is via helicopter, that much is true. <Node id="1051"/>Experience the famed Chace Range from the sky in a dedicated helicopter flight with Helistar, before setting up for the night in a luxury camp. In the morning, your dedicated pilot will collect you. How's that for a romantic experience?<Node id="1287"/> Be transported underwater. No, it's not Tulum or Portugal, it's Kilsby Sinkhole outside of Mount Gambier. <Node id="1394"/>Serene and otherworldly, this famous dive site is worth a visit. One of the country's best dive locations, the limestone-buffed sinkhole boasts gorgeous crystal clear waters and pristine visibility<Node id="1591"/>. <Node id="1593"/>Whether you're up for a dive or just want to taste the local gin, there's something for everyone<Node id="1689"/>. Experience Coffin Bay. <Node id="1714"/>If sweeping white sand beaches and tasting fresh oysters straight from the rock sounds like your idea of heaven, then a tour of Coffin Bay is a must<Node id="1862"/>. Take a private boat tour to really soak up the serenity and explore everything from oyster farms to seals lazing on the rocks. <Node id="1991"/>If you're lucky enough to spot dolphins while at sea, well, congratulations<Node id="2066"/>. Get set, relax. Taste wine from the best. <Node id="2110"/>You might have spotted the famous d'Arenberg Cube in McLaren Vale on Instagram before, but it's high time to visit for yourself<Node id="2237"/>. Located overlooking the rolling hills of Willunga, the architecturally stunning building provides design buffs and wine connoisseurs plenty to stay busy with. From wine tasting to devouring the region's best produce, the d'Arenberg Cube proves an ample opportunity to soak up (and drink!) the best of the much-loved wine region. Eat with a view. Hentley Farm Cellar Door and Restaurant is one for the foodies. <Node id="2649"/>Nestled in the hills of the Barossa, Hentley Farm is a food and a wine experience worth having. Sip on local wines and snack on the region's best produce, it's a must-do experience that combines the culinary powers of the state with incredible views<Node id="2898"/>. Stay on Kangaroo Island. One of Australia's most beautiful natural locations, Kangaroo Island has bounced back from recent bushfires and is ready for visitors. <Node id="3060"/>For those looking for the ultimate in luxury, One KI is the island's best private luxury beachfront accommodation, mixing sustainable architecture with gorgeous design. Located right on the beach, a stay at One KI includes gourmet meals made with local produce and the chance to interact with some of the state's most intriguing wildlife<Node id="3397"/>, <Node id="3399"/>including (you guessed it!) kangaroos, dolphins and echidnas<Node id="3459"/>. <Node id="3461"/>For a getaway that'll have you wishing you never booked a return flight, this is the place to stay<Node id="3559"/>. Swimming with dolphins and sea lions. One of life's greatest joys - swimming with dolphins - is made possible in South Australia's Eyre Peninsula. Spectacularly beautiful, this natural wonder is home to thousands of friendly bottlenose dolphins and Australian sea lions. <Node id="3832"/>At Baird Bay Ocean Eco Experience, you can swim with them both, immersing yourself in the stunning natural environment and enjoying a playful experience with these smart and interesting mammals<Node id="4025"/>."<Node id="4027"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="57" EndNode="102">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="566" EndNode="628">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="630" EndNode="830">
+</Annotation>
+<Annotation Id="4" Type="Hyperbolization" StartNode="630" EndNode="756">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="832" EndNode="943">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="1051" EndNode="1287">
+</Annotation>
+<Annotation Id="7" Type="GoalSub" StartNode="1051" EndNode="1287">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="1051" EndNode="1287">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="1394" EndNode="1591">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="1593" EndNode="1689">
+</Annotation>
+<Annotation Id="11" Type="Hyperbolization" StartNode="1593" EndNode="1689">
+</Annotation>
+<Annotation Id="12" Type="Mask" StartNode="1714" EndNode="1862">
+</Annotation>
+<Annotation Id="13" Type="EmotionalSetup" StartNode="1714" EndNode="1862">
+</Annotation>
+<Annotation Id="14" Type="EmotionalSetup" StartNode="1991" EndNode="2066">
+</Annotation>
+<Annotation Id="15" Type="Mask" StartNode="1991" EndNode="2066">
+</Annotation>
+<Annotation Id="16" Type="Mask" StartNode="2110" EndNode="2237">
+</Annotation>
+<Annotation Id="17" Type="PositiveEval" StartNode="2649" EndNode="2898">
+</Annotation>
+<Annotation Id="18" Type="PositiveEval" StartNode="3060" EndNode="3397">
+</Annotation>
+<Annotation Id="19" Type="Mask" StartNode="3399" EndNode="3459">
+</Annotation>
+<Annotation Id="20" Type="EmotionalSetup" StartNode="3461" EndNode="3559">
+</Annotation>
+<Annotation Id="21" Type="Mask" StartNode="3461" EndNode="3559">
+</Annotation>
+<Annotation Id="22" Type="EmotionalSetup" StartNode="3832" EndNode="4025">
+</Annotation>
+<Annotation Id="23" Type="GoalSub" StartNode="3832" EndNode="4025">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4027">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

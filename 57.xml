@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/57.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>David Jones invites you to sit front row at its first virtual runway show<Node id="74"/>", "<Node id="78"/>You're going to want to secure your tickets today<Node id="127"/>.", "<Node id="132"/>This year, Vogue and American Express are joining forces to bring you the first-ever Fashion's Night In<Node id="235"/>. A virtual beauty, shopping and fashion-filled festival, which is set to run from October 22 to November 1. <Node id="344"/>The event will enable you to shop countless exclusive offers and engage with some of your favourite labels from the comfort of your very own home<Node id="489"/>. <Node id="491"/>In celebration of the inaugural event, David Jones will be hosting its very first virtual runway show, presented by American Express at the breathtaking Seidler House located in the Southern Highlands<Node id="691"/>. <Node id="693"/>To secure your front-row seat for the event, be sure to register for your tickets to the exclusive virtual experience, slated to take place at 5:15pm on October 30, today<Node id="863"/>.<Node id="864"/> The virtual runway show will feature a number of new season spring/summer 2020 collections from an impressive list of exclusive Australian and international designers including Aje, Ganni, Zimmermann, Isabel Marant and Balenciaga, which are all stocked at David Jones&#x2014;meaning there's no need for you to look any further for the perfect ensemble ahead of the upcoming festive season<Node id="1246"/>. <Node id="1248"/>In anticipation of the impending summer, "a place in the sun" has been named as the theme of David Jones's virtual runway show, which will no doubt inspire you to embrace the warmer weather that awaits you with a plethora of resort wear looks for all occasions&#x2014;including but not limited to those that are sure to take you straight from the beach to the outdoor bar this summer<Node id="1624"/>. <Node id="1626"/>If you happen to spot a look you know you'll look perfect in by the pool, or a style you just can't live without, getting your hands on the items you're lusting after will be easier than ever. Each collection seen on the runway will be made available to shop immediately on David Jones's website, both during the course of the virtual experience, and long after it has wrapped<Node id="2002"/>. American Express customers will receive a VIP Front Row Pass to the show, which will provide them with access to exclusive behind-the-scenes content, designer interviews and a gift from David Jones beauty brands. If you're not yet a member, sign up for a David Jones American Express Card now to earn 45,000 Reward Points and access exclusive card member benefits. In addition to the runway show, David Jones is set to host the official launch of Vogue American Express Fashion's Night In at its new-look Elizabeth Street flagship store. Boasting an intimate guest list said to feature the likes of Sydney's Lord Mayor Clover Moore, Vogue Australia editor-in-chief Edwina McCann and David Jones general manager of womenswear Bridget Veals, it's most definitely not to be missed. <Node id="2783"/>The festival will also welcome a number of free virtual events, one of which being a panel discussion on how to minimise harm in your closet, featuring head of sustainability at Country Road Group and David Jones, Eloise Bishop, alongside Vogue Australia fashion features director Alice Birrell and Maggie Marilyn designer Maggie Hewitt. This poignant, sustainability-focused conversation will take place at 7pm on October 23<Node id="3208"/>. Selected American Express customers will receive a VIP Front Row Pass to the show, which will provide them with access to exclusive behind-the-scenes content, designer interviews and a gift from David Jones beauty brands. If you're not yet a member, sign up for a David Jones American Express Card now to earn 45,000 Reward Points and access exclusive card member benefits. T&amp;Cs Apply. Secure your tickets to the David Jones virtual runway show online here and view and shop the looks live here."<Node id="3706"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="74">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="74">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="78" EndNode="127">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="132" EndNode="235">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="344" EndNode="489">
+</Annotation>
+<Annotation Id="6" Type="EmotionalSetup" StartNode="344" EndNode="489">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="491" EndNode="691">
+</Annotation>
+<Annotation Id="8" Type="Mask" StartNode="693" EndNode="863">
+</Annotation>
+<Annotation Id="9" Type="GoalSub" StartNode="864" EndNode="1246">
+</Annotation>
+<Annotation Id="10" Type="EmotionalSetup" StartNode="864" EndNode="1246">
+</Annotation>
+<Annotation Id="11" Type="EmotionalSetup" StartNode="1248" EndNode="1624">
+</Annotation>
+<Annotation Id="12" Type="EmotionalSetup" StartNode="1626" EndNode="2002">
+</Annotation>
+<Annotation Id="13" Type="GoalSub" StartNode="1626" EndNode="2002">
+</Annotation>
+<Annotation Id="14" Type="Mask" StartNode="1626" EndNode="2002">
+</Annotation>
+<Annotation Id="15" Type="EmotionalSetup" StartNode="2783" EndNode="3208">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3706">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

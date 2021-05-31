@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/53.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>The Moncler and Rick Owens collaboration is everything you'd hoped for<Node id="71"/>", "Turn up the volume.", "Moncler's iconic outerwear received a very Rick Owens twist for the Italian brand's collaboration with the American designer titled MONCLER + RICK OWENS. The capsule collection, which features gender-neutral puffer coats, knee-shorts and highly-covetable boots, is accompanied by a custom tour bus, tricked-up in signature matte black Rick Owens style, and crafted to drive the designer and his wife, Mich&#x413;&#x401;le Lamy, on a trip to the Nevada desert and beyond. "The collection was a personal wardrobe for my wife and myself. I selfishly wanted the whole experience to be a romantic, nostalgic art performance. Insulation, protection and momentum are my impression of what Moncler stands for and applying my aesthetic to an insulated traveling bubble was my answer," says Owens. <Node id="874"/>Ever the outerwear masters, the Italian house worked with the designer to create puffed up spins on some of Owens's most worn pieces and beloved silhouettes, all in luxurious Moncler down<Node id="1061"/>. "I have always used nylon duvet garments in my collections as the ultimate winter protection. I love the poetry of being able to create great volume with the lightness of a feather, clothes as organic sculptures," adds Owens. <Node id="1289"/>High-volume, statement pieces to love forever: the sum of these two iconic brands is indeed fashion as wearable art<Node id="1404"/>. "Rick Owens is a master at an off-kilter silhouette - I loved seeing how this technique was brought to a simple Moncler black puffer for this collaboration," says Vogue's Market Editor, Kaila Matthews. "<Node id="1609"/>If a puffer isn't on your must-have list yet, this transeasonal knit is my pick<Node id="1688"/>; the draping detail is exquisite," says Matthews. MONCLER + RICK OWENS is available in Moncler Sydney Westfield and Melbourne Chadstone stores from the 22nd of October. For enquiries, please call 61- 2-8964 4499."<Node id="1902"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="3" Type="Mask" StartNode="1" EndNode="71">
+</Annotation>
+<Annotation Id="4" Type="EmotionalSetup" StartNode="1" EndNode="71">
+</Annotation>
+<Annotation Id="5" Type="Hyperbolization" StartNode="1" EndNode="71">
+</Annotation>
+<Annotation Id="6" Type="PositiveEval" StartNode="874" EndNode="1061">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="1289" EndNode="1404">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="1289" EndNode="1404">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="1609" EndNode="1688">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1902">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

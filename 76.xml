@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/76.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>The female-led Sydney brand <Node id="29"/>making motorcycle jackets <Node id="55"/>chic for everyday wear<Node id="77"/>", "<Node id="81"/>If you're looking to add some edge to your wardrobe, look no further than this Sydney brand making waves<Node id="185"/>.", "Whether you ride a motorbike or not, there's something to be said about embracing the motorcycle jacket. A staple in wardrobes all over the world, a simple moto jacket can be worn with jeans as part of an everyday outfit, or styled up over a favourite dress for a night out. And as fashion insiders across the world know, it's the easiest way to add a touch of edge to your wardrobe. <Node id="574"/>While fashion houses have embraced the motorcycle jacket as their own since the 80s, it's Sydney-based Blackbird Motorcycle Wear who are making the authentic pieces<Node id="738"/> <Node id="739"/>every fashionable and stylish woman should own in 2020<Node id="793"/>. Started as a way to craft high quality, stylish motorcycle jackets for women that ride, Blackbird Motorcycle Wear now sells pieces that go far beyond just practical. <Node id="961"/>Two of our favourites, the Isla and the Fly By Night, can go from day to night in a cinch and cement the moto jacket as a staple<Node id="1089"/>. Fly By Night's clever detachable Australian wool collar is perfect for the cooler weather, and also adds an extra element to the design. Paired with stirrup leggings and biker boots, it'll complete any off duty look in seconds. Isla is a brand new design set for city life. <Node id="1365"/>Making the transition between office and drinks simple and seamless, the Isla's fashion-forward look suits just about every style and occasion<Node id="1507"/>. But the best part? <Node id="1528"/>Blackbird Motorcycle Wear is completely revolutionising the biking community, putting women's jackets on the map and making sure women feel empowered to look their best &#x2014; while remaining safe and secure &#x2014; when riding<Node id="1744"/>. <Node id="1746"/>Which means even when you're on your motorbike, <Node id="1794"/>you get to express your personal style<Node id="1832"/> and look sophisticated<Node id="1855"/>. "Riding a motorcycle frees the spirit &#x2014; you can find peace, seek out adventure, dare to be yourself. Your motorcycle gear should not only provide protection, it should amplify your spirit and your style," Blackbird founder and managing director Belinda McPhee tells Vogue. <Node id="2130"/>Made from the highest quality cowhide leather, Blackbird Motorcycle Wear's pieces are built to last&#x2014;and their timeless designs will go the distance. Weighted for both safety and to ensure a solid shape, the jackets are designed in Sydney by an all-female team who are revolutionising the way women ride for good<Node id="2441"/>. So, how does one style your new moto-jacket when off the bike? The return of the motorcycle jacket isn't new, but in 2020 it's all about embracing textures and pairing yours with elegant staples that complement the leather. From a simple weekend jean paired with an oversized leather jacket to an office-ready suit or tailored pant made edgy through the use of an edgy leather jacket on top, embrace trends like sophisticated linens, relaxed sneakers or a midi evening dress to inject a hint of timeliness into your outfit. <Node id="2967"/>Luxurious, comfortable and best of all, secure and practical, a motorcycle jacket is your next investment piece waiting to happen<Node id="3096"/>."<Node id="3098"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="2" Type="Mask" StartNode="1" EndNode="77">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="29" EndNode="77">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="55" EndNode="77">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="81" EndNode="185">
+</Annotation>
+<Annotation Id="6" Type="SamePlatform" StartNode="739" EndNode="793">
+</Annotation>
+<Annotation Id="7" Type="EmotionalSetup" StartNode="574" EndNode="738">
+</Annotation>
+<Annotation Id="8" Type="Mask" StartNode="961" EndNode="1089">
+</Annotation>
+<Annotation Id="9" Type="Hyperbolization" StartNode="1365" EndNode="1507">
+</Annotation>
+<Annotation Id="11" Type="GoalSub" StartNode="1528" EndNode="1744">
+</Annotation>
+<Annotation Id="12" Type="GoalSub" StartNode="1746" EndNode="1855">
+</Annotation>
+<Annotation Id="13" Type="AdvTeam" StartNode="1794" EndNode="1832">
+</Annotation>
+<Annotation Id="14" Type="PositiveEval" StartNode="2130" EndNode="2441">
+</Annotation>
+<Annotation Id="15" Type="GoalSub" StartNode="2967" EndNode="3096">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3098">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

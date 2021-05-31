@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/95.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Vogue Australia's market editor test drives the new RIMOWA Bridge eyewear range<Node id="80"/>", "<Node id="84"/>The modern luggage brand injects its identifiable spirit of travel into lightweight eyewear<Node id="175"/>.", "<Node id="180"/>RIMOWA is known for modern, considered luggage that is built equally to make an impression as it is to last<Node id="287"/>. So it comes as no surprise that the launch of the new eyewear range, as part of the spring/summer 2020 collection, also takes its design cues from aviation for inspiration. <Node id="462"/>Considering our travels have been stalled indefinitely, these sunglasses also lend themselves as the perfect accessories to sport now - as we stay home to fight the spread of Covid-19 - and keep on hand for when we can take flight again<Node id="698"/>. <Node id="700"/>The RIMOWA Bridge range is made up of three styles, each reflective of the brand's contemporary take on classics that, like their namesake luggage, are lightweight, stylish, durable and will transcend shifting trends<Node id="916"/>. <Node id="918"/>To celebrate the launch of RIMOWA Eyewear, Vogue Australia's market editor Kaila Matthews, shares her seven-day style diary as she test drives the new collection while preparing for a photo-shoot for an upcoming Vogue issue<Node id="1141"/>. Day One. "A huge part of my job is organisational so I tend to start my days early when preparing for a photo-shoot. In the wintertime, early mornings in Sydney are freezing, so I am rarely without a long coat. These clear framed aviators complement the coat's oversized silhouette, while protecting my eyes from any morning sunlight I can maximise on my commute." Here, the market editor pairs her oversized buttery coat with equally oversized RIMOWA Bridge Pilot Crystal Navy Sunglasses in a clear frame. Day Two. "In preparation for a photo-shoot, I am often attending market appointments to discover what new pieces PR agencies and brands alike have available that might suit the brief. It's a great opportunity to get closer to the clothes and get a sense of how their colours and textures will photograph on the day. <Node id="1966"/>I tend to opt for a more polished look so the all black RIMOWA Bridge Pilot Crystal Navy Sunglasses work seamlessly with this outfit<Node id="2098"/>". Day Three. When asked about her everyday style, Matthews offers, "I like to wear silhouettes that are quite oversized. I am often gravitating towards men's clothes because I feel these suit my style more". Matthews wears the RIMOWA Bridge Pantos Crystal Navy Sunglasses at a coffee meeting. Day Four. "For this shoot, I need to do some prop sourcing (the possibilities are infinite of what we may need, and where I may have to go to scour for just the right prop) so I am at a local flower shop to see what is in season. I tend to be a bit more relaxed and casual when sourcing as it requires a lot of running around, meaning I need to feel comfortable, at ease and be quick on my feet if necessary". Day Five. "The day prior to the photo-shoot, we are bumping into the studio to ensure everything is set up and ready- preparation is key. <Node id="2940"/>The RIMOWA cases are my go-to for photo-shoot logistics <Node id="2996"/>as they are physically sturdy, the Trunk size is enormous and easy to transport from office to studio with easy to glide wheels<Node id="3123"/>". Day Six. "A shoot day is usually fast-paced, especially on location. Given we often alternate between shooting in studio and outdoors, the RIMOWA Original Cabin Twist in Cognac is perfect to accompany me all day, as these are ridiculously lightweight, so I can focus on styling the talent without disruption". RIMOWA Eyewear is now available at RIMOWA's Westfield Sydney boutique and is also pleased to arrange personalised home delivery for any local purchases. View available options here."<Node id="3618"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="1" EndNode="80">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="84" EndNode="175">
+</Annotation>
+<Annotation Id="3" Type="GoalSub" StartNode="180" EndNode="287">
+</Annotation>
+<Annotation Id="4" Type="SamePlatform" StartNode="462" EndNode="698">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="700" EndNode="916">
+</Annotation>
+<Annotation Id="6" Type="RefAuthority" StartNode="918" EndNode="1141">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="1966" EndNode="2098">
+</Annotation>
+<Annotation Id="8" Type="RefAuthority" StartNode="2940" EndNode="3123">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="2996" EndNode="3123">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3618">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

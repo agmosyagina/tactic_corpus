@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/86.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Microbiome of your skin, and why it matters", "<Node id="48"/>Lancome's iconic serum is exactly what your skin needs now<Node id="106"/>.", "As you're probably well aware, the appearance of skin is often determined by factors which aren't exactly visible. Genetics, diet, sleep, stress and environmental aggressors like UV rays and pollution all affect how skin handles the daily rigours of ageing. But it's microscopic bacteria &#x2014; how many you have of them and how well they work in harmony with each other &#x2014; which are now known to also significantly impact how your skin looks, feels and functions. Perhaps thanks to the proliferation of anti-bacterial products right now &#x2014; the kind that blindly nix good bacteria, as well as bad &#x2014; the state of the skin's microbiome and examining exactly how to foster better growth of the good stuff has never been more essential. The microbiome of the skin refers to the ecosystem of micro-organisms that live there. That community (human bodies have billions) works with the skin's immune system to keep skin happy and healthy. And the microbiome is responsible for some pretty important jobs: protection, regulation of inflammation and repair &#x2014; all things which should be firing properly if you want to have a glowing, smooth, healthy and youthful complexion. Modern hygiene practices (those of which we're doing quite vigorously at the moment) have messed with the carefully balanced diversity that exists in healthy skin.<Node id="1432"/> Lack of diversity in your microbiome can impact skin in lots of physical ways, including dryness, redness, wrinkles and breakouts. Thankfully, the solution to bolster and balance a microbiome is not giving up on bathing. It's a skincare regimen with smarts. Last year, French luxury brand Lancome's global laboratories used 15 years of research, 23 scientists and 57 clinical studies to give their already-cult Genifique serum a microbiome-facing makeover<Node id="1888"/>. <Node id="1890"/>Lancome Advanced Genifique contains a potent complex of 7 complementary pre- and probiotics to restore balance within the microbiome. The probiotics inside (there are four different strains including Bifidobacterium longum, Lactobacillus casei, Lactobacillus acidophilis and a yeast: Saccharomyces cerevisae) are actually probiotic fractions. This means that unlike the probiotics you might ingest for a better gut, Lancome Advanced Genifique doesn't require refrigeration to maintain the efficacy of the active ingredients, for a full 12 months after opening. The clever self-loading dropper of this smart serum delivers 30 million pre- and probiotic fractions with every application<Node id="2574"/>. <Node id="2576"/>The result is a regulation of the microbiome and a strengthening of the barrier function, which means skin is better equipped to handle everything else that comes at it<Node id="2744"/>. Lancome studies demonstrated skin was able to visibly recover 77% faster after just one bottle, and results were visible in only seven days*. <Node id="2888"/>Apply it morning and night on clean, dry skin by pressing it firmly and evenly, from the centre of the face outwards, for more resilient, healthy and youthful-looking skin. Be sure to apply it to the oft-neglected neck, if you want that skin to look as fresh and glowing as the rest of your face, then follow up with moisturiser<Node id="3216"/>. The lightweight, silky serum spreads over skin easily and absorbs quickly. <Node id="3293"/>Lancome Advanced Genifique also comes equipped with all of the age-fighting ingredients that has made it a staple in the beauty cabinets of women like ambassadors Amanda Seyfried, Kate Winslet, Penelope Cruz, Lupita Nyong'o and Zendaya since the original formula landed in 2009<Node id="3570"/>. <Node id="3572"/>A potent complex of proven actives like hyaluronic acid help to plump and hydrate the skin instantly. And just like that roll call of talented actresses who love it, Advanced Genifique hasn't stopped getting better with age. Along with the heightened skin repair power, this new icon also improves radiance, clarity, tone and texture<Node id="3905"/>. <Node id="3907"/>Sanitiser and face masks might be a 2020 essential, but so too is this skin serum with serious smarts<Node id="4008"/>. *Clinical evaluation, 34 subjects, 8 weeks. Improves skin natural recovery by 77% - Instrumental test with Advanced Genifique serum versus bare skin, 1h after skin aggression."<Node id="4186"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="48" EndNode="106">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="48" EndNode="106">
+</Annotation>
+<Annotation Id="8" Type="Motive" StartNode="1432" EndNode="1888">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="1890" EndNode="2574">
+</Annotation>
+<Annotation Id="10" Type="GoalSub" StartNode="2576" EndNode="2744">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="2888" EndNode="3216">
+</Annotation>
+<Annotation Id="12" Type="RefAuthority" StartNode="3293" EndNode="3570">
+</Annotation>
+<Annotation Id="13" Type="PositiveEval" StartNode="3572" EndNode="3905">
+</Annotation>
+<Annotation Id="14" Type="Mask" StartNode="3907" EndNode="4008">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4186">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

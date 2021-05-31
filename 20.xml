@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/20.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Discover Loewe's new capsule collection, inspired by American artist Ken Price<Node id="79"/>", "Jonathan Anderson's latest release for Spanish luxury house Loewe draws on the work of Californian artist Ken Price.", "Fashion often gets a reputation for taking itself too seriously. The air kisses, the penchant for dressing in all black, the sunglasses worn indoors. Sure, there's that. But amid all the glamour, it's important to remember that fashion should also be fun. And that's something Loewe creative director Jonathan Anderson has never forgotten. During his seven years at its helm, Anderson has injected the nearly 175-year-old luxury Spanish fashion house with an unmistakable sense of personality. His very first bag, the now-iconic 'Puzzle' bag, features interlocking, geometric lines that make it equal parts practical and playful. It became an instant classic. Then there are Anderson's quirky, creative small leathergoods, the shape of elephants, frogs, mice and rabbits, or his colourful capsule collections, such as the joyful escapism of his Paula's Ibiza range. It's a legacy Anderson is building on with his latest release, a collection drawing on the work of seminal Californian artist Ken Price. Born in 1935, Price is best known for his abstract ceramics made from fired clay, as well as his bright, poppy city and landscapes that bear an almost cartoonish quality. He rose to prominence in the 1960s, alongside contemporaries such as Robert Rauschenberg, Ed Ruscha, Jasper Johns and even Andy Warhol, and has been the subject of major retrospectives at LACMA and New York City's Metropolitan Museum of Art. Although he passed away in 2012, you need only look to the work of Jeff Koons or KAWS to see Price's enduring influence &#x2013; and yet he remains lesser-known than many of pop art's bigger names. That's something Anderson is hoping to change. Inspired by Price's La Palme, Easter Island and LA series, Loewe's new capsule collection features the artist's bright, colourful motifs on men's and women's leathergoods and ready-to-wear clothing &#x2013; everything from T-shirts and jumpers to Loewe mainstays, such as the 'Balloon', 'Hammock' and 'Puzzle' bags. They're pieces made even more exciting by the fact Price's work rarely arrives at auction and is typically hard to come by. <Node id="2290"/>So while you may not be able to get your hands on a Ken Price original sculpture, drawing or painting anytime soon, Loewe is offering the next best thing<Node id="2443"/>. <Node id="2445"/>"The collection is joyous and very laid back," says Anderson of the range, which is available now at the brand's Westfield and Chadstone stores, as well as online. "An uplifting, and very timely, sense of joy comes to the fore in sunny, Pacific bright hues." He's not wrong &#x2013; and in many ways, the Ken Price collection is classic Anderson<Node id="2783"/>. <Node id="2785"/>Because if there's a way to sum up what the designer does best, it's fashion that not only makes you look good, but feel good, too<Node id="2915"/>. <Node id="2917"/>And right now, that's something we could probably all use a lot more of<Node id="2988"/>. For more information about Loewe and the brand's Ken Price capsule collection, follow @LOEWE on Facebook and Instagram, or head to loewe.com"<Node id="3131"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="79">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="2290" EndNode="2443">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="2290" EndNode="2443">
+</Annotation>
+<Annotation Id="4" Type="PositiveEval" StartNode="2445" EndNode="2783">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="2785" EndNode="2915">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="2917" EndNode="2988">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3131">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

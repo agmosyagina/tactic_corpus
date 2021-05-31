@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/37.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>This hand cream is our latest beauty obsession<Node id="47"/>", "<Node id="51"/>Step aside retinol serums, beauty has a new MVP and it has nothing to do with your face.", "If you had asked us to predict for the most valuable player of our beauty cabinet in 2020, chances are it wouldn't have anything to do with our hands. <Node id="294"/>Without stating the obvious, 2020 has thrown us some curve balls. Washing our hands countless times per day is part of our new normal and our trusty hand cream has emerged as the hardest-working product in our beauty bags<Node id="515"/>. <Node id="517"/>The chicest formula to hit the market is Hunter Lab's Healing Hand Cream<Node id="589"/>. Housed in the brand's sleek matte, black packaging, the light-weight fast-absorbing cream delivers a host of nourishing benefits to <Node id="723"/>rival your trusty face cream<Node id="751"/>. It's also absolutely necessary<Node id="783"/>. <Node id="785"/>Washing our hands countless times per day strips the natural moisture and oils which &#x2013; unless replenished &#x2013; can lead to irritation, uneven skin tone and fine lines. Moreover, skin on your hands is more delicate than that of your face making it particularly prone to external aggressors including UV damage and pollution. "The skin of our hands can age prematurely and display many conditions such as dehydration, redness and irritation," says Hunter Lab co-founder Susie Cox<Node id="1259"/>. <Node id="1261"/>Thankfully, Healing Hand Cream is loaded with a trio of high-performance natural oils and extracts, which is not only a salve for dry, irritated hands, it has anti-ageing benefits too. Rich in essential fatty acids, argan and hemp seed oil to promote healthy cell turnover and deliver a double-dose of hydration, while aloe vera encourages collagen production and soothes the thin, delicate skin which is prone to dryness and premature ageing<Node id="1703"/>. <Node id="1705"/>The added benefit? It's non-irritating, making it the go-to for anyone prone to dermatitis and eczema, as well as those (read: everyone) who wash their hands on the regular<Node id="1877"/>. While the benefits beneath the surface are key when it comes to hand cream, what's happening on top is tantamount. <Node id="1994"/>Pleasantly, the first thing you'll notice is the refreshing scent<Node id="2059"/>. That's sustainably-sourced mandarin, grapefruit, cedarwood, lavender and rosemary oils which melt into hands and leaves behind an uplifting vapour trail. But perhaps the true test of an excellent hand cream is the fine balance between hydration and absorption. It passes with flying colours. An almond-sized drop of Hunter Lab's Healing Hand Cream absorbs quickly and seamlessly without leaving any slippery residue<Node id="2476"/>. <Node id="2478"/>We'll raise our hands to that<Node id="2507"/>. Visit hunterlab.com.au to discover the Healing Hand Cream, alongside the full range of high-performing, natural skin health tools."<Node id="2640"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="47">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="47">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="51" EndNode="515">
+</Annotation>
+<Annotation Id="4" Type="Motive" StartNode="294" EndNode="515">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="517" EndNode="783">
+</Annotation>
+<Annotation Id="6" Type="Melioration" StartNode="517" EndNode="589">
+</Annotation>
+<Annotation Id="7" Type="AbstrComparison" StartNode="723" EndNode="751">
+</Annotation>
+<Annotation Id="8" Type="Motive" StartNode="785" EndNode="1259">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="1261" EndNode="1703">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="1705" EndNode="1877">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="1705" EndNode="1877">
+</Annotation>
+<Annotation Id="12" Type="PositiveEval" StartNode="1994" EndNode="2476">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="1994" EndNode="2059">
+</Annotation>
+<Annotation Id="14" Type="Mask" StartNode="2478" EndNode="2507">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2640">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

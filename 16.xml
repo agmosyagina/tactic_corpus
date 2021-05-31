@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/16.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>This cult scent has had a very festive (and very limited) makeover<Node id="67"/>", "Flowerbomb in a sparkly dress. <Node id="102"/>Run, don't walk<Node id="117"/>.", "<Node id="122"/>Since it arrived on the scene in 2005, Viktor&amp;Rolf's Flowerbomb has been regularly featured in best seller scents lists the world over for very good reason<Node id="277"/>. <Node id="279"/>It's unique and beautiful, sophisticated and sexy<Node id="328"/>. <Node id="330"/>Originally conceived by the exuberant, conceptual Dutch fashion designers, Viktor Horsting and Rolf Snoeren, with an ambitious goal: to spread more positivity, if you're not already wearing it, Flowerbomb might just be the joyful salve your 2020 needs<Node id="581"/>. <Node id="583"/>Surround your Holiday season in towers of pink boxes decked out in shimmering stars and embrace the magic of the world's most luxurious scent<Node id="724"/>. <Node id="726"/>An antithesis to the proliferation of unisex scents which had dominated the decade which preceded it<Node id="826"/>, Flowerbomb's decadent brand of femininity, a veritable explosion of flowers, fast won over fans. <Node id="925"/>"Flowerbomb will take you by surprise," Horsting and Snoeren said when Flowerbomb first launched<Node id="1021"/>. "When we present our collections, we don't just present clothes, <Node id="1088"/>we present a dream and that's what this fragrance is as well<Node id="1148"/>." In fact, it was the name Flowerbomb which came first to the creative pair - they knew exactly what they wanted, before it was ever blended and bottled. <Node id="1303"/>The beating heart of Flowerbomb - the part responsible for that "explosion" - is crafted with a festival of flowers including Sambac jasmine, freesia, Centifolia rose, Catteleya orchid and Osmanthus. Patchouli and vanilla are what give the scent its sweet sensuality and what causes a trail of compliments to follow in its wake<Node id="1630"/>. <Node id="1632"/>To celebrate the holidays, and to give you the perfect gift to add to your own  Holiday wish list, Viktor&amp;Rolf invite you to an enchanting Holiday ball, to dance the night away and to be sprinkled in a cascading waterfall of shimmering stars<Node id="1873"/>.<Node id="1874"/> Flowerbomb now comes in a limited-edition, highly collectible bottle. Beautifully faceted like a pink diamond to signify both strength and femininity, the original bottle already makes it perfect for displaying on the dresser. Now, covered in a smattering of shimmering stars and an oversized, very haute-couture star around its neck, <Node id="2210"/>Flowerbomb just got even more festive<Node id="2247"/>. Apply it to pulse points: the wrist, inner elbow and neck, and the scent will radiate for hours. If gifts for others, and not just yourself, are on your shopping list these Holidays, Viktor&amp;Rolf also have a host of gift sets featuring their signature scents, including Flowerbomb, and <Node id="2534"/>Bonbon (a sweet, caramel scent in a cute-as-a-button bow-shape glass vessel). Each set contains a luxurious collection of fragranced treasures, packaged in the most delightful way. The generous Luxury Holiday Gift Set is a two-tier star-shaped box in the prettiest shade of pink<Node id="2812"/>, and featuring the fragrance as well as a Scented Shower Gel and Body Lotion. Gift sets are also available in Viktor&amp;Rolf's male scent, Spicebomb <Node id="2959"/>so you can gift him the perfect complementary fragrance<Node id="3014"/>. <Node id="3016"/>Many of the sets also include body products featuring the same Viktor&amp;Rolf signature scent. Use them to layer with your favourite fragrance<Node id="3155"/> for longevity that lasts through a festive night out (and then some), or in place of your scent if you're keen to mix up the potency. Each of the gift sets come wrapped in Viktor&amp;Rolf's own grosgrain box and stamped with the seal of the designers themselves. <Node id="3415"/>Sophisticated and sweet, just like the Holidays should be<Node id="3472"/>. Shop the limited-edition Flowerbomb fragrance collection here."<Node id="3537"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="EmotionalSetup" StartNode="1" EndNode="67">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="102" EndNode="117">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="122" EndNode="277">
+</Annotation>
+<Annotation Id="4" Type="PositiveEval" StartNode="279" EndNode="328">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="330" EndNode="581">
+</Annotation>
+<Annotation Id="6" Type="EmotionalSetup" StartNode="330" EndNode="581">
+</Annotation>
+<Annotation Id="7" Type="GoalSub" StartNode="330" EndNode="581">
+</Annotation>
+<Annotation Id="8" Type="Mask" StartNode="583" EndNode="724">
+</Annotation>
+<Annotation Id="9" Type="EmotionalSetup" StartNode="583" EndNode="724">
+</Annotation>
+<Annotation Id="10" Type="AbstrComparison" StartNode="726" EndNode="826">
+</Annotation>
+<Annotation Id="11" Type="EmotionalSetup" StartNode="925" EndNode="1021">
+</Annotation>
+<Annotation Id="12" Type="GoalSub" StartNode="1088" EndNode="1148">
+</Annotation>
+<Annotation Id="13" Type="PositiveEval" StartNode="1303" EndNode="1630">
+</Annotation>
+<Annotation Id="14" Type="GoalSub" StartNode="1632" EndNode="1873">
+</Annotation>
+<Annotation Id="15" Type="PositiveEval" StartNode="1874" EndNode="2247">
+</Annotation>
+<Annotation Id="16" Type="Melioration" StartNode="2210" EndNode="2247">
+</Annotation>
+<Annotation Id="17" Type="PositiveEval" StartNode="2534" EndNode="2812">
+</Annotation>
+<Annotation Id="18" Type="Mask" StartNode="2959" EndNode="3014">
+</Annotation>
+<Annotation Id="19" Type="GoalSub" StartNode="2959" EndNode="3014">
+</Annotation>
+<Annotation Id="20" Type="Mask" StartNode="3016" EndNode="3155">
+</Annotation>
+<Annotation Id="21" Type="EmotionalSetup" StartNode="3016" EndNode="3155">
+</Annotation>
+<Annotation Id="22" Type="EvalTransfer" StartNode="3415" EndNode="3472">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3537">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

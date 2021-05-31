@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/48.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"The latest entertaining trend? Dressing to match your dinner party", "Expert style advice for dining in or out", "Because staying in is the new going out, the at-home dinner party is the hottest ticket in town at the moment. So how do you inject the same sense of excitement into a living room soiree as you would derive from heading to the latest-and-greatest restaurant opening? By dressing to match your dinner table, of course. No really: by choosing a sartorially inspired mood - then dressing up to 'theme' and co-ordinating your table top with stylish servingware, glasses and decor - you'll inject a sense of fun into the night (or long afternoon) that your guests will feel the moment they walk in the door. This season, interiors and fashion go hand-in-hand, whether it be with high-summer pinks and citrus, an acid-hued rainbow aesthetic, or a refined palette of muted browns, black and gold accents. <Node id="913"/>With a legacy that spans 35 years, Harrolds is Australia's truly luxury department store - and having recently launched global shipping, their edit of clothing, accessories and fragrance will be your go-to in time for party season. With over 100 brands, ranging from local heroes Christopher Esber, Albus Lumen and Sarah and Sebastian, to major international labels such as Bottega Veneta, Balenciaga, and Acne Studios - <Node id="1334"/>you'll find the piece for you, no matter the occasion<Node id="1387"/>. Before sunset. <Node id="1404"/>You might not be on a Spanish island, but your outfit doesn't have to know<Node id="1478"/>: this Wynn Hamlyn dress is decidedly party-ready, and a low heel by Manolo Blahnik (new to Harrolds) is the perfect pair to party all night in. <Node id="1623"/>Top your look with this micro bag by Gedebe - you're not going far, after all<Node id="1700"/>. <Node id="1702"/>Spritz this heady sandalwood scent by Creed around your space, then toast to a new season with glasses by Maison Balzac. Staying home has never been so much fun<Node id="1862"/>. After dark Whether it's date night or an intimate inner party with friends, keep things classic (but fashion-forward) in moody brown and noir hues, then accent with opulent glass- and table-ware. <Node id="2060"/>Scandi label Saks Potts' monogram print will bring a sense of cult cool<Node id="2131"/>, paired with statement leather pants from Petar Petrov. <Node id="2188"/>This beloved Cire Trudon scent, heavy in leather and tobacco notes, will set the mood<Node id="2273"/>. Buy now at harrolds.com.au Rainbow stylin' Tap into the of-the-moment rainbow trend with playful ombre pieces - such as this vibrant shirt dress by Christopher Esber, and statement-making scent by Amouage (with fresh notes of rose, ylang-ylang, orange, blossom and jasmine) - then top your table with contrasting hues to match. When it comes to this look, there are no rules, only to be guided by a strong sense of whimsy. Visit harrolds.com.au - or visit one of the luxury department store's Sydney, Melbourne and Gold Coast outposts - to discover their range of pieces for any occasion."<Node id="2864"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="PositiveEval" StartNode="913" EndNode="1387">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="1334" EndNode="1387">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="1404" EndNode="1478">
+</Annotation>
+<Annotation Id="4" Type="EvalTransfer" StartNode="1404" EndNode="1478">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="1623" EndNode="1700">
+</Annotation>
+<Annotation Id="6" Type="EmotionalSetup" StartNode="1702" EndNode="1862">
+</Annotation>
+<Annotation Id="7" Type="EmotionalSetup" StartNode="2060" EndNode="2131">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="2060" EndNode="2131">
+</Annotation>
+<Annotation Id="9" Type="GoalSub" StartNode="2188" EndNode="2273">
+</Annotation>
+<Annotation Id="10" Type="EmotionalSetup" StartNode="2188" EndNode="2273">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2864">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

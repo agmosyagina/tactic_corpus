@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/59.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"A new study has shown the positive impact doll play can have on a child's development of social skills and empathy", "It turns out the seemingly simple activity of playing with dolls may leave lasting impacts on the young people of today and tomorrow.", "As long as aspirational career paths have been around, so too have the dreams of youth ideating what their future may hold for them. With endless opportunities ahead of countless young children, the importance of having possibilities presented back to them in their everyday interactions is as important as ever. Of course, going hand-in-hand with this need for representation is the essential requirement of social skills and attributes, without which individuals would be unable to advance in not only their professional lives, but also their personal sphere. And while we've long witnessed leading doll creator, Barbie, as a pioneer of the former, presenting career-specific dolls to its devotees for decades, it has recently proven it can help children make significant strides in the latter, with Barbie recently uncovering the neurological importance of pretend play with dolls. Partnering with Dr Sarah Gerson and senior researchers from Cardiff University, Barbie has conducted a study which has found significant benefits in the practice of doll play, with researches using neuroscience to explore the positive impact doll play has on children. In the past, parents have not always placed doll play in the same category as construction-centred activities and puzzles in terms of developmental value, however, the world-first neuroscientific study on doll play has shown that the activity encourages the key social skills of empathy and situational awareness and processing. For 18 months, researchers used neuroimaging technology to monitor the brain activity of 42 children* between the ages of four and eight as they played with a diverse range of Barbie dolls and play sets. In order to gather their data, researchers studied the children as they engaged in a number of different modes of play, including playing with dolls on their own and playing with dolls with another person, as well as a separate activity of playing a game on a tablet alone, and playing it with another person. Following their data collection, researchers found that the posterior superior temporal sulcus (pSTS)&#x2014;the area of the brain associated with social information processing, including empathy&#x2014;was activated through doll play in both girls and boys, whether or not the child was playing alone or with another, and that doll play could aid children in further developing these skills. Interestingly, and likely to the relief of parents everywhere, study findings also proved that the playing of tablet games by children saw far less activation of the pSTS, even if the games involved a justifiably creative element. "This is a completely new finding," expressed Dr Gerson upon the release of the study. "We use this area of the brain when we think about other people, especially when we think about another person's thoughts or feelings. Dolls encourage them to create their own little imaginary worlds, as opposed to, say, problem-solving or building games. They encourage children to think about other people and how they might interact with each other." She continued: "The fact that we saw the pSTS to be active in our study shows that playing with dolls is helping them rehearse some of the social skills they will need in later life. Because this brain region has been shown to play a similar role in supporting empathy and social processing across six continents, these findings are likely to be country agnostic." While the positivity of these findings is clear, a separate study issued by the researchers found that their doll play-specific findings remedied existing concerns among parents. Barbie independently commissioned a global survey** of more than 15,000 parents across 22 countries, which resulted in 91 per cent of participants sharing empathy was a key social skill they would like their child to develop, the study also making clear that doll play could aid in the development of these skills, with 26 per cent of parents unaware of this crucial fact. In a time when a regular level of social interaction has been replaced with an increase in isolation from our friends and loved ones, this context leading to mounting concern around Covid-19's lasting effects&#x2014;60 per cent of Australian parents having expressed concern for the ongoing pandemic's potential impact on their child, and their social skills with other children&#x2014;the doll play's studies finding have proved reassuring and constructive with nearly 70 per cent of these parents expressing that they would encourage play with certain toys if they were proven to help develop social and emotional skills. <Node id="4831"/>Maintaining its mantra that "you can be anything" since the creation of its first doll in 1959, Barbie has never wavered in its mission to inspire and education girls and young women everywhere<Node id="5024"/>. Bringing dolls to its fans that have personified more than 200 careers&#x2014;a count which isn't yet static&#x2014;<Node id="5128"/>Barbie owners have long been granted an entryway to dreams of being anything from a princess to president, to an astronaut or a zoologist<Node id="5265"/>. <Node id="5267"/>And now, Barbie's legacy as the doll young children the world over reach for has only been solidified with the findings that their benefits don't just end at entertainment and early career ideation, but they can also have lasting impacts on the young people of today and tomorrow, these youth-specific activities creating thoughtful, empathetic and socially-conscious citizens of the world<Node id="5656"/>. You can read more about Barbie's findings around the benefits of doll play according to neuroscience here. *Study was conducted with 42 children (20 x boys and 22 x girls) aged from 4-8 years old with full data captured from 33 children. **Survey by OnePoll in July 2020 in 22 different countries questioning 15,000 parents of children aged from 3-10 years old."<Node id="6020"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="EmotionalSetup" StartNode="4831" EndNode="5024">
+</Annotation>
+<Annotation Id="2" Type="GoalSub" StartNode="5128" EndNode="5265">
+</Annotation>
+<Annotation Id="3" Type="PositiveEval" StartNode="5267" EndNode="5656">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="6020">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/70.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Tommy Hilfiger reaches peak Tommy Hilfiger with its <Node id="53"/>most premium<Node id="65"/> collection yet<Node id="80"/>", "<Node id="84"/>There are few fashion houses whose design codes have remained steadfastly recognisable, and even fewer who have managed to maintain an increasingly loyal following with every sartorial iteration they present<Node id="291"/>&#x2014;Tommy Hilfiger's 35-year tenure<Node id="323"/> in the wardrobes of style-strong women<Node id="362"/> is evidence of its rightful place in both of the rarely-realised, aforementioned categories.<Node id="455"/> If you're already a devotee of Tommy Hilfiger's signature style cues, presented in both its core collections and its cult-favourite diffusion lines&#x2014;house fans should be familiar with its Tommy Jeans releases, as well as its recent move into a more inclusive offering through Tommy Adaptive&#x2014;you've likely rushed to your nearest stockist or scrambled onto the brand's online store at the first sign of a new release<Node id="869"/>, this self-imposed call to action likely triggered once again by the release of Tommy Hilfiger's new Hilfiger Collection. Embracing the house's Americana heritage across womens and menswear, its newest release has already proved itself as the pinnacle of Tommy Hilfiger's releases to date, the collection presenting a veritable chronicling of the style that has dominated the label's founding country, and a reflection of both the country and urban influences that have crept into the design approach of the house. Taking house enthusiasts on a fashion-focused road trip across the USA, the Hilfiger Collection is an eye-spy game of sorts. <Node id="1510"/>Spot the house's nod to Midwest in its use of vintage-inspired, hand-drawn prints and laser-cut leathers, as well as classic American quilt work, patchwork and stitch detailing, each of these techniques a tribute to timeless American craftsmanship<Node id="1757"/>. In addition to these treasured fashion traditions that remain at the core of the region, the collection also borrows inspiration from the natural plains and deserts of the Midwest, injecting a number of pieces with a warm colour palette reflective of its landscape<Node id="2023"/>. <Node id="2025"/>If the Midwestern aesthetic is one you subscribe to, a number of leather-fashioned pieces await you, as do crested buffalo checks and Tommy Hilfiger's iconic blackwatch tartan and checks, which make appearances on a number of two-piece sets including tailored separates and fluid pajamas<Node id="2312"/>. Travelling east, the Hilfiger Collection too pays tribute to the coast's understated, chic style, as well as the house's preppy heritage that emerged out of the Atlantic-bordering region. <Node id="2502"/>With the East Coast's gritty, black and white city lights in mind, Tommy Hilfiger's long-standing love of rock 'n' roll is manifested in the form of black leather pieces and edgy detailing such as monogram critters, studs and laser cut-outs<Node id="2742"/>. And rounding out the East Coast aesthetic are varsity jackets, vertical striped polos, and hockey jerseys, as well as the appearance of embroidered crests, this sportswear offering a tried and true style cue for the house. <Node id="2967"/>And while the Hilfiger Collection presents a number of distinct looks, you needn't worry about introducing it to your regular round up of looks<Node id="3110"/>. Just like every Tommy Hilfiger collection that came before it, the versatility and all-encompassing nature of <Node id="3222"/>the Hilfiger Collection sees each of its pieces slipping seamlessly into any and every wardrobe<Node id="3317"/>, <Node id="3319"/>ensuring that brand loyalists are still able to express their individuality while wearing the collection, as well as their love for all things Hilfiger<Node id="3470"/>. The Hilfiger Collection will be available to shop online at au.tommy.com, select Tommy Hilfiger stores, and select stockists worldwide."<Node id="3608"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="80">
+</Annotation>
+<Annotation Id="2" Type="Melioration" StartNode="53" EndNode="65">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="1" EndNode="80">
+</Annotation>
+<Annotation Id="4" Type="NegLabels" StartNode="84" EndNode="291">
+</Annotation>
+<Annotation Id="5" Type="Compliment" StartNode="323" EndNode="362">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="455" EndNode="869">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="1510" EndNode="2023">
+</Annotation>
+<Annotation Id="11" Type="EvalTransfer" StartNode="1510" EndNode="1757">
+</Annotation>
+<Annotation Id="12" Type="Mask" StartNode="2025" EndNode="2312">
+</Annotation>
+<Annotation Id="13" Type="EvalTransfer" StartNode="2502" EndNode="2742">
+</Annotation>
+<Annotation Id="14" Type="Mask" StartNode="2967" EndNode="3110">
+</Annotation>
+<Annotation Id="15" Type="Hyperbolization" StartNode="3222" EndNode="3317">
+</Annotation>
+<Annotation Id="16" Type="AdvTeam" StartNode="3319" EndNode="3470">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3608">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

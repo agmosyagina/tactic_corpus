@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/52.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Fashion illustrator Megan Hess draws us into the world of haute couture in her latest book<Node id="91"/>", "<Node id="95"/>The Illustrated World of Couture by Megan Hess is the chicest of reads<Node id="165"/>.", "The glamorous and mysterious world of haute couture has a magnetic allure that can't be denied. Presided over by the Federation de la Haute Couture et de la Mode, haute couture is the highest form of fashion art. Designers and the storied houses they design for are responsible for creating the most exquisitely handcrafted fashion pieces to show at exclusive, invitation-only runways. Only a handful of people will ever see a couture piece up close and even less will have the honour of wearing one. Not only is the global couture client list small, only the most A-list of A-listers are lucky enough to wear haute couture on the red carpet. With such a tantalisingly limited glimpse of this fantastical fashion world available to fashion lovers, the appeal of haute couture is naturally very strong. <Node id="972"/>What happens behind the closed doors of a designer's atelier to create such incredible sartorial magic? <Node id="1076"/>In renowned fashion illustrator Megan Hess's latest book, The Illustrated World of Couture, the illustrator and author provides stunning insight into this romantic, yet elusive, fashion art form<Node id="1270"/>. Hess is one of the most famous fashion illustrators around the globe and has a signature style that is instantly recognisable. Her client commissions list reads like a who's who of luxury brands (think: Givenchy, Tiffany &amp; Co., Louis Vuitton, Yves Saint Laurent, Prada, Cartier), she has illustrated live during fashion shows, such as her work for Fendi at Milan Fashion Week and at the Christian Dior haute couture show, not to mention her cover art illustration for Candace Bushnell's best-selling book, Sex and the City. Needless to say, Hess is well-versed in the world of high fashion. <Node id="1863"/>Much like the high fashion world Hess brings to life inside, The Illustrated World of Couture itself is a work of art<Node id="1980"/>. <Node id="1982"/>Gorgeously illustrated, black-bound and gold-foiled, this book would look exceptionally chic on any coffee table around the home<Node id="2110"/>. <Node id="2112"/>On opening the book, fashion lovers will be swept away by the romance and beauty of the haute couture world seen through the artistic lens of the Melbourne-based illustrator<Node id="2285"/>. <Node id="2287"/>Featuring Hess's most recent and dare-we-say most stunning collections of illustrations<Node id="2374"/>, <Node id="2376"/>the book invites readers into the hallowed halls of haute couture to go behind-the-scenes and uncover the secrets of the haute couture artisans, and meet with some of the collectors of haute couture<Node id="2574"/>. <Node id="2576"/>The Illustrated World of Couture by Megan Hess is a celebration of the dreamy society of haute couture, and a must-have for any fashion devotee<Node id="2719"/>, aspiring fashion designer with big haute couture-sized dreams, and of course, for any of Hess's many fans who eagerly await any new work from the illustrator and author. The Illustrated World of Couture by Megan Hess is published by Hardie Grant Books and is available now from all good bookstores and online book retailers."<Node id="3046"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="GoalSub" StartNode="1" EndNode="91">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="1" EndNode="91">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="95" EndNode="165">
+</Annotation>
+<Annotation Id="5" Type="EmotionalSetup" StartNode="95" EndNode="165">
+</Annotation>
+<Annotation Id="6" Type="Melioration" StartNode="95" EndNode="165">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="972" EndNode="1270">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="1076" EndNode="1270">
+</Annotation>
+<Annotation Id="9" Type="EvalTransfer" StartNode="1863" EndNode="1980">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="1982" EndNode="2110">
+</Annotation>
+<Annotation Id="11" Type="EmotionalSetup" StartNode="2112" EndNode="2285">
+</Annotation>
+<Annotation Id="12" Type="GoalSub" StartNode="2112" EndNode="2285">
+</Annotation>
+<Annotation Id="13" Type="Melioration" StartNode="2287" EndNode="2374">
+</Annotation>
+<Annotation Id="14" Type="Mask" StartNode="2287" EndNode="2374">
+</Annotation>
+<Annotation Id="15" Type="GoalSub" StartNode="2376" EndNode="2574">
+</Annotation>
+<Annotation Id="16" Type="SamePlatform" StartNode="2576" EndNode="2719">
+</Annotation>
+<Annotation Id="17" Type="EmotionalSetup" StartNode="2576" EndNode="2719">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3046">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

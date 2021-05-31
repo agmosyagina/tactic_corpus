@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/56.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>The 6 trends you need to work into your summer wardrobe, according to David Jones<Node id="82"/>", "<Node id="86"/>Preview your warm weather wardrobe at the luxury department store's inaugural virtual runway<Node id="178"/>.", "While keeping track of emerging trends each and every season could qualify as an Olympic sport, there are often strong sources of sage style advice on offer to help you through your wardrobe transition with the change of the weather. <Node id="417"/>As summer nears, and we begin to shed our thick layers and heavy fabrics in favour of floaty silhouettes with a light feel, the time to cycle our go-to outfits so we're sartorially primed for the warm weather is here<Node id="633"/>. <Node id="635"/>This wardrobe transformation is one David Jones is all too happy to help with during Vogue Australia and American Express's inaugural Vogue American Express Fashion Night In (VAEFNI)<Node id="817"/>. <Node id="819"/>On Friday October 30, David Jones is taking part in VAEFNI 2020 with its very-first virtual runway show. Set against a backdrop of the breathtaking Australian landscape, the runway will feature exclusive new season pieces from the spring/summer 2020 collections created by its stable of Australian and international designers, and a roll call of internationally-renowned models, including Georgia Fowler, Akiima, Cameron Stephens, and Zoe Banard<Node id="1264"/>. <Node id="1266"/>Themed 'a place in the sun', each look on the runway has been curated to inspire looks for every single summer-specific scenario imaginable, from relaxing poolside while draped in the latest swimwear, to slipping into a summery dress for a few socially-distanced drinks with friends on a balmy evening<Node id="1567"/>. <Node id="1569"/>And no matter what style you subscribe to, we can guarantee there will be a number of covetable trends crossing the runway so perfect for your summer wardrobe that you won't be able to wait to add to cart<Node id="1773"/>. <Node id="1775"/>As for the trends David Jones is heroing for the summer season, we can count six which stand out as must-haves for your warm weather round-up<Node id="1916"/>. <Node id="1918"/>Think 'minimal femme', which offers a minimalist feel and clean styling in two-tone prins and neutral colour palettes, or 'empower up', which will prime you for a city-bound summer<Node id="2098"/> with its soft hues of mint green and bright pink, gentle tailoring and romantic tiered maxi dresses. David Jones's summer collection also offers 'paradise party' dressing&#x2014;expect bold prints and colours, voluminous sleeves and vibrant hues, as well as bringing an 'ocean odyssey' to life with the most ethereal of pieces fashioned out of pastel-toned linens, ditsy floral prints, delicately pleated fabrics and floaty chiffon. <Node id="2525"/>You can also keep your eye out for looks which embody the 'grunge up' trend, <Node id="2602"/>which embodies a utilitarian feel, and the 'leisure centre' trend, which speaks to the growing place for athleisure in our hearts<Node id="2731"/>. As for the designers you can anticipate shopping on the evening, local womenswear labels including Aje, Bec &amp; Bridge, Camilla, Camilla and Marc, Morrison, Shona Joy, and Zimmermann, will each be making their mark on the virtual VAEFNI runway, as will international brands, including Balenciaga, Ganni, Isabel Marant, Maticevski, Rixo and Rotate Birger Christensen. And for menswear, expect to see seasonally selected pieces from the likes of Bassike, Calibre, Dolce &amp; Gabbana, Kenzo and Ralph Lauren. And now for some exciting news, in the spirit of supporting Australian designers and retailers, <Node id="3330"/>every single piece you spot (and soon after, wish list) on the runway will be shoppable at davidjones.com both during, and after the show<Node id="3467"/>. <Node id="3469"/>If you're as excited to fill your summer wardrobe with new season pieces as we are, click here to secure your ticket and gain a covetable seat in the virtual front row of the VAEFNI 2020 runway<Node id="3662"/>. And, if you're an American Express card holder, you will also receive an American Express VIP Backstage Pass, which will unlock access to exclusive behind-the-scenes content, such as designer interviews, and 15 minutes to shop each and every runway look even before the runway begins."<Node id="3949"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="1" EndNode="82">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="1" EndNode="82">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="86" EndNode="178">
+</Annotation>
+<Annotation Id="4" Type="SamePlatform" StartNode="417" EndNode="633">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="635" EndNode="817">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="819" EndNode="1264">
+</Annotation>
+<Annotation Id="7" Type="EmotionalSetup" StartNode="1266" EndNode="1567">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="1569" EndNode="1773">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="1569" EndNode="1773">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="1775" EndNode="1916">
+</Annotation>
+<Annotation Id="11" Type="EmotionalSetup" StartNode="1918" EndNode="2098">
+</Annotation>
+<Annotation Id="12" Type="GoalSub" StartNode="1918" EndNode="2098">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="2525" EndNode="2731">
+</Annotation>
+<Annotation Id="14" Type="SamePlatform" StartNode="2602" EndNode="2731">
+</Annotation>
+<Annotation Id="15" Type="EmotionalSetup" StartNode="3330" EndNode="3467">
+</Annotation>
+<Annotation Id="16" Type="EmotionalSetup" StartNode="3469" EndNode="3662">
+</Annotation>
+<Annotation Id="17" Type="Mask" StartNode="3469" EndNode="3662">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3949">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

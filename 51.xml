@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/51.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Discover your best skin with Max Factor's new Miracle Second Skin hybrid foundation<Node id="84"/>", "<Node id="88"/>It's a miracle!<Node id="103"/>", "<Node id="107"/>Chicken soup may be food for the soul but Max Factor's newest hybrid foundation, Miracle Second Skin, is like soul food for the skin<Node id="239"/>. A new addition to the already long list of cult Max Factor products, <Node id="310"/>the eight-shade Miracle Second Skin is like nothing your skin has experienced before from a foundation<Node id="412"/>. <Node id="414"/>True to its name, Max Factor Miracle Second Skin effortlessly has wearers visibly glowing while also quietly and effectively working behind the scenes to hydrate, renew and protect the skin<Node id="603"/>. <Node id="605"/>But, how does one hybrid foundation achieve all this? One word: ingredients<Node id="680"/>. <Node id="682"/>This innovative hybrid foundation boasts 87 per cent skincare ingredients that more than deliver the promised trio of skin saviours: hydration, renewal and protection. Covering the hydration factor, the foundation features a powerful moisturising complex consisting of, among other glow-givers, coconut milk, glycerin and nature's ultimate soothing balm, aloe vera. This power-packed infusion of skin nutrients helps prevent water loss which translates to a hydrated, dewy complexion. To aid in the endless quest for fresh-looking skin that retains its natural skin-like beauty, the Max Factor Miracle Second Skin recipe is simple: pre- and probiotics. These buzzy ingredients are not limited to assisting in gut health, they're also included in Max Factor's hybrid foundation to help "feed" and nourish the skin's health. As for protection? The hybrid foundation contains a physical barrier against the sun's harsh and prematurely ageing rays by way of a physical sunscreen delivering SPF20. Max Factor's Miracle Second Skin also features an antioxidant complex, which works like a one-two-punch alongside the sunscreen to help keep skin looking youthful<Node id="1837"/>. <Node id="1839"/>With such a stellar skincare line-up involved and at an affordable price, this hybrid foundation is your new best beauty friend<Node id="1966"/>. <Node id="1968"/>But don't just take our word for it, even the experts are fans. "I'm always on the hunt for a flawless yet natural foundation," Max Fax Australia head make-up artist Liz Kelsh said<Node id="2148"/>. "<Node id="2151"/>A foundation that glides over pores and has enough coverage to even skin tone yet still leave skin looking natural and skin-like not heavy or cakey. Finally, I've found all that and more in Max Factor Second Skin foundation. This foundation not only gives me the perfect canvas, but it's also packed with good-for-you ingredients like pre- and probiotics; protecting dry and stressed-out skin, reducing inflammation, redness and helping the skin's natural defences. Skin has a 'lit from within' glow thanks to the hydrating formula that's clinically proven to support skin renewal<Node id="2731"/>." Kelsh also shared her expert advice for applying Max Factor's Miracle Second Skin hybrid foundation: "I found it best applied with a dampened sponge then use [your] fingers to dab a little extra cover where needed." Max Factor Miracle Second Skin hybrid foundation retails for $31.95 and will be available from October 2020 from Big W and independent pharmacies."<Node id="3097"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="GoalSub" StartNode="1" EndNode="84">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="1" EndNode="84">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="88" EndNode="103">
+</Annotation>
+<Annotation Id="4" Type="EmotionalSetup" StartNode="88" EndNode="103">
+</Annotation>
+<Annotation Id="5" Type="Allusion" StartNode="107" EndNode="239">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="310" EndNode="412">
+</Annotation>
+<Annotation Id="7" Type="Hyperbolization" StartNode="310" EndNode="412">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="414" EndNode="603">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="605" EndNode="680">
+</Annotation>
+<Annotation Id="10" Type="PositiveEval" StartNode="682" EndNode="1837">
+</Annotation>
+<Annotation Id="11" Type="GoalSub" StartNode="682" EndNode="1837">
+</Annotation>
+<Annotation Id="12" Type="EmotionalSetup" StartNode="1839" EndNode="1966">
+</Annotation>
+<Annotation Id="13" Type="Mask" StartNode="1839" EndNode="1966">
+</Annotation>
+<Annotation Id="14" Type="RefAuthority" StartNode="1968" EndNode="2148">
+</Annotation>
+<Annotation Id="16" Type="PositiveEval" StartNode="2151" EndNode="2731">
+</Annotation>
+<Annotation Id="17" Type="GoalSub" StartNode="2151" EndNode="2731">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3097">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/5.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>The luxury car guaranteed to bring back the thrill of driving<Node id="62"/>", "<Node id="66"/>Lamborghini will teach you to love the road again<Node id="115"/>", "While you may have previously never considered a morning stroll to get your coffee, ducking out to grab ingredients for dinner or hugging a friend hello to be of much significance, a lesson this year's pandemic has definitely taught us is that we need to appreciate the small things. <Node id="403"/>One liberty that was most sorely missed (but had likely not been given much thought prior to the lockdown) was the freedom of driving to wherever you wanted to go; however, with ease of travel restrictions and the holiday season upon us, there's no better time to get back behind the wheel and rediscover the thrill of driving<Node id="729"/>. <Node id="731"/>Understanding this almost better than anyone is Lamborghini, with the release of its Huracan Evo RWD range - guaranteed to deliver a fun-to-drive experience and a sense of freedom<Node id="910"/>.<Node id="911"/> Lamborghini's Huracan Evo RWD range has been developed to lead the charge in driving dynamics, design, luxury and daily usability<Node id="1041"/>. <Node id="1043"/>Not just for special occasions, the car will take you where you need to go in unparalleled driving emotions - whether that be for a morning ocean-side swim, commute to work or weekend away<Node id="1231"/>. <Node id="1233"/>To get into the specifics, the Italian luxury supercar manufacturer's latest offering is one of its most stylish yet. The interior of the Huracan Evo RWD contains an advanced centre console with an 8.4-inch touchscreen system, providing seamless interaction with the powerful machine. The charismatic exterior - drawing inspiration from the head of a shark - is not only aerodynamic, but cleverly draws your eye to the car's overall sophistication. And should you take a look under the hood, you would find the evolution of Lamborghini's much loved V10 model with an engine that can take you up to 325km/h. Many would be lying if they said they didn't want to return to the roads in a powerful design, and with thrilling speeds and a sleek exterior the Lamborghini is the all-encompassing dream machine<Node id="2035"/>. <Node id="2037"/>But at its core, this car delivers an unparalleled driving experience <Node id="2107"/>that will more than make up for the time we've spent stuck inside<Node id="2172"/>. <Node id="2174"/>With the tagline reminding us to "rewind" to our senses, the Huracan Evo RWD has embraced the true essence of what Lamborghini endeavours to deliver: pure, unfiltered driving excitement<Node id="2359"/>. <Node id="2361"/>And with the ability to live life again back in our midst after such a long hiatus<Node id="2443"/>,<Node id="2444"/> it only makes sense to be moving forward in a car that undisputedly actualises what it means to live life freely<Node id="2557"/>."<Node id="2559"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="GoalSub" StartNode="1" EndNode="62">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="1" EndNode="62">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="66" EndNode="115">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="66" EndNode="115">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="66" EndNode="115">
+</Annotation>
+<Annotation Id="6" Type="Motive" StartNode="403" EndNode="729">
+</Annotation>
+<Annotation Id="7" Type="GoalSub" StartNode="731" EndNode="910">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="731" EndNode="910">
+</Annotation>
+<Annotation Id="9" Type="EmotionalSetup" StartNode="1043" EndNode="1231">
+</Annotation>
+<Annotation Id="10" Type="GoalSub" StartNode="1043" EndNode="1231">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="1043" EndNode="1231">
+</Annotation>
+<Annotation Id="12" Type="PositiveEval" StartNode="911" EndNode="1041">
+</Annotation>
+<Annotation Id="13" Type="PositiveEval" StartNode="1233" EndNode="2035">
+</Annotation>
+<Annotation Id="14" Type="EmotionalSetup" StartNode="2037" EndNode="2172">
+</Annotation>
+<Annotation Id="15" Type="SamePlatform" StartNode="2107" EndNode="2172">
+</Annotation>
+<Annotation Id="16" Type="EmotionalSetup" StartNode="2174" EndNode="2359">
+</Annotation>
+<Annotation Id="17" Type="SamePlatform" StartNode="2361" EndNode="2443">
+</Annotation>
+<Annotation Id="18" Type="EmotionalSetup" StartNode="2444" EndNode="2557">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2559">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
