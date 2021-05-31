@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/102.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Clementine McVeigh reveals her tried and tested beauty secrets", "Clementine McVeigh credits her love of a smart beauty regimen to her mother's influence. "Even now, she is always immaculate. Every day, without fail, she has hot rollers in her hair," laughs McVeigh. The New Zealand-born Sydneysider, and mother of two, starts every day with hot water and lemon&#x2013;a drink her mum would make her even as a child&#x2013;and she removes her cleanser (which she only does in the evenings) with a flannel, for added (gentle) exfoliation. <Node id="525"/>As a woman in her 30s, McVeigh says it's pigmentation that has become her main skincare concern. So, she knows that a high-tech skincare regimen makes any time she does spend on self-care really count. <Node id="727"/>As one of Australia's leading cosmeceutical facial skincare brands, Dr LeWinn's has been expertly tackling how skin ages for 30 years and it's the brand McVeigh uses in her skincare line-up<Node id="916"/>. Specifically, McVeigh uses Dr LeWinn's Line Smoothing Complex Line range products, and the streamlined collection of five products means McVeigh can effectively keep skin nourished, hydrated, brightened, firmed, smoothed, and soothed, all at once<Node id="1164"/>. <Node id="1166"/>The clever formulations are designed to be effective enough to even optimally maintain results after cosmetic procedures, like lasers. The star ingredient across the Line Smoothing Complex Line is Snap-8, a potent peptide which smooths the appearance of wrinkles. It works like a topical alternative to Botox, softening and relaxing the look of fine lines, after only four weeks of use<Node id="1551"/>*. McVeigh says her 30s are her favourite decade so far. "The 30s for me is the decade of confidence. I care less what people think of me, and how I look, as I get older," she muses. <Node id="1734"/>Her hardworking but simple skincare routine includes the Line Smoothing Complex Multi Action Toning Mist first. It hydrates and refreshes the skin with hyaluronic acid and green caviar. The result is radiant skin from the first step. McVeigh follows that up (while skin is still damp for best results) with the Line Smoothing Complex Eye Recovery, packed with Snap-8 to smooth expression lines and wrinkles of the delicate skin around the eye. To apply a potent eye cream like this one, she says she employs a technique she picked up while working in Japan. A gentle tapping motion on the skin doesn't just encourage absorption of skincare, it also boosts the circulatory and lymphatic systems that then produce a glow in the skin. The next step is the cult Line Smoothing Complex Triple Action Day Defence, a high-powered serum with the same line-fighting capabilities as the rest of the collection. The genius formulation includes beads of various active ingredients which only burst on application, ensuring maximum freshness and stability of the ingredient, and therefore improved efficacy. After four weeks of use, this product has shown impressive results improving hydration, smoothness and softness, texture, brightness and elasticity*. The last element of her advanced skincare regimen is the potent Line Smoothing Complex Hydrating Day Cream, a lightweight, nourishing moisturiser formulated for day. And the Line Smoothing Complex Double Intensity Night Cream, which has a clever cocktail of 13 active ingredients that work synergistically to treat any signs of ageing. Like the moisturiser for day time, this product includes a slow-release moisturising method which means the nourishing effect lasts on skin for hours<Node id="3464"/>. A handy trait for the mother-of-two, who functions on less sleep than she would like. "I don't get the sleep I used to, of course. But life has definitely gotten better as I've gotten older," she says. *Source: clinical results. A four-week clinical study conducted by an independent laboratory involving instrumental measurement and participant's self-evaluation."<Node id="3831"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Motive" StartNode="525" EndNode="916">
+</Annotation>
+<Annotation Id="3" Type="GoalSub" StartNode="727" EndNode="1164">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="727" EndNode="1164">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="1166" EndNode="1551">
+</Annotation>
+<Annotation Id="6" Type="RefAuthority" StartNode="1734" EndNode="3464">
+</Annotation>
+<Annotation Id="7" Type="PositiveEval" StartNode="1734" EndNode="3464">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3831">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/101.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"4 ways to see quartz surfaces in a new vein", "If it seems like almost everyone you know is renovating right now, you're not imagining it. In these home-centric times, there's never been a better time to create the spaces you've always wanted to live in. <Node id="256"/>Realising the kitchen or bathroom of your dreams begins with investing in high quality surfaces, the 'bones' of all good design. Enter Smartstone<Node id="401"/>. <Node id="403"/>Its leading range of 36 quartz surfaces engineered for modern living is the choice of a long A-list of local and international designers and architects for benchtops, bathrooms vanities and loads more applications &#x2013; with good reason<Node id="635"/>. <Node id="637"/>Smartstone's seriously beautiful veined quartz surfaces perfectly replicate natural stone such as marble, yet are more durable, more affordable and more sustainable than marble. Smartstone's veined quartz surfaces are a popular choice for kitchen benchtop designs, such as waterfall edges and splashbacks, where the vein can be seamlessly matched. In bathrooms, an in-demand floating vanity in a veined Smartstone surface makes a visually striking focal point in the space<Node id="1109"/>. <Node id="1111"/>Veined marble looks great with every existing style and can be fused in effortlessly with just about all accessories<Node id="1227"/>. <Node id="1229"/>So, which to choose?<Node id="1249"/> A soft grey. <Node id="1263"/>Pelle Grigio is a gorgeous quartz surface with a mottled texture and fine vein on a pale grey backdrop. A versatile addition to Smartstone's Paris collection, Pelle Grigio makes a sophisticated foil for on-trend interior colours, such as dusty teal and moody green-grey hues<Node id="1537"/>. Minimal white. <Node id="1554"/>Love white? Be inspired by Bianco Onix in Smartstone's Santorini collection with its gentle vein sweeping across a brilliant white background<Node id="1695"/>. <Node id="1697"/>Team Bianco Onix with the latest matte white tapware to create a minimal mood with a layer of textural veining<Node id="1807"/>. Cream with a twist. <Node id="1829"/>If you're drawn to the current trend for earthy, organic tones and materials, say hola to Dolce Vita Crema in your kitchen or bathroom<Node id="1963"/>. <Node id="1965"/>With its pale, gentle vein on a warm, creamy background, this surface is housed in Smartstone's Toledo collection, a palette inspired by the sun-baked stones of this enchanting Spanish citadel<Node id="2157"/>. A glowing white. <Node id="2176"/>Amani Classico brings the magnificence of Italian marble to Smartstone's Milan collection with its refined grey veining on a luminous white background. Such surface styles are making a popular pairing with 2020's pale rosy pink, giving marble-style surfaces a glamorous, contemporary edge<Node id="2464"/>. Visit: smartstone.com.au"<Node id="2491"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="GoalSub" StartNode="256" EndNode="401">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="256" EndNode="401">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="403" EndNode="635">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="403" EndNode="635">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="637" EndNode="1109">
+</Annotation>
+<Annotation Id="6" Type="Hyperbolization" StartNode="1111" EndNode="1227">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="1229" EndNode="1249">
+</Annotation>
+<Annotation Id="8" Type="PositiveEval" StartNode="1263" EndNode="1537">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="1554" EndNode="1695">
+</Annotation>
+<Annotation Id="10" Type="EmotionalSetup" StartNode="1554" EndNode="1695">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="1697" EndNode="1807">
+</Annotation>
+<Annotation Id="12" Type="Mask" StartNode="1829" EndNode="1963">
+</Annotation>
+<Annotation Id="13" Type="EvalTransfer" StartNode="1965" EndNode="2157">
+</Annotation>
+<Annotation Id="14" Type="PositiveEval" StartNode="2176" EndNode="2464">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2491">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

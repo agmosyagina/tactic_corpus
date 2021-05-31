@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/112.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>A dermatologist-approved skin regimen you should be trying<Node id="59"/>", "<Node id="63"/>It's the perfect time to swot up<Node id="95"/>.", "<Node id="100"/>Options to visit a professional for your usual beauty maintenance may have significantly reduced right now, thanks to current world events, but that doesn't mean your skin has to suffer. Make some tweaks to your daily regimen to ensure each step you're taking is as effective as it can be&#x2013; and capable of making marked changes on the quality of your skin<Node id="454"/>.<Node id="455"/> Studies conducted by Dr. LeWinn's on their Line Smoothing Complex products demonstrated an improvement on the tone, texture, hydration levels, and even the appearance of lines and wrinkles, after only four weeks of use<Node id="674"/>. Sydney-based dermatologist Dr Annika Smith says there's a big difference between a beauty product which just looks the part, and one with potent, active ingredients included. "Cosmeceuticals are specially designed compounds combining active ingredients that influence the biological structure and function of the skin, enhancing both the beauty and health of the skin and creating changes that are long-lasting. Essentially, they can more effectively achieve desired anti-ageing effects - reduction in fine lines, improved skin tone and texture and pigmentation - than a standard cosmetic. Cosmeceuticals combine the advantages of both a cosmetic and pharmaceutical product but without the potential risks and side effects of a pure pharmaceutical product or more invasive cosmetic treatments," she explains. <Node id="1485"/>At the top of Smith's list of preferred cosmeceuticals is the Line Smoothing Complex collection from the popular Australian Cosmeceutical skincare brand Dr. LeWinn's<Node id="1650"/>. <Node id="1652"/>"The unique and potent combination of skin care actives that this range incorporates is impressive. Specifically, Snap-8 is a standout. It's a potent anti-ageing peptide, proven to be 30% more potent than its parent peptide, Argireline®, in softening and reducing fine lines and wrinkles by up to 63%*. It reduces the expression of wrinkles through a Botulinum Toxin-like mechanism of action.  And it is a safer, cheaper, and milder alternative, topically targeting the same wrinkle-formation mechanism," she explains<Node id="2169"/>. Smith says a high-performance skincare regimen isn't one which requires endless steps. A curated list of essentials that work in tandem to target all facets of skin ageing, can have a big impact on how skin looks and feels, when applied in the right dosage, and the right order. The potent cocktail of ingredients in Dr. LeWinn's Line Smoothing Complex range are formulated to maximise efficacy, without overloading the skin. <Node id="2597"/>The result is skin that is plumped, hydrated and firmed<Node id="2652"/>. "This range contains a few 'wrinkle warrior' ingredients that contribute to smooth, full and radiant skin. Snap-8 is an octapeptide which reduces fine lines and wrinkles by attenuating contraction of the muscles of facial expressions. Hyaluronic acid has high water binding capacity which allows for potent moisturisation and hydration of the skin," Smith adds. <Node id="3016"/>For an impressive hit of antioxidants, Lipochroman® expertly protects skin against free radical damage, while caviar is in the Line Smoothing Complex for its uber-nourishing properties. Dr. LeWinn's Line Smoothing Complex essential regimen includes a Line Smoothing Complex Multi Action Toning Mist, to tone, hydrate and refresh the skin. It also has ingredients to minimise the appearance of pores and to soothe a stressed complexion. The Line Smoothing Complex Eye Recovery Complex is an antioxidant-rich formula which gently treats the fine lines and wrinkles on the most delicate of skin. The Line Smoothing Complex collection also includes a potent age-fighting serum &#x2013; Triple Action Day Defence, and a souped-up lightweight moisturizer, Complex Hydrating Day Cream. The range also includes a rich night cream to fend off daily damage, and provide slow-release nourishment to skin. Dr. LeWinn's Line Smoothing Complex line is formulated to maximise and maintain the anti-ageing benefits of skin following a cosmetic treatment too<Node id="4050"/>. Dr Smith argues that the real work on skin is that done regularly in front of the mirror, in the bathroom at home. She says commitment is integral to an effective healthy skin strategy. "The cellular processes and biology of the skin are constant and dynamic, as are the insults to skin health in terms of extrinsic factors such as UV. So like anything in life, consistency is key. Over time, it becomes a habit to establish a regular skin care regimen. Seeing results serves as a potent motivating factor to persist. <Node id="4570"/>Your skin will thank you," she says<Node id="4605"/>. *Clinical testing performed by the manufacturer on the Snap-8 Peptide System."<Node id="4685"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="59">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="63" EndNode="95">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="1" EndNode="59">
+</Annotation>
+<Annotation Id="4" Type="Motive" StartNode="100" EndNode="454">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="455" EndNode="674">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="100" EndNode="674">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="1485" EndNode="1650">
+</Annotation>
+<Annotation Id="8" Type="RefAuthority" StartNode="1652" EndNode="2169">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="1652" EndNode="2169">
+</Annotation>
+<Annotation Id="10" Type="GoalSub" StartNode="2597" EndNode="2652">
+</Annotation>
+<Annotation Id="11" Type="PositiveEval" StartNode="3016" EndNode="4050">
+</Annotation>
+<Annotation Id="12" Type="RefAuthority" StartNode="4570" EndNode="4605">
+</Annotation>
+<Annotation Id="13" Type="GoalSub" StartNode="4570" EndNode="4605">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4685">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

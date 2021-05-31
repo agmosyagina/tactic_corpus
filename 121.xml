@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/121.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Net-A-Porter has joined VOSN (and yes, that means you'll get a discount)!<Node id="74"/>", "<Node id="78"/>In case you needed any more reason to be consciously distancing and staying at home right now, Vogue Online Shopping Night (VOSN) is here to give you a few more. The unmissable online shopping event is taking place from midday April 1 until midnight April 2. It provides the perfect opportunity to update your working-from-home basics, sort your change of season wardrobe or even just to bring a little home-delivered joy when you need it, all at a discounted price<Node id="543"/>. For the first time in VOSN's history, everyone's favourite online retailer Net-A-Porter is joining the party! <Node id="655"/>We know you're probably already perusing the pages upon pages of luxury fashion care of Chloe, Isabel Marant, Jacquemus, Loewe and Stella McCartney, as a salve for isolated souls (we're doing it too)<Node id="854"/>. So now is the best time to be actually adding to cart, because Net-A-Porter is offering an exclusive 20% discount*. <Node id="972"/>It's the dream designer sale you don't have to even change out of sweats for<Node id="1048"/>. The essential bit you'll want to commit to memory: enter the code VOGUEAU from midday April 1, and 20% off is yours. <Node id="1167"/>If you need some inspiration for your own wish list, here are some of our current favourites that will see you through lockdown (and beyond) in style<Node id="1316"/>: Boyy, Bobby 50 buckled leather-trimmed raffia tote. <Node id="1370"/>A laidback, casual take on Boyy's classic handbag shape has an easy, breeziness that feels so appropriate right now. The generous size means it doubles as an overnighter, beach bag or carry-on (when you need it again). And the combo of raffia and leather lets it swing high-low easily&#x2013;it pairs with denim as well as it does resort-perfect linen or silk<Node id="1722"/>. <Node id="1724"/>Jacquemus, Bahia tie-front striped cotton-jacquard shirt. Isabel Marant, Kerris high-rise tapered jeans. If your WFH situation requires at least a few daily Zoom calls, you want to still be dressing for the life you want (i.e. getting out of your pyjamas). These two standout pieces from famed French designers prove that Europeans know how to do low-fi style as well as Australian designers do<Node id="2118"/>. Loewe, Suede and leather sneakers. The ultimate chic-sneaker, these leather and suede Loewe's literally go with everything. Just slip on and go (for appropriately-distanced walks around the block). Matteau, gathered cotton-poplin maxi dress. Matteau's easy silhouettes and classic style should put them high on your rotation list right now. The lightweight cotton poplin and chic square neck of this Australian-made maxi make it perfect at-home attire. The elastic waist and slits on the side means there's room for movement when world events allow for it again. <Node id="2683"/>Bondi Born, Linen-twill camisole. <Node id="2717"/>Bondi Born, Universal linen-twill wide-leg pants. Bondi Born's take on a summer set is a study in what happens when great design and premium natural materials combine. <Node id="2885"/>This cosy Japanese linen-twill two-piece has and elastic waist and wide leg pants to ensure comfort (if your work requires you to be seated) while the gently flared cami keeps the whole thing feminine, and sexy enough for drinks with the girls (on Houseparty)<Node id="3144"/>. *20% off select full price new season items. Brand exclusions apply. Visit Net-A-Porter for full Terms and Conditions."<Node id="3265"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="74">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="78" EndNode="543">
+</Annotation>
+<Annotation Id="3" Type="GoalSub" StartNode="78" EndNode="543">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="655" EndNode="1048">
+</Annotation>
+<Annotation Id="5" Type="SamePlatform" StartNode="655" EndNode="854">
+</Annotation>
+<Annotation Id="6" Type="GoalSub" StartNode="972" EndNode="1048">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="1167" EndNode="1316">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="1167" EndNode="1316">
+</Annotation>
+<Annotation Id="9" Type="PositiveEval" StartNode="1370" EndNode="1722">
+</Annotation>
+<Annotation Id="10" Type="Mask" StartNode="1724" EndNode="2118">
+</Annotation>
+<Annotation Id="11" Type="Mask" StartNode="2683" EndNode="3144">
+</Annotation>
+<Annotation Id="12" Type="GoalSub" StartNode="2885" EndNode="3144">
+</Annotation>
+<Annotation Id="13" Type="PositiveEval" StartNode="2717" EndNode="3144">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3265">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

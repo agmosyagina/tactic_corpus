@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/105.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"How to become part of the new generation of nurses on the front lines", "On International Nurses Day this Tuesday 12 May, Bachelor of Nursing student Nicole De Vera explains a day in the life of a nurse.", "Fashion has always had a fascination with nurses. While in 2020 we have certainly seen the connection, through houses like Louis Vuitton and Ermenegildo Zegna turning their resources to the production of face masks and other protective gowns at a time of need: the relationship has been a historic one. From Marc Jacobs' efforts in reimagining nurses from World War I in Louis Vuitton's spring 2008 collection, to Emilia Wickstead and Andreas Kronthaler sending models down the runway wearing looks inspired by servicewomen in the '50s and '70s, these images don't resemble the frontline responders we see on the news, but their missions are the same: saving lives. <Node id="874"/>And while that is absolutely a drawcard in a time like this, saving lives isn't the only reason women are drawn to the career. Studying nursing allows you to use your profession anywhere in the world, it allows you to work with many people every day, both patients and staff, and it can be extremely flexible if you have a family. One place to do exactly that, Torrens University Australia, aims to bring a fresh and modern, global perspective to their courses, which are delivered through a family of schools and collaborations that all boast strong links to the nursing industry in Australia and overseas<Node id="1480"/>. More important than ever in the midst of the Covid-19 pandemic, Australian nurses are not just at the frontline of providing critical care, but, alongside aged care and primary healthcare, are moving into new and different areas to ensure we have access to reliable health advice to help us deal with the virus. What a coincidence that the United Nations declared 2020 to be the Year of the Nurse and Midwife. <Node id="1892"/>To find out more, we spoke to Nicole De Vera, a second year Bachelor of Nursing student with Torrens University Australia who joined the team of 500 nurses staffing Victoria's Covid-19 hotline<Node id="2084"/>. With her nursing experience, her Diploma of Nursing, which she gained in 2015, and studying for her Bachelor degree now, Nicole was offered a position on the hotline as soon as she applied. What was it like managing the hotline amidst the hysteria? At its peak, just when the lockdowns were announced, calls were coming in non-stop. When I first started, we were getting 35,000 calls a day. Every time I put the phone down, another person would call. This was the time when so many people were getting infected. People would call up and ask for our advice and we would actually assess them over the phone. How did you assess them? We'd go through an algorithm, recording what symptoms they had, and working out if they were eligible to get tested. Then we talked about what they could do next. That might be going to their GP, going to an emergency department, or to a Covid clinic. It really depended on their situation. Also, we had to consider if they had a high risk of being infected. During the peak, you might be at high risk if you had been travelling overseas, for example. This was my first job as a Tele-Health nurse and to start with I was very scared because you know, it's hard assessing someone over the phone. But I did it and I managed. <Node id="3340"/>How did your studies help you in the field? The training we undertook was further reinforced by what I was currently learning in my Nursing degree at Torrens University. I was applying the knowledge we were studying and learning about in class in a real-life situation; such as how to assess a patient head-to-toe and how to effectively and compassionately communicate with a patient who may be in distress<Node id="3746"/>. Although working in a pandemic, let alone being in one to begin with, is a new and strange situation, with all of the training provided as well as the world-class education I was receiving at University, I felt confident and ready to help those in need. Would you suggest nursing as a career? Nursing's a very fast paced job and, as we can see all over the world now, it's one of the most important careers in any type of crisis. You help people, you change lives, you meet different people every day and build relationships with people who start out as strangers. If you want to find out more about starting your career in nursing, visit https://www.torrens.edu.au/courses/nursing. Torrens University Australia are hosting a Virtual Open Day on Tuesday 19 May. Register here"<Node id="4524"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="874" EndNode="1480">
+</Annotation>
+<Annotation Id="2" Type="GoalSub" StartNode="874" EndNode="1480">
+</Annotation>
+<Annotation Id="3" Type="RefWitness" StartNode="1892" EndNode="2084">
+</Annotation>
+<Annotation Id="4" Type="RefWitness" StartNode="3340" EndNode="3746">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4524">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

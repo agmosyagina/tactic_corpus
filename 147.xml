@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/147.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Emilia Clarke has been announced as the first Global Brand Ambassador for Clinique", "Beauty brand Clinique has tapped the British actress, who called the partnership a "beautiful relationship."", "The effervescent Emilia Clarke has been named as the first Global Brand Ambassador for Clinique, the storied beauty brand has officially confirmed. If you think the people behind Clinique are excited by the news, then it doesn't even begin to describe how Clarke herself feels about the partnership. <Node id="499"/>"Clinique is such a universal brand, which is what I really, really love about it," the 33-year old actress told Vogue Australia on the phone from London, ahead of the big announcement. "Everything about the brand is so accessible, and it's so relatable, and it just feels very real. I like that there's no bells and whistles and all this added stuff. It's just really simple, good skincare, and really simple, beautiful make-up, that's for people."<Node id="948"/> The London-born talent has summed up what people across the globe have come to love about Clinique since its products arrived on-counter in the '60s. The brand has stayed true to its original vision as the first-ever dermatologist brand that's allergy tested, 100 per cent fragrance free and even today is formulated without parabens, and phthalates. <Node id="1300"/>"They're taking the hard work out of the equation for you," Clarke continues. "You get to kind of go and get something that makes you look like you, and feel more like you<Node id="1471"/>. It's just brilliant and it has been the most beautiful relationship." Clarke's new job means she gets to try all of the brand's products (<Node id="1611"/>we're jealous<Node id="1624"/>) which is how she landed on her favourite, the Clinique iD Dramatically Different Moisturizing BB-Gel, the brand's newest release. "I love that this is what we're doing first, because <Node id="1809"/>it's what I was most obsessed with<Node id="1843"/>," she revealed to Vogue. <Node id="1869"/>"I'm always late, I'm always rushing. I'm always like, 'Just five more minutes on the snooze'... the BB gel, it's got pigment in it, so you just wipe it on like a moisturiser, and your skin looks amazing! This is something that I, genuinely told all of my friends to use. In the summer, it just gives you that little bit of a healthier glow. Whack that on your face, moisturise it in, and off you go. It's amazing!"<Node id="2284"/> Clarke is right &#x2013; <Node id="2303"/>Clinique's iD Dramatically Different Moisturizing BB-Gel is designed for those who love fuss-free beauty that actually works. It's a clever product that allows the user to insert a Clinique iD active cartridge concentrate depending on their skin concern&#x2013;Fatigue, Lines &amp; Wrinkles, Pores &amp; Uneven Skin Texture, Uneven Skin Tone or Irritation&#x2013; that releases into the BB-Gel, to create a custom-blend moisturiser. It therefore targets and treats skin concerns, offers hydration (eight hours of it, actually), acts as a daily moisturiser and also a BB cream. Genius<Node id="2864"/>. Clarke reveals that her Clinique iD is Fatigue + moisturising BB-gel, given she's always travelling and working, leaving her skin "dry, and kind of patchy." "I'm very, very lucky," she admits. "I don't get spots very much, unless hormonal stuff, but what I do get is really dry skin. <Node id="3150"/>I've naturally got really dry skin, so in the cold, and in the winter months, I've just got to beef up that moisturiser. And it has genuinely made my skin better."<Node id="3313"/> As for her other role, that of award-winning actress, Clarke says that her work truly brings her joy. "[It's] the people that I get to work with, and the people that I get to inhabit. So I just like people, I like interacting with human beings. I like making connections, and so in any kind of job I'm doing&#x2013;be it film, or theatre, or TV&#x2013;you're surrounded by an ensemble, and they become family, they become absolute family, and that is one of the best bits of the job. Because you just have to be there for one another, because you're there 19 hours a day." There's plenty of reasons to love Emilia Clarke, who, at the time of this interview was fresh off the back of an incredible performance in the festive film Last Christmas, that she starred in alongside Henry Golding. But what is Clarke's favourite personality trait in herself? "I try, at all costs, to not take stuff too seriously. To make light of yourself, to take yourself lightly, I think can be a really, really helpful tool in life. When you're going through a hard time, or you're in a difficult situation, or you're having a bad date, if you can laugh at just a little bit of it, it just helps take yourself off the hook." She continues: "It's so easy to be so mean about yourself. And if you took a second and had a bit of a space between you and the feeling, to laugh a little bit, and let that out, and have the energy that's trapped in there because you're angry, or because you're sad, or because of your date, or whatever and make it laughter, make it light." "I can't do that all the time, but I try and remember to do it as much as possible." To find your Clinique iD, visit the Clinique website or visit your nearest Clinique Counter."<Node id="5026"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="PositiveEval" StartNode="499" EndNode="948">
+</Annotation>
+<Annotation Id="2" Type="RefAuthority" StartNode="499" EndNode="948">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="1300" EndNode="1471">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="1300" EndNode="1471">
+</Annotation>
+<Annotation Id="5" Type="Mask" StartNode="1611" EndNode="1624">
+</Annotation>
+<Annotation Id="6" Type="RefAuthority" StartNode="1809" EndNode="1843">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="1869" EndNode="2284">
+</Annotation>
+<Annotation Id="8" Type="PositiveEval" StartNode="2303" EndNode="2864">
+</Annotation>
+<Annotation Id="9" Type="RefAuthority" StartNode="3150" EndNode="3313">
+</Annotation>
+<Annotation Id="10" Type="BeforeAfter" StartNode="3150" EndNode="3313">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="5026">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

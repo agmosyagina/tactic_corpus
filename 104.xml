@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/104.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"How these inspiring women eat well, minus the fuss", "<Node id="55"/>Rey Vakili, Montarna Pitt and Jacqueline Alwill have more than one thing in common. Aside from impeccable style and radiant complexions, the trio all stock their kitchens with Eimele<Node id="237"/>. <Node id="239"/>The innovative functional health brand is free from added nasties and refined sugars, and is a perfect solution for busy types juggling many hats<Node id="384"/>. It's wholefood nutrition&#x2013;just add water. For Rey Vakili, being in perpetual motion is part of the job. She's an entrepreneur, former assistant at US Vogue and frequent flyer who has an adventurous palette in the kitchen. "My background is Persian, so I love to cook with a lot of herbs and spices. Things like cumin, saffron, turmeric and cinnamon give a dish great flavour and depth, and they have a lot of health benefits too," she tells Vogue. <Node id="833"/>Rey's breakfast routine is consistent, even if the postcode&#x2013;or hemisphere&#x2013;she's in isn't. She starts her days with a fresh juice&#x2013;one with plenty of ginger&#x2013;and coffee. She says staying sufficiently hydrated from first thing in the morning is important to how she feels. Rey follows up that combination with Eimele's Mixed Wild Berries Porridge, which she can easily cart wherever she is, courtesy of the compact sachet<Node id="1250"/>. It only needs hot water to make an instant meal. "It's filling and gives a good slow release of energy. And I love the berry taste. If I have more time, I'll pile on fresh berries and chia seeds. Then I'll top it off with honey, Greek yoghurt and a sprinkle of granola for a great crunch," she explains. Life doesn't get much busier than it is right now for Montarna Pitt. The founder and director of The Audience Agency runs a bustling business with an ever-expanding team as well as being a mother. And she happens to do it in heels. Her nutrition choices are unsurprisingly built around accessibility, and being a good role model to baby Parker. "I'm not exactly a natural cook, so having something that's quick and nutritious on hand helps me make the right choices throughout the day," she says. <Node id="2053"/>Her favourite Eimele dish is one that can move easily with her, from home to the office, or to the park for a play with her daughter. "The Eimele Meal Replacement Shakes are nutrient-dense, they've got prebiotic fibre and it's all plant-based protein. I love that they're not full of refined sugar," Pitt explains<Node id="2366"/>. If she's at home and prepping her favourite shake, Montarna says the vanilla flavour makes a perfect base to toss in extra serves of fruit and veg to add to the already fortified formulation, which boasts a combination of vitamins and minerals, fibre and protein. She teams fruits, chia and flaxseeds and even spinach for a bonus boost of greens, flavour and texture. The shakes also come in a delicious chocolate flavour, sure to satisfy sugar cravings or a 3pm slump. Nutritionist Jacqueline Alwil's schedule is equally hectic. <Node id="2898"/>She is juggling being the mother of a newborn with family life and her profession of coaching and inspiring others to eat better (her @brownpaperbagnutrition account is loaded with delicious, wholesome recipes), and says that nutrition is even more essential for mothers, who typically prioritise their families and consider their own needs last<Node id="3243"/>. For women especially, reserving time for preparation is essential<Node id="3310"/>. "For me, that means food prepped in advance, so you have something nutritious on hand when you're hungry." Alwill says the majority of Australians likely don't get enough fibre in their diet. And the best way to resolve that is to eat more plants. "Crowd your diet with plant-based food, and it leaves only a small amount of room for other foods," she explains. <Node id="3674"/>Jacqueline's go-to Eimele is Tomato, Basil &amp; Lentil Soup. "All of Eimele's products have a vegan protein as their primary ingredient. It's a combination of a pea and brown rice protein. You're ticking off protein and fibre, blood glucose levels are well managed and there's really minimal effort in them. There are also no fillers, artificial flavourings or preservatives, either. I love the richness of the flavours in the Tomato, Basil &amp; Lentil one. Tomatoes are a great source of lycopene, which is a powerful antioxidant," she says<Node id="4209"/>. Proof that wholesome food doesn't have to be time-consuming to make."<Node id="4280"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="55" EndNode="237">
+</Annotation>
+<Annotation Id="2" Type="Motive" StartNode="239" EndNode="384">
+</Annotation>
+<Annotation Id="3" Type="RefAuthority" StartNode="833" EndNode="1250">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="2053" EndNode="2366">
+</Annotation>
+<Annotation Id="5" Type="RefAuthority" StartNode="2898" EndNode="3243">
+</Annotation>
+<Annotation Id="6" Type="Motive" StartNode="2898" EndNode="3310">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="3674" EndNode="4209">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4280">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

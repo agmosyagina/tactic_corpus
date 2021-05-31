@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/120.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>A foolproof guide to shopping from David Jones this VOSN<Node id="57"/>", "<Node id="61"/>Shop smarter with Vogue's definitive guide to navigating the best offers from David Jones this VOSN<Node id="160"/>.", "<Node id="165"/>If there's anything Vogue knows well, it's how to shop. And, in these challenging and unprecedented times, it's more important than ever to shop smarter: <Node id="319"/>curating your wardrobe, investing in timeless pieces and buying at the right time<Node id="400"/>. This Vogue Online Shopping Night, premium department store David Jones is making that sentiment easier with a broad range of discounts available on your favourite designer brands<Node id="580"/>. Here, our guide to navigating it with ease. Shop smarter with thoughtful investment pieces. <Node id="674"/>With up to 20% off a great range of international designers at David Jones this VOSN, it may be the perfect time to shop for investment pieces to cherish this season and beyond<Node id="850"/>. Quality pieces from international designer brands including Nanushka, Boyy, Balmain and Versace will quickly become wardrobe classics on high-rotation for years to come. Extend that same thinking to your interiors by shopping David Jones' extensive range of stylish homewares: for just two days, take an extra 10% off a great range of already reduced homewares and electricals. Replenish your work-from-home wardrobe. With office-dressing guidelines &#x2013; blazers and tailoring &#x2013; on pause for now for most of us, working from home opens up endless possibilities when it comes to our work-wardrobe. Think casual cool sweats in bold prints, exaggerated sleeves (perfect for video meetings), or a pair of statement earrings from designers including Reliqua, Aje, Amber Sceats, Acler and Lee Mathews (which are serving up 25% off on a great range of full-priced items). Likewise, if you had previously relegated your denim staples to your weekend wardrobe, make them part of your everyday look and shop up to 25% off a selection of timeless denim pieces from J Brand, Nobody Denim and AGolde. <Node id="1937"/>Take your workout to the next level. If you're like us, you've probably spent a good portion of the past fortnight sporting active-wear and breathable cotton basics. <Node id="2103"/>You may have also realised it's time to invest in a few new pieces to inspire you to whip out the yoga mat, pull on your running shoes or download a fitness app. This VOSN, you can expect to save up to 25% on a great range of full-priced pieces from athleisure brands like P.E. Nation, as well as the newly launched active-wear line C&amp;M by Camilla and Marc<Node id="2459"/>. Happy shopping<Node id="2475"/>."<Node id="2477"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="57">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="61" EndNode="160">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="165" EndNode="580">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="319" EndNode="400">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="674" EndNode="850">
+</Annotation>
+<Annotation Id="6" Type="Mask" StartNode="674" EndNode="850">
+</Annotation>
+<Annotation Id="8" Type="Mask" StartNode="1937" EndNode="2475">
+</Annotation>
+<Annotation Id="9" Type="GoalSub" StartNode="2103" EndNode="2459">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2477">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

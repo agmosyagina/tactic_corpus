@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/148.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>5 ways Country Road is deepening its commitment to a more sustainable future<Node id="77"/>", "<Node id="81"/>The iconic Australian brand is continuing to put practices in place to prioritise sustainability<Node id="177"/>.", "<Node id="182"/>Now, more than ever, is the time to start educating ourselves on where and how our clothes are made. As we enter a new decade, it's important for the health of our planet that we shop sustainably by looking to brands that can tell us the backstory of any given garment. It's an important virtue that Australian heritage label Country Road has made a commitment to as it continues to prioritise sustainable practices. Here are all the ways the beloved brand is making a change<Node id="657"/>. Knowing where resources come from. <Node id="694"/>It's not uncommon for a brand to be unaware of where its clothes are made, given they rely on manufacturers who might not be very transparent<Node id="835"/>. <Node id="837"/>Country Road has made a commitment to improve traceability in its supply chain and work with partners that prioritise more sustainable practices. That means you can be confident about where your T-shirt or trousers were made<Node id="1061"/>. Supporting ethical trade and transparency. Country Road is working to re-evaluate all aspects of its production and supply chain and has now partnered with Oritain, a third party organisation that uses science to determine where the fibre in a garment originates. To this end, the brand has released a Verified Australian Cotton range, with every fibre scientifically mapped back to Australian farms. Pieces to look for in-stores include the adult Heritage Sweats. Having a relationship with Australian farmers. Over the decades, Country Road has cultivated a strong relationship with Australian farmers and its go-to farms across the nation all champion more sustainable farming practices. <Node id="1754"/>The Verified Australian Cotton range helps to promote our hard-working Australian farmers, while the rest of Country Road's ranges work to support better farming practices through the Better Cotton Initiative, organically grown cotton and several other initiatives<Node id="2018"/>. <Node id="2020"/>Making garments that are made to last. It's something that shouldn't be overlooked in the sustainability arena &#x2013; if we buy something that is good quality then we'll have it forever, taking the item out of the landfill cycle. Country Road's commitment to design is centred around beautiful products that are made to last and they use premium fabrics and quality craftsmanship across Woman, Man, Child and Home. <Node id="2430"/>Investing in a Country Road garment is investing in a forever wardrobe piece, which is certainly a more sustainable way to shop<Node id="2557"/>. <Node id="2559"/>Helping bushfire affected communities. Country Road is an Australian brand and following the tragedy of our recent national disaster, they've committed to showing their support for our brave firefighters as well as bushfire affected communities<Node id="2803"/>. The Country Road Group has pledged a donation of $100,000 to the Australian Red Cross' Disaster Relief and Recovery Fund to help affected communities, offered a Foodbank collection in its head office to support Foodbank Victoria's Bushfire Emergency Food Relief Appeal and offered a 'Round Up' service, inviting customers to round up their totals to donate to the Red Cross Disaster Relief and Recovery fund. That's not all &#x2013; on January 15, Country Road will participate in the Australian Open Rally for Relief, creating a limited edition T-shirt printed with tennis player names available for purchase at the event with 100 per cent of proceeds going directly to the bushfire relief via the Australian Red Cross. Read more here."<Node id="3535"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="77">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="81" EndNode="177">
+</Annotation>
+<Annotation Id="3" Type="Motive" StartNode="182" EndNode="657">
+</Annotation>
+<Annotation Id="4" Type="NegLabels" StartNode="694" EndNode="835">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="837" EndNode="1061">
+</Annotation>
+<Annotation Id="6" Type="SamePlatform" StartNode="1754" EndNode="2018">
+</Annotation>
+<Annotation Id="7" Type="PositiveEval" StartNode="2020" EndNode="2557">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="2430" EndNode="2557">
+</Annotation>
+<Annotation Id="9" Type="SamePlatform" StartNode="2559" EndNode="2803">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3535">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

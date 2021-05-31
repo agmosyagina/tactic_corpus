@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/122.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Bally ambassador Violet Grace on curating a seamless, stylish wardrobe<Node id="71"/>", "<Node id="75"/>Should you be stumped for style cues, look to nature. Such was the starting point from which Bally's spring/summer '20/'21 collection, shown in September 2019, evolved<Node id="242"/>. <Node id="244"/>The luxury Swiss fashion house, founded in 1851, proposed a relaxed sensibility to tailoring for the sunnier seasons. This meant a fusion of classic shapes the house is renowned for (think trench coats, trousers, A-line dresses) with unexpected uses of primary pops of colour (said trench coats received a degrade treatment, leather pants were rendered in bright orange and lipstick red hues) to evoke a sense of heat, of holidaying, of taking in the rising or setting sun<Node id="716"/>. It's a joyful approach to classic dressing, tinged with the warmth and nostalgia of summer, that is especially needed now<Node id="839"/>, and one that Sydney-based multi-hyphenate stylist, creative director and model Violet Grace has effortlessly woven into her life<Node id="969"/>. <Node id="971"/>Ahead of Vogue Online Shopping Night presented by American Express, which begins midday Wednesday, April 1 and ends midnight Thursday, April 2, she speaks to Vogue about easily integrating her essential Bally pieces&#x2013;shoppable now with free next-day delivery on all orders&#x2013;into an everyday wardrobe that is simultaneously elegant, practical and fashion-forward, yet is guaranteed to stand the test of time<Node id="1375"/>. "Bally is a brand founded on craftsmanship&#x2013;one of the key elements that drew me to working in fashion in the first place," she admits. "[The house has] a beautiful history (the founder taking inspiration for his shoe designs from the Parisian slippers his wife wore). The brand has a considered feeling to it&#x2013;everything is done with purpose and quality. It is how I personally like to operate and something I align with in my own values." Translating these into her personal style, Violet Grace notes she cannot look past sunglasses, shoes and bags, counting these as staples around which an outfit may then be formed. "I am a self-confessed die-hard fan [of accessories]" she reflects. She declares Bally's Janelle flats a must-have for this season, given their potential for year-round wear and versatility to pair with anything. As for Bally's selection of sunglasses, these have pride of place in Violet Grace's wardrobe. "I subscribe to the idea that no outfit is complete without sunglasses, and at the moment I am adoring metal-rimmed pieces with an old-world feel"&#x2013;a balance she recognises the Swiss house strikes well, naming the Herbie frames a favourite of the season. And as for her bag of choice? She says: "I particularly love the Jorah handbag with the oversize buckle." With these accessories in mind as perfect counterparts to her outfit, the stylist-slash-creative director and model has her eyes on Bally's statement outerwear pieces. "A leather or suede trench [coat] is a key wardrobe staple... I am particularly smitten with the Bally suede degrade trench coat in mandarin. It is a classic piece made more contemporary with a dip-die/ombre feel." <Node id="3046"/>She continues: "I [also] love the long shearling vest with thin tubular leather belt in bone from Bally, it's another one to add to my wish list."<Node id="3192"/> <Node id="3193"/>Excuse us while we do the same<Node id="3223"/>."<Node id="3225"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="1" EndNode="71">
+</Annotation>
+<Annotation Id="2" Type="EvalTransfer" StartNode="75" EndNode="242">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="75" EndNode="242">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="244" EndNode="969">
+</Annotation>
+<Annotation Id="5" Type="EvalTransfer" StartNode="244" EndNode="716">
+</Annotation>
+<Annotation Id="6" Type="EmotionalSetup" StartNode="244" EndNode="839">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="971" EndNode="1375">
+</Annotation>
+<Annotation Id="8" Type="RefAuthority" StartNode="3046" EndNode="3192">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="3193" EndNode="3223">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3225">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

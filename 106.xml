@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/106.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>How this Billy Blue College of Design graduate unites design and tech in the real world<Node id="88"/>", "<Node id="92"/>Billy Blue College of Design at Torrens University Australia graduate, Jade Krug, details how her tertiary education translated to real-world success<Node id="241"/>.", "<Node id="246"/>As any student will attest, when studying in your chosen field at college or university, there's always a hint of apprehension about the prospect of finding a job you love that puts your education into practice. Will I be able to translate these skills from classroom to meeting room? Is everything I've learnt during the past few years going to apply in a real-world scenario? For Jade Krug, who graduated with a Bachelor of Digital Media Design from Billy Blue College of Design at Torrens University Australia, the answer was simple<Node id="781"/>. "I was ready to enter the real world upon commencing my degree and believe I was equipped with the right skills to begin my career," says Krug, who since graduating has worked for global companies at home and abroad. <Node id="1000"/>"When it came to studying at Billy Blue, I knew instantly that this degree would allow me to enter the digital world with an understanding of research, user experience and behaviour, psychology, innovation, interface design and experience design. It helps going into your first job with the skills and the desire to grow."<Node id="1322"/> Career growth for Krug has been swift. Soon after graduation she entered the tech world working in London at international fashion brand Burberry. Here, Krug was tasked with designing the brand's monogramming functionality. Since returning to Australia, she has taken up a  product designer role at Woolworths Group, working on the Scan&amp;Go app which utilises technology to make the shopping experience seamless. Like many of her fellow Billy Blue alumni, her career trajectory has been in step with her graduation goals. "While studying, I always imagined I'd work for world-renowned tech companies," she explains. "Given my determined nature and ambitious personality, I've really tried to maintain that trajectory and focus on those goals." <Node id="2066"/>While Krug has transitioned seamlessly into the technology-based workforce, many of her fellow classmates have pursued their own design businesses, with entrepreneurship at the heart of many Billy Blue courses<Node id="2275"/>. Moreover, for those looking to take their designs skills to the next level and advance into senior positions in the design industry, Billy Blue also offers accelerated post-graduate courses spanning a number of disciplines including design, developing, technology and programming. <Node id="2558"/>Post-graduate or otherwise, Billy Blue celebrates innovation and creativity in education to set its students up for real-world success<Node id="2692"/>. Krug is proof: "Studying at Billy Blue allowed me to pursue my goals by covering all required theory and practices of design and offering a career-specific subject at the end of our degree to assist us in building our portfolios and career paths.""<Node id="2942"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefWitness" StartNode="1" EndNode="88">
+</Annotation>
+<Annotation Id="2" Type="RefWitness" StartNode="92" EndNode="241">
+</Annotation>
+<Annotation Id="3" Type="Motive" StartNode="246" EndNode="781">
+</Annotation>
+<Annotation Id="4" Type="RefWitness" StartNode="1000" EndNode="1322">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="1000" EndNode="1322">
+</Annotation>
+<Annotation Id="6" Type="RefWitness" StartNode="2066" EndNode="2275">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="2558" EndNode="2692">
+</Annotation>
+<Annotation Id="8" Type="EmotionalSetup" StartNode="2558" EndNode="2692">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2942">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

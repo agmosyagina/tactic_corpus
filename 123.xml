@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/123.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>Cosette is changing the way we shop for accessories, one It-bag at a time<Node id="74"/>", "<Node id="78"/>There are lots of great things about living in Australia, but access to new season fashion can occasionally prove to be more tedious than it is for our friends in the northern hemisphere. At least, that's how it was before Cosette came along. Founded on the principle of making luxury more accessible, the multi-brand boutique partners with international buyers in to bring Australian women (just like us!) the season's most coveted accessories as soon as they hit European and American stores<Node id="571"/>. <Node id="573"/>It's only natural, then, that perusing Cosette's sprawling online store has become one of our favourite past times. Even if we're not looking to splash out on a new Saint Laurent Sac de Jour or pair of Dior frames, browsing through Cosette's new arrivals page is like getting a lesson on what's trending right now, and what's set to be trending in the future<Node id="931"/>. <Node id="933"/>So then, when contemplating what autumnal accessories we'll be adding to our bag this Vogue Online Shopping Night, we dropped the Cosette team a line to see what pieces are set to make a splash as summer draws to a close<Node id="1153"/>. "We think focussing on well-established aesthetics with an innovative twist will be big this season," says Laura Kuperty, Cosette's chic social media coordinator. For example, Saint Laurent's quilted leather bags are iconic, but opting for a quilted style in a maxi or mini proportion (Kuperty recommends Saint-Laurent's LouLou Puffer Bag) is one clever way to freshen up a classic. Cosette has also seen the popularity of neutral, earthy tones rise. "Camel, ivory, white, dark green, nude and powder pink are within the most sought-afters for autumn," suggests Kuperty. She explains that after seasons of logo-heavy hardware dominating bags, Australian women have shifted to embrace a more pared-back, simplistic aesthetic. The Celine Classic Box is one example. "Very Parisian-like," says Kuperty. We can dream. In terms of shades, Cosette expect the cat eye silhouette and '90s-inspired shrunken oval-shaped styles to stick around, so don't get rid of your Matrix peepers just yet. And while it goes without saying that shopping during the coronavirus pandemic can feel a little at odds with the state of the world, now more than ever, it's important to think about the retailers we're supporting, as well as the longevity and lifespan of the pieces we invest in. Acknowledging this, Kuperty suggests looking to timeless options like the Prada Cahier, Celine 16 or the Gucci Marmont &#x2013; three styles that have proven to increase in value over time. <Node id="2605"/>"Accessories have this way of revealing your personality the way words can't," says Kuperty. "It's not a coincidence if you choose Prada over Chloe or vice versa; it just shows who you are."<Node id="2795"/> <Node id="2796"/>As we watch the world change in real time, possessing a physical reminder of who we are and what we like feels more and more important<Node id="2930"/>. We'll be searching for ours this Vogue Online Shopping Night at Cosette<Node id="3003"/>."<Node id="3005"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="SamePlatform" StartNode="1" EndNode="74">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="1" EndNode="74">
+</Annotation>
+<Annotation Id="3" Type="SamePlatform" StartNode="78" EndNode="571">
+</Annotation>
+<Annotation Id="6" Type="BeforeAfter" StartNode="78" EndNode="571">
+</Annotation>
+<Annotation Id="7" Type="Mask" StartNode="573" EndNode="931">
+</Annotation>
+<Annotation Id="8" Type="RefAuthority" StartNode="933" EndNode="1153">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="2605" EndNode="3003">
+</Annotation>
+<Annotation Id="10" Type="RefAuthority" StartNode="2605" EndNode="2795">
+</Annotation>
+<Annotation Id="11" Type="AdvTeam" StartNode="2605" EndNode="2930">
+</Annotation>
+<Annotation Id="12" Type="GoalSub" StartNode="2796" EndNode="2930">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3005">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

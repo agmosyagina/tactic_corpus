@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/125.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Why marine collagen gives you glowing skin", "The new trend in beauty is all about ingestibles and a radiant complexion is only one of the benefits.", "Collagen, as the most abundant protein in the human body, is the structural framework of your skin. It's also essential to the strength of other components of the body too, like bones, muscles, joints and tendons. While collagen exists in the body naturally, like a lot of things, the rate of production of this protein slows by 2% every year until stopping altogether. There's a decline at around 25 to 30 years of age, which shows up on skin. Factors such as sun exposure, diet and pollution all affect the rate of collagen breakdown too. The result can be fine lines, brittle nails, thinning hair and a general reduction in plumpness and radiance. Commitment to an effective skincare regimen is important, but because beauty really does start from the inside, supplementation, via high-performance marine collagen, has an even greater impact. Clinical studies have proven its efficacy in replenishing natural collagen levels and stimulating fibroblast proliferation. Marine collagen, the most bio-available and therefore rapidly absorbed form of collagen supplementation, revives healthy skin function by getting key amino acids to it, fast. <Node id="1298"/>Replenishing your collagen levels helps boost the building blocks that maintain skin, hair and nails. Taken daily, research shows marine collagen combats signs of ageing by plumping fine lines, improving skin elasticity, firmness, moisture and hydration. It also enhances hair and nail health, encouraging growth and promoting shine<Node id="1630"/>. <Node id="1632"/>And because you're ingesting protein, supplementing with marine collagen can also help curb sugar and carbohydrate cravings<Node id="1755"/>. Vida Glow's Marine Collagen is a natural, clinically proven collagen peptide powder sustainably derived from the scales of wild ocean fish. The collagen in the scales is hydrolysed (broken down into smaller, bio-available amino acid chains) in France, and the powder is made in Australia under only the most rigorous quality standards. It's also a low molecular weight, which means it's absorbed by the body more efficiently. It's also why the suggested dosage for Vida Glow Marine Collagen can be lower than other forms of the powder<Node id="2291"/>. <Node id="2293"/>In double-blind clinical studies conducted by dermatologists, subjects taking Vida Glow Marine Collagen saw a significant increase in skin firmness, hydration, a reduction in wrinkles and an improvement in skin radiance and tone<Node id="2521"/>. Of course, consistency is key if you want to maximise the beauty-boosting benefits that comes with a quality marine collagen. The original formula is flavourless, but there's also blueberry, mango, pineapple, peach, cranberry and lime, and mocha versions too. <Node id="2783"/>Vida Glow's Marine Collagen can be taken with water, or mixed into drinks. One to three scoops or sachets a day brings a glow from within, shinier hair, stronger nails and healthier joints &#x2013; a wellness quadruple threat<Node id="3001"/>."<Node id="3003"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="GoalSub" StartNode="1298" EndNode="1630">
+</Annotation>
+<Annotation Id="2" Type="PositiveEval" StartNode="1632" EndNode="2291">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="1632" EndNode="1755">
+</Annotation>
+<Annotation Id="4" Type="AbstrStats" StartNode="2293" EndNode="2521">
+</Annotation>
+<Annotation Id="5" Type="GoalSub" StartNode="2783" EndNode="3001">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3003">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

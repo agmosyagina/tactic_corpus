@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/119.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Gisele Bundchen shares her 4 beauty lessons for living a conscious life", "<Node id="76"/>Brazilian supermodel  and activist Gisele Bundchen has always been beautiful, inside and out. Now, she shares with Dior Beauty why her mantra is all about living with intention<Node id="252"/>.", ""Beauty is everywhere," declares 39-year-old Brazilian supermodel and activist Gisele Bundchen. "And I think when we can see that, it brings us so much joy that it makes us feel more beautiful too." Bundchen is known the world over for her beauty but at its very essence, this is her secret"she searches for the beauty in others and the world which in turn means she sees the beauty in herself too. It's no wonder Dior Beauty tapped the model as the face for the relaunch of the Capture Totale skincare range. Here, Bundchen shares her four lessons for living a conscious life. Lesson one: beauty starts with nature. <Node id="874"/>For Bundchen, it all begins with nature. "Being in the middle of nature brings me such joy and brings me such balance," she shares. "Its energy is so vibrant and positive that anytime I want to be stressed there's nothing like being in nature."<Node id="1118"/> <Node id="1119"/>It's a value that aligns her well with Capture Totale, the French maison's skincare range dedicated to the harmony between science and naturality. Developed after years of research, the French House's love affair with nature is reflected in the ingredients.  For instance, Dior's Capture Totale Super Potent Serum's ingredients are 91 per cent naturally derived, and the formula is instilled with the benefits of four exceptional flowers, picked for their extraordinary regenerative power after screening 1667 flower ingredients: Madagascan Longoza, Chinese Peony, White Lily and Chinese Jasmine<Node id="1714"/>. Lesson two: it's all about balance. A lesson it took Bundchen a little while to learn was the benefits of balance, and the reward of converting intentions into actions. With the fast-paced jet-setting lifestyle of a supermodel, Bundchen experienced anxiety, something she personally overcame by changing her life. "When I was in my early 20's I experienced panic attacks and I felt like my world kept getting smaller and smaller," she says. "That was the moment for me that I realised I had to change some of my habits." She says she "started a whole new life," one committed to her health. <Node id="2307"/>Lesson three: notice the energy around you. We already know that it's important to watch what we put in our body but Bundchen's advice is to extend that consciousness to the rest of your life&#x2013;what are we consuming, what kind of people do we want to be around and of course, what are we putting on our skin? "All of that creates a vibration in ourselves that either expands within us, that radiates beauty and life, or the opposite."<Node id="2739"/> <Node id="2740"/>With a combination of science and nature, Dior's Capture Totale Super Potent Serum is a product that celebrates this perfect balance, working to boost radiance, minimise key signs of ageing and hydrate the skin with an advanced hyaluronic acid, leaving skin with a healthy-looking, happy glow<Node id="3032"/>. Like Bundchen says, "beauty is so much of a combination," highlighting that conscious beauty requires an approach that acknowledges wellness both inside and out. Lesson four: learn to focus through meditation. Bundchen has long-appreciated the connection between body and mind because, as she says, "all of it is connected." Following her discovery of meditation, she is an inviolable advocate for its benefits and ability to bring clarity to her life, as mentioned in her book Lessons: My Path to a Meaningful Life. For Bundchen, it's about centreing her focus on what's really important&#x2013;you. She adds: "Seeing your body as your temple, because that's what it is. Beauty can just come from within then.""<Node id="3739"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefAuthority" StartNode="76" EndNode="252">
+</Annotation>
+<Annotation Id="2" Type="RefAuthority" StartNode="874" EndNode="1118">
+</Annotation>
+<Annotation Id="3" Type="EvalTransfer" StartNode="874" EndNode="1714">
+</Annotation>
+<Annotation Id="4" Type="PositiveEval" StartNode="1119" EndNode="1714">
+</Annotation>
+<Annotation Id="6" Type="EvalTransfer" StartNode="2740" EndNode="3032">
+</Annotation>
+<Annotation Id="7" Type="RefAuthority" StartNode="2307" EndNode="2739">
+</Annotation>
+<Annotation Id="8" Type="PositiveEval" StartNode="2740" EndNode="3032">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3739">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

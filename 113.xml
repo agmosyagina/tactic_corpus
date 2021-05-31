@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/113.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>How this design school graduate studied to stand out, not fit in<Node id="65"/>", "<Node id="69"/>And all the other (valuable) lessons she learnt studying at Billy Blue<Node id="139"/>.", "British-born Alexandra Stanley-Dower was on a working holiday in Australia, in the midst of her visa's compulsory farm work, when she realised her real passion lies in interior design. On a property in rural Queensland, without friends, family or WiFi, and after a career already spent in event management and hospitality, she enrolled in a Bachelor of Interior Design (Commercial) at Billy Blue College of Design at Torrens University Australia. "Working in event management and hospitality gave me great insight into how people like to enjoy their time and what's important when they're socialising," she tells Vogue. "I also understand what it's like to work in a variety of commercial spaces, taking note of the layouts that work well and the elements that introduce a memorable atmosphere." The Billy Blue course equipped her with all the nous she needed to put together the ideal spaces for people to come together &#x2013; something that's now more than just a vocation for her. "I feel like I have a calling to create interior spaces which inspire and delight," she says.  "I've always been drawn to stimulating, trend-setting environments &#x2013; I'm now qualified to create them." Stanley-Dower chose Billy Blue largely for the wealth of real-world experience found in the CVs of the instructors and teachers at the school. "Billy Blue stood out for me because the teachers work or have worked in the industry, so it gave me confidence that I would be gaining more insight into how things are really done. Many of the lecturers are from overseas, so each class tends to incorporate some of their international knowledge," she adds. As Stanley-Dower joins a truly global workforce in design, she enters it equipped with the knowledge that design crosses cultures and borders. As she regularly saw demonstrated during her time at Billy Blue, a great designer can work from anywhere. Travel is a valuable learning for someone starting the kind of career which can see them work, collaborate in or even just be inspired by any and all corners of the world. She always had a love for travel, but the Billy Blue experience demonstrated how integral it was to inspiration. "Growing up in London has given me a good understanding that travel is the best way to experience things that you didn't even know existed," she explains. "There will never be a trip overseas that won't offer some source of inspiration. And that will be a priority for me throughout my future career." <Node id="2609"/>An annual international design trip, offered as part of the course, took Alexandra to Morocco, on an adventure she says will remain with her always. "It was a feast for the senses, and I still have dreams about the time spent there," she says<Node id="2851"/>. When she's not designing beautiful commercial spaces, Stanley-Dower is also at work on her own art. She argues that art is not just something to look at, but something that has the capacity to determine the energy a space gives off too. "Art can be such a powerful accessory," she says. "When art is integrated into a design scheme, it's more about the energy of the piece and its colour. I have always enjoyed creating pieces of art that can be hung proudly &#x2013; I paint and draw exclusively what I love." The young designer has grand plans to make excellent use of her Billy Blue qualifications. "Good commercial interior design can transport the user into another state of mind," she tells Vogue. "It's all about providing subliminal fantasy which evokes an intentional emotion. Great commercial interior design encourages the user to feel at home, to feel inspired, to feel powerful, to feel like they have been a part of something special." The recent-graduate (Stanley-Dower is from the class of 2019 when she delivered the student address at graduation) studied as an international student, which only pushed her to exceed the expectations laid out by her degree. <Node id="4021"/>So far, the future is looking bright. "Billy Blue encourages you to shape yourself into the designer you are striving to be," she says proudly. "They ask challenging questions to promote growth and inspire you to push boundaries you weren't aware that you had. "They want you to stand out, not fit in," she adds<Node id="4332"/>."<Node id="4334"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="RefWitness" StartNode="1" EndNode="65">
+</Annotation>
+<Annotation Id="2" Type="EmotionalSetup" StartNode="69" EndNode="139">
+</Annotation>
+<Annotation Id="3" Type="EmotionalSetup" StartNode="1" EndNode="65">
+</Annotation>
+<Annotation Id="4" Type="Mask" StartNode="69" EndNode="139">
+</Annotation>
+<Annotation Id="5" Type="RefWitness" StartNode="2609" EndNode="2851">
+</Annotation>
+<Annotation Id="6" Type="EmotionalSetup" StartNode="2609" EndNode="2851">
+</Annotation>
+<Annotation Id="7" Type="RefWitness" StartNode="4021" EndNode="4332">
+</Annotation>
+<Annotation Id="8" Type="GoalSub" StartNode="4021" EndNode="4332">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4334">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

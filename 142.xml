@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/142.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Bella Hadid, Gigi Hadid and Kendall Jenner star in Burberry's spring/summer 2020 campaign", "The three supermodel friends have been handpicked by Riccardo Tisci for his latest campaign.", "Supermodels, best friends and ultimate cool-girls Bella Hadid, Gigi Hadid and Kendall Jenner have been revealed as the stars of Burberry's latest campaign. Riccardo Tisci, Burberry chief creative officer, tapped the modern models as the perfect muses to showcase his spring/summer 2020 campaign, which was originally shown in London last September. Jenner and the Hadids star alongside veteran Danish supermodel Freja Beha Erichsen as well as Benji Arvay, He Cong, Nozomu Ito, Reece Nelson, Tosin Olajire, Rianne van Rompaey and Mona Tougaard. Keeping it simple for spring/summer 2020, the models were shot against a backdrop of Burberry beige, in order to hero the brand's hero pieces this season. Shot by eminent fashion photographer duo Inez and Vinoodh, the campaign images include a shot of Kendall staring down the lens, with a Burberry TB Bag hanging around her neck, the piece first introduced at Tisci's debut collection for Burberry. A shot of all three supermodels puts the classic Burberry trench coat in the spotlight, with Bella flanked by Gigi and Kendall. The campaign also celebrates Tisci's signature bags for Burberry. Along with the TB Bag, which comes in a range of colours, styles and sizes this season, the Lola Bag features prominently. A softly structured bag that was first spotted on the spring/summer 2020 runway, it's crafted from Italian-tanned lambskin and woven tweed, featuring the Thomas Burberry Monogram. Tisci has also presented a bag inspired by the brand's archives, called the Pocket Bag, which is a two-tone canvas piece featuring one of Burberry's iconic codes, the Horseferry print. "It is always one of my biggest honours to work with a friend like Riccardo," Bella Hadid told Vogue Australia exclusively, of working on the campaign. "He took me under his high fashion wing when I was young and now to be able to work with him again for Burberry is a blessing." On shooting the campaign, Bella shared there was the "best energy" on set, which perhaps explains why the attitude in the images is so strong. "We are always laughing and it never feels like a work day with him," she said of working with Riccardo Tisci. "He always knows exactly what look is perfect for each girl and that is why he is the designer that he is. He knows how to bring out the best in all of us. Gi and I always have the best time working together, but we feel so lucky to be able to work in a space with Inez, Vinoodh and Riccardo." Bella added: "I love this campaign so much, thank you to the Burberry team and most of all, my Riccardo for this beautiful campaign." <Node id="2778"/>Scroll through to see Vogue's must-have bags from the Burberry spring/summer 2020 collection<Node id="2870"/>."<Node id="2872"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="2778" EndNode="2870">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2872">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

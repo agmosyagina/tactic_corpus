@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/140.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"<Node id="1"/>These are the sustainable beauty brands you need to shop now at David Jones<Node id="76"/>", "<Node id="80"/>Are you shopping consciously?<Node id="109"/>", "<Node id="113"/>From where ingredients are grown and how they are harvested, to brands minimising their carbon footprint, there are a number of things to consider before shopping for a new cleanser or moisturiser. So in an effort to ensure ease when making conscious beauty choices, David Jones is stocking brands that do their best to make a positive impact on the environment<Node id="474"/>. In support of this, David Jones is working closely with its partners to eliminate products containing microbeads from its shelves. The move to eliminate microbeads from beauty products is a significant one, given that these small yet solid plastic particles fail to dissolve or degrade in water, and often lend to incredibly damaging effects on marine life, human health and the environment as a whole. On top of that, David Jones is working towards banning single-use wipes by 2021. Now, the department store is providing consumers the ability to shop brands such as Dr. Bronner's and WelleCo, as they commit to using recyclable packaging, or providing much-needed refill options. <Node id="1158"/>Knowing where the ingredients in the products you purchase are grown and harvested is an important part of ensuring what you buy reflects your values. For example, Jurlique utilises biodynamic and organic farming methods in order to work towards sustainable development. The skincare brand also initiated an annual Tree Planting Day and has planted over 12,000 native trees to help offset their carbon footprint<Node id="1569"/>. The environmental importance of the bee has also been acknowledged by many brands in the industry who have pledged to help protect the species, given that it is now under threat.  Iconic brand Guerlain whose house symbol is the bee, has leveraged the benefits of honey in its innovative skincare range, Abeille Royale. They have also launched Bee Respect, an initiative that allows its shoppers to trace the origins of its products, "from the flower field to stores". In addition, it has joined forces with UNESCO to promote the training and support of beekeepers and the transmission of their knowledge across the world. <Node id="2193"/>Dermalogica has committed to the goal of being 90 per cent recyclable<Node id="2262"/>, <Node id="2264"/>and Kora Organics is proudly Australian owned and certified organic<Node id="2331"/>. Both brands have recognised the importance of being cruelty-free, and neither create products that contain artificial colours, fragrances or parabens. <Node id="2484"/>Another important brand to highlight is Grown Alchemist, a certified organic and cruelty-free skincare brand that has been awarded the prestigious Butterfly Mark by demonstrating their positive social and environmental impact<Node id="2709"/>. <Node id="2711"/>So next time you're in the market for a new beauty product, know that when you shop at David Jones there will be a brand that meets your values<Node id="2854"/>."<Node id="2856"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="Mask" StartNode="1" EndNode="76">
+</Annotation>
+<Annotation Id="2" Type="Mask" StartNode="80" EndNode="109">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="113" EndNode="474">
+</Annotation>
+<Annotation Id="4" Type="GoalSub" StartNode="113" EndNode="474">
+</Annotation>
+<Annotation Id="5" Type="AdvTeam" StartNode="1158" EndNode="1569">
+</Annotation>
+<Annotation Id="6" Type="AbstrStats" StartNode="2193" EndNode="2262">
+</Annotation>
+<Annotation Id="7" Type="RefAward" StartNode="2264" EndNode="2331">
+</Annotation>
+<Annotation Id="8" Type="RefAward" StartNode="2484" EndNode="2709">
+</Annotation>
+<Annotation Id="9" Type="Mask" StartNode="2711" EndNode="2854">
+</Annotation>
+<Annotation Id="10" Type="AdvTeam" StartNode="2711" EndNode="2854">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2856">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

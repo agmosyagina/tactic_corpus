@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mosya/Desktop/&#x412;&#x41a;&#x420;/&#x43c;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43b;%20&#x43f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x435;&#x43d;&#x43d;&#x44b;&#x439;/100.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>"Inside an interior influencer's gorgeous Byron Bay home", "Sustainability isn't just a buzzword anymore. <Node id="106"/>In 2020, taking meaningful actions to help the environment has become standard practice &#x2013; and brands who aren't conforming will be left behind<Node id="248"/>. <Node id="250"/>Enter TENCEL and Koala. Both TENCEL and Koala take environmental considerations very seriously &#x2013; so much so that they've teamed up to make sheets and their mattress and pillow covers are made mainly from eucalyptus. And not only are they good for the environment, but they look and feel great too. Not to mention the breathability that helps the product last<Node id="608"/>. <Node id="610"/>Byron Bay-based influencer and swimwear designer Olive Cooke is one VL muse who has embraced sleeping with sustainable sheets. Her home, which we visited in Byron, is packed with found objects and beautiful keepsakes &#x2013; things she'll have forever<Node id="855"/>. "Everything I do, and choose, is governed by a connection to the environment. In business, in how I collaborate, how I shop, in my home. I need to know where it's from. But more than that &#x2013; I want to know how it got here," Cooke says of her design considerations in our video tour of her space. "Fibres from natural sources [are important], of course, but there are more considerations than that &#x2013; like whether it's sustainably and ethically manufactured. Conscious choices need to include a social impact too. It's not only about what it's made of." Describing her style as "eclectic minimalism", Cooke's home has hints of the 60s and 70s mixed in with contemporary pieces. Neutral tones suit the beachside location, and wooden accents give it a grounded look fitting for the home's location. "It connects a lot with my travels... things that remind us of places that we've been and would like to go back to one day," she notes of the decor, which is unique to Cooke's own personal taste &#x2013; the way a home should be. <Node id="1874"/>In the bedroom, Cooke looks to Koala's TENCEL-based sheets for a good nights sleep. From the mattress case right down to the pillowcases and sheets, Cooke trusts in the local brand to rest her head. Smooth and cosy, TENCEL Lyocell fibers are mainly sourced from sustainable eucalyptus forests before being spun by TENCEL in a closed-loop production process that reuses 99 per cent of organic solvents. Did we mention the trees are grown in FSC-certification or PEFC-certified forests? To top it off, the finished product is super-smooth with enhanced breathability. "The fibres are strong, so they last and last, and yet they're somehow really soft and gentle on your skin. Because it's entirely natural, it's all so breathable and comfortable on the bed too," Cooke says<Node id="2645"/>. Watch the whole video above for a look inside Cooke's picture-perfect home. Visit: TENCEL https://www.tencel.com/feels-so-right/koala Koala.com https://au.koala.com/bedroom"<Node id="2820"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Tactics">
+<Annotation Id="1" Type="NegLabels" StartNode="106" EndNode="248">
+</Annotation>
+<Annotation Id="2" Type="PositiveEval" StartNode="250" EndNode="608">
+</Annotation>
+<Annotation Id="3" Type="Mask" StartNode="250" EndNode="608">
+</Annotation>
+<Annotation Id="4" Type="RefAuthority" StartNode="610" EndNode="855">
+</Annotation>
+<Annotation Id="5" Type="PositiveEval" StartNode="1874" EndNode="2645">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2820">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
